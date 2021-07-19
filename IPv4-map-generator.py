@@ -1,7 +1,10 @@
 import os
-import pygame
+#import pygame
 import sys
 from datetime import datetime
+from PIL import Image
+from PIL import ImageDraw
+from PIL import ImageFont
 
 
 cleanedCnt = 0
@@ -37,7 +40,7 @@ def main():
     global timeStr
     timeStr = str(now.strftime("%Y-%B-%d_%H:%M"))
     dispSetup(top10Worst8, top10Total)
-    pygameHilbert(worst8, mal8)
+    pilHilbert(worst8, mal8)
 
 
 def dispSetup(worst8, topIPs):
@@ -58,7 +61,7 @@ def dispSetup(worst8, topIPs):
         rplStr = rplStr.replace("rplc8rng", worst8[8][0])
         rplStr = rplStr.replace("rplc9rng", worst8[9][0])
 #        ipStrs = getIPStrs(topIPs)
-        rplStr = rplStr.replace("rplc0ip", topIPs[0][0])
+        rplStr = rplStr.replace("rplc0ip", topIPs[0][0])#!!! defang IPs
         rplStr = rplStr.replace("rplc1ip", topIPs[1][0])
         rplStr = rplStr.replace("rplc2ip", topIPs[2][0])
         rplStr = rplStr.replace("rplc3ip", topIPs[3][0])
@@ -146,35 +149,24 @@ def getSlash(ipList, deg):
     return worstDeg
 
 
-def pygameHilbert(worst, mal):
-    print("pygame may cause program to crash on some systems - work in progress")
-    pygame.init()
-    screen = pygame.display.set_mode((60*16, 60*16))
-    rows = [[0, 1, 14, 15, 16, 19, 20, 21, 234, 235, 236, 239, 240, 241, 254, 255], [3, 2, 13, 12, 17, 18, 23, 22, 233, 232, 237, 238, 243, 242, 253, 252], [4, 7, 8, 11, 30, 29, 24, 25, 230, 231, 226, 225, 244, 247, 248, 251], [5, 6, 9, 10, 31, 28, 27, 26, 229, 228, 227, 224, 245, 246, 249, 250], [58, 57, 54, 53, 32, 35, 36, 37, 218, 219, 220, 223, 202, 201, 198, 197], [59, 56, 55, 52, 33, 34, 39, 38, 217, 216, 221, 222, 203, 200, 199, 196], [60, 61, 50, 51, 46, 45, 40, 41, 214, 215, 210, 209, 204, 205, 194, 195], [63, 62, 49, 48, 47, 44, 43, 42, 213, 212, 211, 208, 207, 206, 193, 192], [64, 67, 68, 69, 122, 123, 124, 127, 128, 131, 132, 133, 186, 187, 188, 191], [65, 66, 71, 70, 121, 120, 125, 126, 129, 130, 135, 134, 185, 184, 189, 190], [78, 77, 72, 73, 118, 119, 114, 113, 142, 141, 136, 137, 182, 183, 178, 177], [79, 76, 75, 74, 117, 116, 115, 112, 143, 140, 139, 138, 181, 180, 179, 176], [80, 81, 94, 95, 96, 97, 110, 111, 144, 145, 158, 159, 160, 161, 174, 175], [83, 82, 93, 92, 99, 98, 109, 108, 147, 146, 157, 156, 163, 162, 173, 172], [84, 87, 88, 91, 100, 103, 104, 107, 148, 151, 152, 155, 164, 167, 168, 171], [85, 86, 89, 90, 101, 102, 105, 106, 149, 150, 153, 154, 165, 166, 169, 170]]#This is not efficient programming, I am well aware. I tried the prettier algorithms but I gave up after trying and failing too much
-    DARKGRAY = (36, 36, 36)
+def pilHilbert(worst, mal): #alternative to Pygame
+    boxSize = 60
     WHITE = (255, 255, 255)
-    screen.fill(WHITE)
-    fill16x16(60, worst, mal, screen, rows)
-    draw16x16(60, 2, DARKGRAY, screen)#overlay the nice gray
-    mapName = timeStr + ".jpg"
-    pygame.image.save(screen, mapName)
+    DARKGRAY = (36, 36, 36)
+    img = Image.new(mode = "RGB", size = (boxSize*16, boxSize*16), color = WHITE)
+    rows = [[0, 1, 14, 15, 16, 19, 20, 21, 234, 235, 236, 239, 240, 241, 254, 255], [3, 2, 13, 12, 17, 18, 23, 22, 233, 232, 237, 238, 243, 242, 253, 252], [4, 7, 8, 11, 30, 29, 24, 25, 230, 231, 226, 225, 244, 247, 248, 251], [5, 6, 9, 10, 31, 28, 27, 26, 229, 228, 227, 224, 245, 246, 249, 250], [58, 57, 54, 53, 32, 35, 36, 37, 218, 219, 220, 223, 202, 201, 198, 197], [59, 56, 55, 52, 33, 34, 39, 38, 217, 216, 221, 222, 203, 200, 199, 196], [60, 61, 50, 51, 46, 45, 40, 41, 214, 215, 210, 209, 204, 205, 194, 195], [63, 62, 49, 48, 47, 44, 43, 42, 213, 212, 211, 208, 207, 206, 193, 192], [64, 67, 68, 69, 122, 123, 124, 127, 128, 131, 132, 133, 186, 187, 188, 191], [65, 66, 71, 70, 121, 120, 125, 126, 129, 130, 135, 134, 185, 184, 189, 190], [78, 77, 72, 73, 118, 119, 114, 113, 142, 141, 136, 137, 182, 183, 178, 177], [79, 76, 75, 74, 117, 116, 115, 112, 143, 140, 139, 138, 181, 180, 179, 176], [80, 81, 94, 95, 96, 97, 110, 111, 144, 145, 158, 159, 160, 161, 174, 175], [83, 82, 93, 92, 99, 98, 109, 108, 147, 146, 157, 156, 163, 162, 173, 172], [84, 87, 88, 91, 100, 103, 104, 107, 148, 151, 152, 155, 164, 167, 168, 171], [85, 86, 89, 90, 101, 102, 105, 106, 149, 150, 153, 154, 165, 166, 169, 170]]#This is not efficient programming, I am well aware. I tried the prettier algorithms but I gave up
+    img = fill16x16(boxSize, worst, mal, rows, img)
+    img = overlayGrid(boxSize, img)
+    imgName = timeStr + ".jpg"
+    img.save(imgName)
 
 
-def draw16x16(boxSize, space, color, screen):
-    for x in range(16):
-        for y in range(16):
-            myRect = pygame.Rect(x*boxSize, y*boxSize, boxSize, boxSize)
-            pygame.draw.rect(screen, color, myRect, space)
-
-
-def fill16x16(boxSize, worst, mal, screen, rows):
-    c2Weight = 6 #try to keep x4 larger than malWeight
-    malWeight = 1.5
-    worst = populate(worst)
+def fill16x16(boxSize, c2, mal, rows, img):
+    c2Weight = 6 #try to keep x2 larger than malWeight
+    malWeight = 3
+    c2 = populate(c2)
     mal = populate(mal)
-    masterCnt = 0
-    usedCnt = 0
-    myfont = pygame.font.SysFont("Liberation Sans Narrow", 30)
+    draw = ImageDraw.Draw(img)
     for y in range(16):
         row = rows[y]
         for x in range(16):
@@ -182,29 +174,39 @@ def fill16x16(boxSize, worst, mal, screen, rows):
             thisGreen = 255
             thisBlue = 255
             wantedVal = row[x]
-            badVal = grabBad(wantedVal, worst)
-            malVal = grabBad(wantedVal, mal)
-            if((len(badVal) == 2) or (len(malVal) == 2)):
+            c2Val = grabBad(wantedVal, c2)
+            malVal = grabBad(wantedVal, c2)
+            if((len(c2Val) == 2) or (len(malVal) == 2)):
                 redness = 0
                 yellowness = 0
-                if(len(badVal) == 2):
-                    redness = badVal[1] * c2Weight
-                thisBlue = thisBlue - redness
-                thisGreen = thisGreen - redness
+                if(len(c2Val) == 2):
+                    redness = c2Val[1] * c2Weight
+                    thisGreen = thisGreen - redness
+                    thisBlue = thisBlue - redness
                 if(len(malVal) == 2):
-                    yellowness = malVal[1]
-                    yellowness = yellowness * malWeight
-                thisBlue = thisBlue - yellowness
+                    yellowness = malVal[1] * malWeight
+                    thisBlue = thisBlue - yellowness
                 if(thisGreen < 0):
                     thisGreen = 0
                 if(thisBlue < 0):
                     thisBlue = 0
             color = (thisRed, thisGreen, thisBlue)
-            myRect = pygame.Rect(x*boxSize, y*boxSize, boxSize, boxSize)
-            pygame.draw.rect(screen, color, myRect, 0)
-            label = myfont.render(str(wantedVal), 1, (0, 0, 0))
-            screen.blit(label, ((x*boxSize)+6, y*boxSize))
-            masterCnt = masterCnt + 1
+            square = (x*boxSize, y*boxSize, (x+1)*boxSize, (y+1)*boxSize)
+            img.paste(color, square)
+            libserif = ImageFont.truetype("LiberationSerif-Regular.ttf", 30)
+            draw.text(((x*boxSize + 4), y*boxSize), str(wantedVal), font=libserif, fill=(0,0,0))
+    return img
+
+
+def overlayGrid(boxSize, img):
+    DARKGRAY = (36, 36, 36)
+    for x in range(16):
+        line = (x*boxSize, 0, (x*boxSize + 2), 16*boxSize)
+        img.paste(DARKGRAY, line)
+    for y in range(16):
+        line = (0, y*boxSize, 16*boxSize, (y*boxSize + 2))
+        img.paste(DARKGRAY, line)
+    return img
 
 
 def populate(incomplete):
