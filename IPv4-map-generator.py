@@ -1,4 +1,3 @@
-import os
 import pygame
 import sys
 from datetime import datetime
@@ -60,17 +59,16 @@ def dispSetup(worst8, topIPs):
         rplStr = rplStr.replace("rplc7rng", worst8[7][0])
         rplStr = rplStr.replace("rplc8rng", worst8[8][0])
         rplStr = rplStr.replace("rplc9rng", worst8[9][0])
-        ipStrs = getIPStrs(topIPs)
-        rplStr = rplStr.replace("rplc0ip", ipStrs[0])
-        rplStr = rplStr.replace("rplc1ip", ipStrs[1])
-        rplStr = rplStr.replace("rplc2ip", ipStrs[2])
-        rplStr = rplStr.replace("rplc3ip", ipStrs[3])
-        rplStr = rplStr.replace("rplc4ip", ipStrs[4])
-        rplStr = rplStr.replace("rplc5ip", ipStrs[5])
-        rplStr = rplStr.replace("rplc6ip", ipStrs[6])
-        rplStr = rplStr.replace("rplc7ip", ipStrs[7])
-        rplStr = rplStr.replace("rplc8ip", ipStrs[8])
-        rplStr = rplStr.replace("rplc9ip", ipStrs[9])
+        rplStr = rplStr.replace("rplc0ip", topIPs[0][0])
+        rplStr = rplStr.replace("rplc1ip", topIPs[1][0])
+        rplStr = rplStr.replace("rplc2ip", topIPs[2][0])
+        rplStr = rplStr.replace("rplc3ip", topIPs[3][0])
+        rplStr = rplStr.replace("rplc4ip", topIPs[4][0])
+        rplStr = rplStr.replace("rplc5ip", topIPs[5][0])
+        rplStr = rplStr.replace("rplc6ip", topIPs[6][0])
+        rplStr = rplStr.replace("rplc7ip", topIPs[7][0])
+        rplStr = rplStr.replace("rplc8ip", topIPs[8][0])
+        rplStr = rplStr.replace("rplc9ip", topIPs[9][0])
         outPage.write(rplStr)
     outPage.close()
     for space in worst8:
@@ -270,21 +268,6 @@ def grabBad(wantedVal, array):
         if(i[0] == wantedVal):
             return i
     print("That's an error in grabBad(), bub")
-
-
-def getIPStrs(ipList):
-    retStrs = []
-    for ipStruct in ipList:
-        cmd = "whois "+ipStruct[0]+" | grep netname"
-        response = os.popen(cmd).read()
-        parse = response.split(' ')
-        netName = parse[len(parse) - 1]
-        netName = netName.strip()
-        if(netName != ''):
-            retStrs.append(ipStruct[0]+" ("+netName+')')
-        else:
-            retStrs.append(ipStruct[0])
-    return retStrs
 
 
 
