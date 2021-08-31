@@ -1,11 +1,40 @@
-## Welcome to GitHub Pages
+## SarlackLab Command-and-Control Hunting
+Kicking headers and taking domain names
 
-You can use the [editor on GitHub](https://github.com/Abjuri5t/SarlackLab/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Map of C2 Servers - August 30, 2021
+![Todays-C2-Map](https://github.com/Abjuri5t/SarlackLab/blob/main/2021-Maps/2021-August-30_13:40.jpg)
 
-### Markdown
+Top 10 Evil Servers:
+ - 180.250.21.2
+ - 142.4.7.91
+ - 141.8.192.169
+ - 141.8.192.151
+ - 96.9.77.56
+ - 91.207.28.33
+ - 45.201.134.202
+ - 185.234.72.84
+ - 172.67.185.42
+ - 142.4.219.173
 
+Top 10 Dangerous /8 Spaces
+ - 141.0.0.0/8</p>
+ - 103.0.0.0/8</p>
+ - 180.0.0.0/8</p>
+ - 185.0.0.0/8</p>
+ - 45.0.0.0/8</p>
+ - 172.0.0.0/8</p>
+ - 104.0.0.0/8</p>
+ - 178.0.0.0/8</p>
+ - 91.0.0.0/8</p>
+ - 37.0.0.0/8
+
+Follow [@SarlackLab](https://www.twitter.com/SarlackLab) on Twitter to stay up-to-date on C2 server tracking.
+
+
+## The C2 Map
+`Full write-up is in development. Come back soon!`
+<!---
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
@@ -34,4 +63,6 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.--->
+
+## Other Work by John F
