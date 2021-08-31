@@ -3,7 +3,7 @@ _Kicking payloads and taking domain names_
 
 
 **Map of C2 Servers - August 30, 2021**
-<img src="/2021-Maps/2021-August-30_13:40.jpg" height="512">
+![](https://github.com/Abjuri5t/SarlackLab/blob/main/2021-Maps/2021-August-30_13:40.jpg)
 
 Top 10 Evil Servers:
  - 180.250.21.2
