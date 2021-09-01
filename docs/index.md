@@ -6,7 +6,7 @@ _Kicking payloads and taking domain names_
 <br>
 <img src="https://raw.githubusercontent.com/Abjuri5t/SarlackLab/main/2021-Maps/TEST_2021-August-31.jpg" height="512">
 
-Top 10 Evil Servers:        Top 10 Dangerous /8 Spaces:
+Top 10 Evil Servers:  &emsp; Top 10 Dangerous /8 Spaces:
  - 180.250.21.2 &emsp; - 141.0.0.0/8
  - 142.4.7.91 &emsp; - 103.0.0.0/8
  - 141.8.192.169 &emsp; - 180.0.0.0/8
