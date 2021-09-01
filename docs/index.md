@@ -30,7 +30,7 @@ Top 10 Dangerous /8 Spaces
  - 91.0.0.0/8
  - 37.0.0.0/8
 
-Follow [@SarlackLab](https://twitter.com/SarlackLab) on Twitter to stay up-to-date on C2 server tracking.
+Follow <a href="https://twitter.com/SarlackLab" target="_blank">@SarlackLab</a> on Twitter to stay up-to-date on C2 server tracking.
 
 
 ### The C2 Map
