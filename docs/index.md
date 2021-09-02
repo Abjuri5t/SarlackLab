@@ -6,19 +6,9 @@ _Kicking payloads and taking domain names_
 <br>
 <img src="https://raw.githubusercontent.com/Abjuri5t/SarlackLab/main/2021-Maps/TEST_2021-August-31.jpg" height="384">
 
-Top 5 Evil Servers:
- \- 180.250.21.2
- \- 142.4.7.91
- \- 141.8.192.169
- \- 141.8.192.151
- \- 96.9.77.56
+Top 5 Evil Servers: 180.250.21.2, 142.4.7.91, 141.8.192.169, 141.8.192.151, 96.9.77.56
 
-Top 5 Dangerous /8 Spaces:
- \- 141.0.0.0/8
- \- 103.0.0.0/8
- \- 180.0.0.0/8
- \- 185.0.0.0/8
- \- 45.0.0.0/8
+Top 5 Dangerous /8 Spaces: 141.0.0.0/8, 103.0.0.0/8, 180.0.0.0/8, 185.0.0.0/8, 45.0.0.0/8
 
 Follow [@SarlackLab](https://twitter.com/SarlackLab) on Twitter to stay up-to-date on C2 server tracking.
 <br>
