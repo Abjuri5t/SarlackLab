@@ -1,5 +1,6 @@
 <h1 style="color:#ffff00">SarlackLab Command-and-Control Hunting</h1>
 _Kicking payloads and taking domain names_
+<br>
 
 **Map of C2 Servers - August 30, 2021**
 <br>
@@ -11,9 +12,11 @@ _Kicking payloads and taking domain names_
 
 Follow [@SarlackLab](https://twitter.com/SarlackLab) on Twitter to stay up-to-date on C2 server tracking.
 <br>
+<br>
 
 <h2 style="color:#ffff00">The C2 Map</h2>
 > Full write-up is in development. Come back soon!
+<br>
 <br>
 
 <h2 style="color:#ffff00">Other Work by John F</h2>
