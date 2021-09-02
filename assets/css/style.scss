@@ -2,8 +2,6 @@
 ---
 
 @import "{{ site.theme }}";
-.main_content {
-    h2 {
-        color: #ffff00;
-    }
+#main_content h2 {
+    color: #ffff00;
 }
