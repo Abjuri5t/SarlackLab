@@ -31,12 +31,15 @@ Top 10 Dangerous /8 Spaces:
  - 37.0.0.0/8
 
 Follow [@SarlackLab](https://twitter.com/SarlackLab) on Twitter to stay up-to-date on C2 server tracking.
-
+<br>
 
 ### The C2 Map
 > Full write-up is in development. Come back soon!
-
+<br>
 
 ### Other Work by John F
-
-**Cyber Security Club Presentations** (incomplete list)
+Public [Cyber Security Club Presentations](https://github.com/Abjuri5t/Portfolio/tree/master/Public-CSC-Presentations)
+<br>
+[Created CTF Challenges](https://github.com/Abjuri5t/Portfolio/tree/master/My-WPICTF-Challenges) (or at least the challenges easily hosted on Github)
+<br>
+Public [writing and blog posts](https://github.com/Abjuri5t/Portfolio/tree/master/Writing)
