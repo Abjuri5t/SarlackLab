@@ -2,6 +2,8 @@
 ---
 
 @import "{{ site.theme }}";
-h2 {
+.main_content {
+    h2 {
         color: #ffff00;
+    }
 }
