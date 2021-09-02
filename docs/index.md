@@ -40,6 +40,6 @@ Follow [@SarlackLab](https://twitter.com/SarlackLab) on Twitter to stay up-to-da
 ### Other Work by John F
 Public [Cyber Security Club Presentations](https://github.com/Abjuri5t/Portfolio/tree/master/Public-CSC-Presentations)
 <br>
-[Created CTF Challenges](https://github.com/Abjuri5t/Portfolio/tree/master/My-WPICTF-Challenges) (or at least the challenges easily hosted on Github)
+Created [CTF Challenges](https://github.com/Abjuri5t/Portfolio/tree/master/My-WPICTF-Challenges) (or at least the challenges easily hosted on Github)
 <br>
 Public [writing and blog posts](https://github.com/Abjuri5t/Portfolio/tree/master/Writing)
