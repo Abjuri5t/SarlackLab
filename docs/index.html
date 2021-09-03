@@ -10,14 +10,13 @@
 				font-family:Arial;
 				padding:10px;
 				background:#171717 url("https://raw.githubusercontent.com/pages-themes/hacker/master/assets/images/bkg.png") 0 0;
-				color:#F0F0F0;
+				color:#E8E8E8;
 			}
-			h1 {
+			h1, h2, h3 {
 				color:#FFFF00;
 			}
-			.card {
-				padding:5px;
-				background:#202020;
+			a {
+				font-weight:bold;
 			}
 			.half {
 				float:left;
@@ -45,6 +44,8 @@
 				<p> - 94.74.133.76</p>
 				<p> - 158.69.118.130</p>
 				<p> - 96.7.86.32</p>
+				<br>
+				<br>
 			</div>
 			<div class="half">
 				<h3>Top 10 /8 Spaces</h3>
@@ -58,13 +59,30 @@
 				<p> - 45.0.0.0/8</p>
 				<p> - 172.0.0.0/8</p>
 				<p> - 178.0.0.0/8</p>
+				<br>
+				<br>
 			</div>
 		</div>
 		<p>
-			<b style="color:#990000">Red:</b> command-and-control (C2) server<br>
-			<b style="color:#999900">Yellow:</b> malware download (URLhaus)<br>
-			Learn more about IPv4 Hilbert curves <a href="https://xkcd.com/195/">here</a>
+			<b style="color:#FF3333">Red:</b> command-and-control (C2) server<br>
+			<b style="color:#FFFF33">Yellow:</b> malware download payloads (<a href="https://urlhaus.abuse.ch/browse/">URLhaus</a>)<br>
+			<b style="color:#FF9933">Orange:</b> some combination of the two<br>
+			The darker a space looks, the more dangerous it is
 		</p>
+		<p>XKCD has a <a href="https://xkcd.com/195/">comic</a> explaining IPv4 Hilbert curves</p>
 		<br>
+		<h2>About Sarlack-Lab</h2>
+		<p>
+		I built the Sarlack to "devour malware in a sandbox". The server automatically grabbed and analyzed malware samples for personal research and to assist my SOC. While studying network detection trends, I began to notice patterns among malicious IP addresses. Many of the IPs appeared to be hosted in similar IP spaces (even across different ASNs). I created a map to visualize this threat landscape using the fantastic resources provided by <a href="https://cybercrime-tracker.net">Xylitol</a>, <a href="https://feodotracker.abuse.ch">abuse.ch</a>, <a href="https://www.hybrid-analysis.com">Hybrid Analysis</a>, <a href="https://twitter.com/ScumBots">Paul Melson</a>, <a href="https://azorult-tracker.net">AZORult Tracker</a>, <a href="https://threatshare.io">Fred HK</a>, and <a href="https://fr3d.hk">Dee</a>.
+		</p>
+		<p>
+			In the future, I plan on training the Sarlack to autonomously hunt C2 servers by looking for patterns among sandbox reports. Once the C2 protocol has been verified and multiple, the IP address will be shared publicly and added to the map.
+		</p>
+		<p>Read more about Sarlack-Lab map generation <a href="https://github.com/Abjuri5t/SarlackLab#readme">here</a></p>
+		<br>
+		<h2>Other work by John F</h2>
+		<p> - Public writings and <a href="https://github.com/Abjuri5t/Portfolio/tree/master/Writing/">blog posts</a></p>
+		<p> - CTF <a href="https://github.com/Abjuri5t/Portfolio/tree/master/My-WPICTF-Challenges/">challenges</a> I created</p>
+		<p> - Note-worthy Cyber Security Club <a href="https://github.com/Abjuri5t/Portfolio/tree/master/Public-CSC-Presentations/">presentations</a></p>
 	</body>
 </html>
