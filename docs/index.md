@@ -1,6 +1,7 @@
 <h1 style="color:#ffff00">SarlackLab Command-and-Control Hunting</h1>
 _Kicking payloads and taking domain names_
 <br>
+<br>
 
 **Map of C2 Servers - August 30, 2021**
 <br>
