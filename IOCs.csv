@@ -1,10 +1,13 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-NanoCore,212.193.30.230,40111,212.193.30.0/24,december2n.duckdns.org,duckdns.org,2023-03-30
-NanoCore,45.14.165.113,5709,45.14.165.0/24,slave01.duckdns.org,duckdns.org,2023-03-28
-NanoCore,3.145.201.105,3637,3.144.0.0/13,muna001.duckdns.org,duckdns.org,2023-03-25
-NanoCore,45.137.65.229,5050,45.137.64.0/22,crotac.duckdns.org,duckdns.org,2023-03-24
-NanoCore,103.176.111.90,8550,103.176.110.0/23,justkowir.duckdns.org,duckdns.org,2023-03-23
-NanoCore,91.193.75.135,16554,91.193.75.0/24,williamscomputer101.ddns.net,duckdns.org,2023-03-22
-NanoCore,46.183.220.115,31740,46.183.216.0/21,claude111.duckdns.org,duckdns.org,2023-03-22
-NanoCore,77.92.253.196,3377,77.92.224.0/19,battlewow.us.to,us.to,2023-03-22
-NanoCore,209.182.100.23,40001,209.182.100.0/24,stevewells.hopto.org,hopto.org,2023-03-22
+nanocore,91.192.100.4,3531,91.192.100.0/23,iyhto.ddns.net,ddns.net,2023-04-8
+nanocore,104.168.65.245,5498,104.168.0.0/17,,,2023-04-03
+nanocore,185.254.37.72,2025,185.254.37.0/24,nanjuly.duckdns.org,duckdns.org,2023-04-1
+nanocore,212.193.30.230,40111,212.193.30.0/24,december2n.duckdns.org,duckdns.org,2023-03-30
+nanocore,45.14.165.113,5709,45.14.165.0/24,slave01.duckdns.org,duckdns.org,2023-03-28
+nanocore,3.145.201.105,3637,3.144.0.0/13,muna001.duckdns.org,duckdns.org,2023-03-25
+nanocore,45.137.65.229,5050,45.137.64.0/22,crotac.duckdns.org,duckdns.org,2023-03-24
+nanocore,103.176.111.90,8550,103.176.110.0/23,justkowir.duckdns.org,duckdns.org,2023-03-23
+nanocore,91.193.75.135,16554,91.193.75.0/24,williamscomputer101.ddns.net,duckdns.org,2023-03-22
+nanocore,46.183.220.115,31740,46.183.216.0/21,claude111.duckdns.org,duckdns.org,2023-03-22
+nanocore,77.92.253.196,3377,77.92.224.0/19,battlewow.us.to,us.to,2023-03-22
+nanocore,209.182.100.23,40001,209.182.100.0/24,stevewells.hopto.org,hopto.org,2023-03-22
