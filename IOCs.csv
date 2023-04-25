@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,3.6.98.232,16968,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2023-04-25
+nanocore,3.6.30.85,16968,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2023-04-25
 nanocore,3.6.115.64,16968,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2023-04-25
 nanocore,213.152.161.138,3672,213.152.160.0/21,,,2023-04-21
 nanocore,95.214.27.236,7008,95.214.27.0/24,ayranger10.ddns.net,ddns.net,2023-04-21
