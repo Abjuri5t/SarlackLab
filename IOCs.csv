@@ -1,9 +1,13 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,141.98.6.167,4032,141.98.6.0/24,jasonbourneblack.ddns.net,ddns.net,2023-05-13
+nanocore,3.145.201.105,3436,3.144.0.0/13,kala007.duckdns.org,duckdns.org,2023-05-13
+nanocore,82.130.171.45,5555,82.130.128.0/18,anunankis1.duckdns.org,duckdns.org,2023-05-13
+nanocore,192.253.241.112,55420,192.253.241.0/24,innocentbooii.hopto.org,hopto.org,2023-05-13
+nanocore,46.246.86.210,54984,46.246.64.0/18,faq.medecinsansfrontiere.fr,medecinsansfrontiere.fr,2023-05-13
 nanocore,91.193.75.131,1116,91.193.75.0/24,1116.hopto.org,hopto.org,2023-05-04
 nanocore,107.182.128.9,6636,107.182.128.0/24,arkseven7003.ddns.net,ddns.net,2023-05-04
 nanocore,107.182.128.9,7727,107.182.128.0/24,arkseven7002.ddns.net,ddns.net,2023-05-04
 nanocore,177.67.82.66,5000,177.67.80.0/21,,,2023-05-01
-nanocore,3.145.201.105,3436,3.144.0.0/13,kala007.duckdns.org,duckdns.org,2023-04-27
 nanocore,3.6.98.232,16968,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2023-04-25
 nanocore,3.6.30.85,16968,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2023-04-25
 nanocore,3.6.115.64,16968,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2023-04-25
