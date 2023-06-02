@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,5.252.165.230,28289,5.252.165.0/24,timmy08.ddns.net,ddns.net,2023-06-02
+nanocore,213.152.161.40,21942,213.152.160.0/21,dinowar.anondns.net,anondns.net,2023-06-01
 nanocore,91.192.100.7,54984,91.192.100.0/23,iphy1.duckdns.org,duckdns.org,2023-05-31
 nanocore,141.98.6.167,4032,141.98.6.0/24,jasonbourneblack.ddns.net,ddns.net,2023-05-31
 nanocore,3.136.65.236,15220,3.128.0.0/12,4.tcp.ngrok.io,ngrok.io,2023-05-30
