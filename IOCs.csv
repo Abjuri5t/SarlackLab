@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,3.145.201.105,3637,3.144.0.0/13,muna001.duckdns.org,duckdns.org,2023-06-11
 nanocore,198.12.123.17,6700,198.12.64.0/18,celesperial.ddns.net,ddns.net,2023-06-11
 nanocore,193.56.29.145,8550,193.56.28.0/23,justkowir.duckdns.org,duckdns.org,2023-06-10
 nanocore,82.66.202.142,53896,82.64.0.0/14,ratcentho.ddns.net,ddns.net,2023-06-09
@@ -47,7 +48,6 @@ nanocore,104.168.65.245,5498,104.168.0.0/17,,,2023-04-3
 nanocore,185.254.37.72,2025,185.254.37.0/24,nanjuly.duckdns.org,duckdns.org,2023-04-1
 nanocore,212.193.30.230,40111,212.193.30.0/24,december2n.duckdns.org,duckdns.org,2023-03-30
 nanocore,45.14.165.113,5709,45.14.165.0/24,slave01.duckdns.org,duckdns.org,2023-03-28
-nanocore,3.145.201.105,3637,3.144.0.0/13,muna001.duckdns.org,duckdns.org,2023-03-25
 nanocore,45.137.65.229,5050,45.137.64.0/22,crotac.duckdns.org,duckdns.org,2023-03-24
 nanocore,103.176.111.90,8550,103.176.110.0/23,justkowir.duckdns.org,duckdns.org,2023-03-23
 nanocore,91.193.75.135,16554,91.193.75.0/24,williamscomputer101.ddns.net,duckdns.org,2023-03-22
