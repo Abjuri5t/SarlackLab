@@ -1,7 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-nanocore,194.180.48.119,4444,194.180.48.0/23,discojockeylight.duckdns.org,duckdns.org,2023-09-06
-redline,176.123.9.142,14845,176.123.8.0/22,,,2023-09-06
+redline,85.209.3.13,11290,85.209.3.0/24,sept6amd.tuktuk.ug,tuktuk.ug,2023-09-06
 redline,51.89.253.22,31098,51.89.0.0/16,,,2023-09-06
+redline,15.235.130.167,30947,15.235.0.0/16,,,2023-09-06
+redline,176.123.9.142,14845,176.123.8.0/22,,,2023-09-06
+nanocore,194.180.48.119,4444,194.180.48.0/23,discojockeylight.duckdns.org,duckdns.org,2023-09-06
 redline,194.169.175.232,45450,194.169.175.0/24,,,2023-09-06
 redline,176.123.9.142,14845,176.123.8.0/22,sept5amd.tuktuk.ug,tuktuk.ug,2023-09-06
 redline,85.209.3.13,11290,85.209.3.0/24,sept5amd.tuktuk.ug,tuktuk.ug,2023-09-06
@@ -56,7 +58,6 @@ nanocore,82.64.201.36,54984,82.64.0.0/14,alexbp.ddns.net,ddns.net,2023-08-08
 nanocore,79.134.225.9,1620,79.134.224.0/23,maxlogs.webhop.me,webhop.me,2023-08-08
 redline,81.19.131.31,7032,81.19.131.0/24,,,2023-08-07
 redline,45.135.167.6,48850,45.135.167.0/24,,,2023-08-07
-redline,15.235.130.167,30947,15.235.0.0/16,,,2023-08-07
 redline,77.91.124.172,19071,77.91.124.0/24,,,2023-08-06
 nanocore,12.202.180.134,8550,12.202.176.0/21,justkowir.duckdns.org,duckdns.org,2023-08-05
 nanocore,167.235.75.225,7490,167.235.0.0/16,mup830634.duckdns.org,duckdns.org,2023-08-05
