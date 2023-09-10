@@ -1,5 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,85.209.3.13,11290,85.209.3.0/24,amadapi.tuktuk.ug,tuktuk.ug,2023-09-10
+redline,51.38.95.107,42494,51.38.0.0/16,,,2023-09-10
+redline,176.123.9.142,14845,176.123.8.0/22,,,2023-09-10
 redline,194.169.175.232,45450,194.169.175.0/24,,,2023-09-10
 redline,51.89.253.22,31098,51.89.0.0/16,,,2023-09-10
 redline,194.169.175.232,45450,194.169.175.0/24,amadapi.tuktuk.ug,tuktuk.ug,2023-09-10
@@ -15,7 +17,6 @@ nanocore,103.212.81.152,6141,103.212.81.0/24,6141.ddns.net,ddns.net,2023-09-09
 nanocore,103.212.81.152,7689,103.212.81.0/24,7689.ddns.net,ddns.net,2023-09-09
 nanocore,194.180.48.119,4444,194.180.48.0/23,discojockeylight.duckdns.org,duckdns.org,2023-09-09
 nanocore,94.156.102.196,28288,94.156.102.0/24,henzy.ddns.net,ddns.net,2023-09-09
-redline,176.123.9.142,14845,176.123.8.0/22,,,2023-09-08
 redline,91.103.252.180,16711,91.103.252.0/24,,,2023-09-08
 redline,176.123.9.142,14845,176.123.8.0/22,amadapi.tuktuk.ug,tuktuk.ug,2023-09-08
 redline,85.209.3.13,11290,85.209.3.0/24,sept7ama.tuktuk.ug,tuktuk.ug,2023-09-07
