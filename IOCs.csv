@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,62.72.23.19,80,62.72.0.0/19,,,2023-10-23
 redline,185.216.70.238,37515,185.216.70.0/24,,,2023-10-23
+nanocore,67.207.161.208,50720,67.207.160.0/21,percolysrl2.ddns.net,ddns.net,2023-10-23
+redline,62.72.23.19,80,62.72.0.0/19,,,2023-10-23
 nanocore,94.156.6.14,6110,94.156.6.0/24,29122021.sytes.net,sytes.net,2023-10-23
 redline,185.183.35.100,80,185.183.32.0/22,vikaneleneer.shop,vikaneleneer.shop,2023-10-23
 redline,171.22.28.236,38306,171.22.28.0/24,,,2023-10-23
