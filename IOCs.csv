@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-nanocore,91.92.251.203,4510,91.92.240.0/20,btldinc7.sytes.net,sytes.net,2023-12-04
 redline,38.47.221.193,34368,38.47.192.0/19,,,2023-12-04
+nanocore,161.129.47.59,54980,161.129.47.0/24,multipleentry90dayscontroller.homingbeacon.net,homingbeacon.net,2023-12-04
+nanocore,91.92.251.203,4510,91.92.240.0/20,btldinc7.sytes.net,sytes.net,2023-12-04
 redline,195.10.205.16,2245,195.10.205.0/24,,,2023-12-03
 nanocore,83.213.157.103,5555,83.213.128.0/19,anunankis1.duckdns.org,duckdns.org,2023-12-03
 redline,5.42.65.101,40676,5.42.64.0/22,,,2023-12-03
