@@ -1,7 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,38.47.221.193,34368,38.47.192.0/19,,,2023-12-07
+nanocore,52.9.207.250,13832,52.8.0.0/13,6.tcp.us-cal-1.ngrok.io,ngrok.io,2023-12-07
+nanocore,54.241.198.186,13832,54.241.0.0/16,6.tcp.us-cal-1.ngrok.io,ngrok.io,2023-12-07
 nanocore,13.52.173.49,12152,13.48.0.0/13,6.tcp.us-cal-1.ngrok.io,ngrok.io,2023-12-06
 redline,185.215.113.109,20475,185.215.113.0/24,,,2023-12-06
-redline,38.47.221.193,34368,38.47.192.0/19,,,2023-12-06
 redline,89.23.96.47,22010,89.23.96.0/22,,,2023-12-06
 redline,195.20.16.53,48998,195.20.16.0/24,,,2023-12-06
 nanocore,103.114.106.29,4510,103.114.104.0/22,btldinc7.sytes.net,sytes.net,2023-12-06
