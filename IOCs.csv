@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,13.52.173.49,12152,13.48.0.0/13,6.tcp.us-cal-1.ngrok.io,ngrok.io,2023-12-06
 redline,185.215.113.109,20475,185.215.113.0/24,,,2023-12-06
 redline,38.47.221.193,34368,38.47.192.0/19,,,2023-12-06
 redline,89.23.96.47,22010,89.23.96.0/22,,,2023-12-06
