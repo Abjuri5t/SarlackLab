@@ -1,9 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,65.108.20.160,11396,65.108.0.0/15,,,2024-01-04
+redline,20.79.30.95,13856,20.76.0.0/14,,,2024-01-04
 nanocore,83.85.165.190,1604,83.80.0.0/13,sp1oorat.ddns.net,ddns.net,2024-01-03
 nanocore,109.248.144.199,1333,109.248.144.0/23,pm2bitcoin.com,pm2bitcoin.com,2024-01-03
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-01-01
-redline,20.79.30.95,13856,20.76.0.0/14,,,2023-12-31
 redline,195.20.16.190,38173,195.20.16.0/24,,,2023-12-31
 redline,195.20.16.188,20749,195.20.16.0/24,,,2023-12-29
 nanocore,103.207.37.74,1664,103.207.36.0/22,jugoken567.ddns.net,ddns.net,2023-12-27
