@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,91.92.255.54,6513,91.92.240.0/20,jogard.duckdns.org,duckdns.org,2024-01-28
 redline,95.217.81.77,35530,95.216.0.0/15,,,2024-01-28
 nanocore,185.222.58.84,8990,185.222.56.0/22,,,2024-01-28
 nanocore,90.15.154.112,4899,90.0.0.0/11,victacking.ddns.net,ddns.net,2024-01-27
@@ -13,7 +14,6 @@ redline,20.79.30.95,33223,20.76.0.0/14,,,2024-01-26
 redline,195.20.16.103,20440,195.20.16.0/24,,,2024-01-26
 nanocore,46.196.24.72,54984,46.196.0.0/17,kingspy.mywire.org,mywire.org,2024-01-26
 nanocore,91.92.243.16,6269,91.92.240.0/20,macgains.duckdns.org,duckdns.org,2024-01-25
-nanocore,91.92.255.54,6513,91.92.240.0/20,jogard.duckdns.org,duckdns.org,2024-01-25
 redline,193.26.115.228,19267,193.26.115.0/24,,,2024-01-25
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-01-25
 redline,185.172.128.33,8924,185.172.128.0/24,,,2024-01-24
