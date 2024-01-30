@@ -1,8 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,20.234.71.164,1021,20.224.0.0/11,,,2024-01-29
 njrat,3.127.253.86,17426,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-01-29
 njrat,3.126.37.18,14272,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-01-29
 njrat,186.169.37.61,5552,186.169.32.0/19,adminash.duckdns.org,duckdns.org,2024-01-29
-njrat,20.234.71.164,1021,20.224.0.0/11,,,2024-01-29
 redline,45.15.156.201,10208,45.15.156.0/24,,,2024-01-29
 njrat,147.185.221.18,15309,147.185.221.0/24,people-primarily.gl.at.ply.gg,ply.gg,2024-01-29
 njrat,3.125.102.39,16777,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-01-29
