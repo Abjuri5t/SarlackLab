@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,20.79.30.95,33223,20.76.0.0/14,,,2024-01-30
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-01-30
 njrat,20.234.71.164,1021,20.224.0.0/11,,,2024-01-29
 njrat,3.127.253.86,17426,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-01-29
@@ -8,7 +9,6 @@ redline,45.15.156.201,10208,45.15.156.0/24,,,2024-01-29
 njrat,147.185.221.18,15309,147.185.221.0/24,people-primarily.gl.at.ply.gg,ply.gg,2024-01-29
 njrat,3.125.102.39,16777,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-01-29
 nanocore,192.169.69.26,65517,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-01-29
-redline,20.79.30.95,33223,20.76.0.0/14,,,2024-01-29
 njrat,91.109.178.5,1177,91.109.176.0/20,seznam.zapto.org,zapto.org,2024-01-29
 njrat,3.17.7.232,14868,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-01-29
 nanocore,192.169.69.25,3003,192.169.68.0/22,kenzeey.duckdns.org,duckdns.org,2024-01-29
