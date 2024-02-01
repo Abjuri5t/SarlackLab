@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,172.67.137.192,80,172.67.0.0/16,roof.spencerstuartllc.top,spencerstuartllc.top,2024-02-01
+lokibot,104.21.46.100,80,104.21.0.0/17,roof.spencerstuartllc.top,spencerstuartllc.top,2024-02-01
 njrat,191.233.28.7,1024,191.232.0.0/13,,,2024-02-01
 nanocore,103.114.104.158,1664,103.114.104.0/22,tzitziklishop3.ddns.net,ddns.net,2024-02-01
 redline,195.20.16.103,20440,195.20.16.0/24,,,2024-01-31
@@ -44,7 +46,6 @@ lokibot,103.224.212.210,80,103.224.212.0/23,arkt.xyz,arkt.xyz,2024-01-28
 lokibot,188.114.96.2,80,188.114.96.0/22,rocheholding.top,rocheholding.top,2024-01-28
 lokibot,103.92.235.29,80,103.92.235.0/24,skscarsrjn.in,skscarsrjn.in,2024-01-28
 lokibot,192.169.69.26,80,192.169.68.0/22,abixmaly.duckdns.org,duckdns.org,2024-01-28
-lokibot,172.67.137.192,80,172.67.0.0/16,roof.spencerstuartllc.top,spencerstuartllc.top,2024-01-28
 njrat,165.227.31.192,22509,165.227.0.0/16,,,2024-01-28
 njrat,206.189.80.59,22614,206.189.0.0/16,,,2024-01-28
 nanocore,91.92.255.54,6513,91.92.240.0/20,jogard.duckdns.org,duckdns.org,2024-01-28
