@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,54.94.248.37,11264,54.94.0.0/15,0.tcp.sa.ngrok.io,ngrok.io,2024-02-01
 redline,20.79.30.95,33223,20.76.0.0/14,,,2024-02-01
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-02-01
 njrat,216.218.135.118,3604,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-02-01
