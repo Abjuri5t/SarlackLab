@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,20.106.168.188,5050,20.96.0.0/11,milla.publicvm.com,publicvm.com,2024-02-02
+njrat,3.69.115.178,11080,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-02-02
 nanocore,192.169.69.26,65517,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-02-02
 nanocore,89.149.23.88,20427,89.149.23.0/24,technoblade.ddns.net,ddns.net,2024-02-02
 redline,195.20.16.103,20440,195.20.16.0/24,,,2024-02-02
