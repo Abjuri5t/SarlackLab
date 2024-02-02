@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,20.79.30.95,33223,20.76.0.0/14,,,2024-02-01
+redline,45.15.156.127,48665,45.15.156.0/24,,,2024-02-01
 njrat,216.218.135.118,3604,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-02-01
 njrat,3.128.107.74,13425,3.128.0.0/12,,,2024-02-01
 njrat,147.185.221.17,9561,147.185.221.0/24,qcpanel.hackcrack.io,hackcrack.io,2024-02-01
@@ -7,14 +9,12 @@ redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-01
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-02-01
 redline,147.124.207.124,24624,147.124.207.0/24,,,2024-02-01
 redline,147.45.45.81,30063,147.45.45.0/24,,,2024-02-01
-redline,45.15.156.127,48665,45.15.156.0/24,,,2024-02-01
 njrat,54.94.248.37,12136,54.94.0.0/15,0.tcp.sa.ngrok.io,ngrok.io,2024-02-01
 lokibot,188.114.96.2,80,188.114.96.0/22,roof.spencerstuartllc.top,spencerstuartllc.top,2024-02-01
 lokibot,104.21.46.100,80,104.21.0.0/17,roof.spencerstuartllc.top,spencerstuartllc.top,2024-02-01
 lokibot,172.67.137.192,80,172.67.0.0/16,roof.spencerstuartllc.top,spencerstuartllc.top,2024-02-01
 njrat,191.233.28.7,1024,191.232.0.0/13,,,2024-02-01
 nanocore,103.114.104.158,1664,103.114.104.0/22,tzitziklishop3.ddns.net,ddns.net,2024-02-01
-redline,20.79.30.95,33223,20.76.0.0/14,,,2024-01-31
 redline,141.95.211.148,46011,141.94.0.0/15,,,2024-01-31
 njrat,3.64.4.198,11024,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-01-31
 redline,194.33.191.102,21751,194.33.191.0/24,,,2024-01-31
