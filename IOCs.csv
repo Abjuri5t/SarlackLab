@@ -1,11 +1,13 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,46.246.86.4,101,46.246.64.0/18,vbatallafinal23.duckdns.org,duckdns.org,2024-02-03
+nanocore,3.141.210.37,17366,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-03
+nanocore,3.132.159.158,17366,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-03
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-02-03
 redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-03
 redline,20.79.30.95,33223,20.76.0.0/14,,,2024-02-03
 njrat,18.157.68.73,13538,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-02-03
 njrat,3.22.30.40,13747,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-02-03
 njrat,3.127.138.57,13538,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-03
-nanocore,3.132.159.158,17366,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-03
 redline,147.45.45.81,30063,147.45.45.0/24,,,2024-02-03
 nanocore,191.101.209.29,20427,191.101.209.0/24,,,2024-02-03
 njrat,18.228.115.60,18785,18.224.0.0/13,0.tcp.sa.ngrok.io,ngrok.io,2024-02-03
