@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,92.222.212.74,1450,92.222.0.0/16,,,2024-02-03
+njrat,193.161.193.99,30520,193.161.193.0/24,jd03-30520.portmap.io,portmap.io,2024-02-03
 njrat,46.246.86.4,101,46.246.64.0/18,vbatallafinal23.duckdns.org,duckdns.org,2024-02-03
 nanocore,3.141.210.37,17366,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-03
 nanocore,3.132.159.158,17366,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-03
