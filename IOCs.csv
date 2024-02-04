@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,52.8.87.87,17240,52.8.0.0/13,0.tcp.us-cal-1.ngrok.io,ngrok.io,2024-02-04
+nanocore,84.2.81.135,6923,84.2.80.0/20,tuxy.ddns.net,ddns.net,2024-02-04
 redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-04
 redline,20.79.30.95,33223,20.76.0.0/14,,,2024-02-04
 redline,92.222.212.74,1450,92.222.0.0/16,,,2024-02-04
