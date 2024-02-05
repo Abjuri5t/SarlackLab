@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.127,48665,45.15.156.0/24,,,2024-02-05
+njrat,213.159.61.169,1177,213.159.48.0/20,noiphabibi.ddns.net,ddns.net,2024-02-05
+nanocore,154.195.152.232,63641,154.195.128.0/18,,,2024-02-05
 njrat,3.6.122.107,19208,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-02-05
 redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-05
 redline,185.172.128.33,8924,185.172.128.0/24,,,2024-02-05
@@ -20,14 +23,12 @@ nanocore,84.2.81.135,6923,84.2.80.0/20,tuxy.ddns.net,ddns.net,2024-02-04
 njrat,3.140.223.7,15696,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-04
 lokibot,104.21.46.100,80,104.21.0.0/17,roof.spencerstuartllc.top,spencerstuartllc.top,2024-02-03
 njrat,46.246.4.20,3030,46.246.4.0/22,vinijr27.duckdns.org,duckdns.org,2024-02-03
-njrat,213.159.61.169,1177,213.159.48.0/20,noiphabibi.ddns.net,ddns.net,2024-02-03
 njrat,178.73.218.3,101,178.73.216.0/22,vbatallafinal23.duckdns.org,duckdns.org,2024-02-03
 njrat,147.185.221.18,14881,147.185.221.0/24,auto-benjamin.gl.at.ply.gg,ply.gg,2024-02-03
 njrat,193.161.193.99,30520,193.161.193.0/24,jd03-30520.portmap.io,portmap.io,2024-02-03
 njrat,46.246.86.4,101,46.246.64.0/18,vbatallafinal23.duckdns.org,duckdns.org,2024-02-03
 nanocore,3.141.210.37,17366,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-03
 nanocore,3.132.159.158,17366,3.128.0.0/12,6.tcp.ngrok.io,ngrok.io,2024-02-03
-redline,45.15.156.127,48665,45.15.156.0/24,,,2024-02-03
 njrat,18.157.68.73,13538,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-02-03
 njrat,3.22.30.40,13747,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-02-03
 njrat,3.127.138.57,13538,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-03
