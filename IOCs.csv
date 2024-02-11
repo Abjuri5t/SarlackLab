@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-02-11
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-11
 njrat,5.39.43.50,7777,5.39.0.0/17,,,2024-02-11
 njrat,45.153.230.56,7777,45.153.230.0/23,,,2024-02-11
@@ -10,7 +11,6 @@ njrat,18.197.239.109,17032,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-02-11
 njrat,3.66.38.117,16992,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-02-11
 lokibot,103.215.221.168,80,103.215.221.0/24,sempersim.su,sempersim.su,2024-02-10
 njrat,167.86.86.15,3333,167.86.84.0/22,junio2023.duckdns.org,duckdns.org,2024-02-10
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-02-10
 njrat,3.67.161.133,13977,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-02-10
 njrat,46.246.82.3,5552,46.246.64.0/18,peces.duckdns.org,duckdns.org,2024-02-10
 njrat,46.246.84.15,1995,46.246.64.0/18,patria.duckdns.org,duckdns.org,2024-02-10
