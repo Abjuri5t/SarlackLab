@@ -1,7 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-12
+njrat,46.246.6.12,1995,46.246.4.0/22,patria.duckdns.org,duckdns.org,2024-02-12
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-02-11
 njrat,46.246.84.5,7771,46.246.64.0/18,berlyndnero.duckdns.org,duckdns.org,2024-02-11
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-11
 redline,20.79.30.95,33223,20.76.0.0/14,,,2024-02-11
 njrat,5.39.43.50,7777,5.39.0.0/17,,,2024-02-11
 njrat,45.153.230.56,7777,45.153.230.0/23,,,2024-02-11
