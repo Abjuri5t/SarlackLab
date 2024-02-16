@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.172.128.33,8924,185.172.128.0/24,,,2024-02-15
 njrat,18.197.239.5,15020,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-15
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-02-15
 recordbreaker,195.2.76.141,80,195.2.76.0/24,,,2024-02-15
@@ -20,7 +21,6 @@ redline,20.79.30.95,33223,20.76.0.0/14,,,2024-02-14
 lokibot,103.224.212.210,80,103.224.212.0/23,arkt.xyz,arkt.xyz,2024-02-13
 nanocore,5.39.43.50,3456,5.39.0.0/17,,,2024-02-13
 njrat,46.246.12.14,1994,46.246.12.0/22,patria.duckdns.org,duckdns.org,2024-02-13
-redline,185.172.128.33,8924,185.172.128.0/24,,,2024-02-13
 nanocore,192.169.69.25,60612,192.169.68.0/22,bproduction.duckdns.org,duckdns.org,2024-02-13
 lokibot,192.169.69.26,80,192.169.68.0/22,abixmaly.duckdns.org,duckdns.org,2024-02-13
 njrat,46.246.80.9,1995,46.246.64.0/18,patria.duckdns.org,duckdns.org,2024-02-12
