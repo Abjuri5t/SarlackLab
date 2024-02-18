@@ -1,9 +1,10 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-18
+njrat,3.127.138.57,13627,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-18
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-18
 njrat,193.161.193.99,31620,193.161.193.0/24,nanoudu30-31620.portmap.host,portmap.host,2024-02-18
 njrat,147.185.221.18,29182,147.185.221.0/24,plus-subcommittee.gl.at.ply.gg,ply.gg,2024-02-18
 nanocore,192.169.69.26,64418,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-02-18
-redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-17
 njrat,147.185.221.17,10652,147.185.221.0/24,mary-cottage.gl.at.ply.gg,ply.gg,2024-02-17
 njrat,3.125.209.94,18563,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-17
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-02-17
