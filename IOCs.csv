@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,79.137.203.183,36235,79.137.202.0/23,,,2024-02-20
+nanocore,88.165.236.23,64278,88.160.0.0/11,nanocore73.zapto.org,zapto.org,2024-02-20
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-02-20
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-02-20
 redline,5.42.65.38,46185,5.42.64.0/22,,,2024-02-20
@@ -81,7 +83,6 @@ njrat,3.124.67.191,12609,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-02-08
 redline,185.172.128.136,32260,185.172.128.0/24,,,2024-02-08
 nanocore,46.183.220.203,40935,46.183.216.0/21,kiwtreyy456rwty.duckdns.org,duckdns.org,2024-02-08
 njrat,3.6.115.64,19208,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-02-08
-redline,79.137.203.183,36235,79.137.202.0/23,,,2024-02-08
 nanocore,90.15.154.112,4899,90.0.0.0/11,victacking.ddns.net,ddns.net,2024-02-07
 njrat,3.68.56.232,12555,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2024-02-07
 njrat,18.198.77.177,19762,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-02-07
