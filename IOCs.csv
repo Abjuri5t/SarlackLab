@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,88.165.236.23,54985,88.160.0.0/11,nanocore73.zapto.org,zapto.org,2024-02-20
+nanocore,3.17.7.232,18237,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-02-20
 redline,79.137.203.183,36235,79.137.202.0/23,,,2024-02-20
 nanocore,88.165.236.23,64278,88.160.0.0/11,nanocore73.zapto.org,zapto.org,2024-02-20
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-02-20
