@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-23
+njrat,3.69.157.220,17155,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-02-23
+njrat,18.197.239.109,17155,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,3.125.209.94,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,18.192.31.165,12044,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,3.125.223.134,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
@@ -8,7 +11,6 @@ redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-23
 njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,147.185.221.16,38277,147.185.221.0/24,cut-britney.gl.at.ply.gg,ply.gg,2024-02-23
 njrat,3.125.102.39,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-23
 redline,185.209.162.106,80,185.209.160.0/22,mezla.site,mezla.site,2024-02-23
 njrat,147.185.221.18,37064,147.185.221.0/24,training-invasion.gl.at.ply.gg,ply.gg,2024-02-22
 redline,95.216.104.115,4328,95.216.0.0/15,,,2024-02-22
