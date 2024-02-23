@@ -1,4 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.125.209.94,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
+njrat,18.192.31.165,12044,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
+njrat,3.125.223.134,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
+njrat,3.125.102.39,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
+njrat,18.158.249.75,12044,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-23
 njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,147.185.221.16,38277,147.185.221.0/24,cut-britney.gl.at.ply.gg,ply.gg,2024-02-23
