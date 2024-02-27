@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,46.246.84.5,2054,46.246.64.0/18,clarosecurity-com.duckdns.org,duckdns.org,2024-02-27
+njrat,3.125.223.134,12780,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-27
 nanocore,192.169.69.26,1177,192.169.68.0/22,backupnew.duckdns.org,duckdns.org,2024-02-27
 lumma,104.21.13.74,80,104.21.0.0/17,zamesblack.fun,zamesblack.fun,2024-02-27
 lokibot,91.92.252.146,8004,91.92.240.0/20,,,2024-02-27
