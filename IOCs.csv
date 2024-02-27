@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-27
+redline,20.218.68.91,7690,20.208.0.0/12,,,2024-02-27
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-26
 njrat,34.86.252.187,5050,34.80.0.0/13,seznam.zapto.org,zapto.org,2024-02-26
 njrat,147.185.221.18,43389,147.185.221.0/24,18.ip.gl.ply.gg,ply.gg,2024-02-26
@@ -26,7 +28,6 @@ njrat,95.86.227.200,25565,95.86.224.0/19,kisel228.zapto.org,zapto.org,2024-02-24
 lokibot,192.236.162.239,80,192.236.160.0/22,,,2024-02-24
 njrat,43.229.148.210,5556,43.229.148.0/22,appserv.ddns.net,ddns.net,2024-02-24
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-02-24
-redline,45.15.156.209,40481,45.15.156.0/24,,,2024-02-24
 nanocore,192.169.69.26,1177,192.169.68.0/22,backupnew.duckdns.org,duckdns.org,2024-02-24
 njrat,147.185.221.18,80,147.185.221.0/24,nature-dawn.gl.at.ply.gg,ply.gg,2024-02-24
 njrat,18.157.68.73,15217,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-02-24
