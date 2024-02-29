@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-29
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-02-29
 njrat,154.38.160.55,35888,154.38.160.0/20,njnjnjs.duckdns.org,duckdns.org,2024-02-29
 lokibot,91.92.252.146,8008,91.92.240.0/20,,,2024-02-29
@@ -61,7 +62,6 @@ njrat,18.192.31.165,12044,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,3.125.223.134,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,3.125.102.39,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,18.158.249.75,12044,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
-njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,3.125.102.39,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 redline,185.209.162.106,80,185.209.160.0/22,mezla.site,mezla.site,2024-02-23
 njrat,147.185.221.18,37064,147.185.221.0/24,training-invasion.gl.at.ply.gg,ply.gg,2024-02-22
