@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-02-29
 njrat,34.86.252.187,1177,34.80.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-02-28
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-28
 njrat,79.228.201.177,666,79.192.0.0/10,,,2024-02-28
@@ -176,7 +177,6 @@ njrat,3.6.122.107,19208,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-02-05
 lokibot,172.67.165.208,80,172.67.0.0/16,saldanha.top,saldanha.top,2024-02-05
 redline,156.251.19.27,20399,156.251.16.0/21,,,2024-02-05
 redline,92.222.212.74,1450,92.222.0.0/16,,,2024-02-04
-lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-02-04
 nanocore,192.169.69.26,8234,192.169.68.0/22,hhjhtggfr.duckdns.org,duckdns.org,2024-02-04
 nanocore,94.156.69.37,54984,94.156.64.0/21,updacon.hopto.org,hopto.org,2024-02-04
 njrat,3.127.138.57,17960,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-04
