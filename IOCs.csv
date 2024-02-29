@@ -1,7 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-29
+njrat,162.19.25.207,8080,162.19.0.0/16,mrado.kozow.com,kozow.com,2024-02-29
+nanocore,103.114.104.158,1663,103.114.104.0/22,tzitziklishop3.ddns.net,ddns.net,2024-02-29
 lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-02-29
 njrat,34.86.252.187,1177,34.80.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-02-28
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-02-28
 njrat,79.228.201.177,666,79.192.0.0/10,,,2024-02-28
 nanocore,83.213.157.103,1515,83.213.128.0/19,nibiru33.duckdns.org,duckdns.org,2024-02-28
 lokibot,91.92.252.146,8008,91.92.240.0/20,,,2024-02-28
@@ -64,7 +66,6 @@ redline,185.209.162.106,80,185.209.160.0/22,mezla.site,mezla.site,2024-02-23
 njrat,147.185.221.18,37064,147.185.221.0/24,training-invasion.gl.at.ply.gg,ply.gg,2024-02-22
 redline,95.216.104.115,4328,95.216.0.0/15,,,2024-02-22
 njrat,46.246.12.6,2054,46.246.12.0/22,ecuaecua.duckdns.org,duckdns.org,2024-02-22
-nanocore,103.114.104.158,1663,103.114.104.0/22,tzitziklishop3.ddns.net,ddns.net,2024-02-22
 njrat,222.186.174.9,43268,222.184.0.0/14,,,2024-02-22
 njrat,45.142.182.104,4568,45.142.182.0/24,,,2024-02-22
 redline,185.133.40.202,80,185.133.40.0/22,,,2024-02-22
