@@ -1,5 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-01
+njrat,3.125.223.134,10202,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-01
+njrat,198.27.120.241,1337,198.27.96.0/19,,,2024-03-01
+nanocore,103.114.104.158,1663,103.114.104.0/22,tzitziklishop3.ddns.net,ddns.net,2024-03-01
 njrat,147.124.205.158,9561,147.124.204.0/23,qcpanel.hackcrack.io,hackcrack.io,2024-03-01
 njrat,35.158.159.254,16495,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2024-02-29
 njrat,18.198.77.177,16495,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-02-29
@@ -11,7 +14,6 @@ redline,45.15.156.142,33597,45.15.156.0/24,,,2024-02-29
 njrat,154.38.160.55,35888,154.38.160.0/20,njnjnjs.duckdns.org,duckdns.org,2024-02-29
 lokibot,91.92.252.146,8008,91.92.240.0/20,,,2024-02-29
 njrat,162.19.25.207,8080,162.19.0.0/16,mrado.kozow.com,kozow.com,2024-02-29
-nanocore,103.114.104.158,1663,103.114.104.0/22,tzitziklishop3.ddns.net,ddns.net,2024-02-29
 lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-02-29
 njrat,34.86.252.187,1177,34.80.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-02-28
 njrat,79.228.201.177,666,79.192.0.0/10,,,2024-02-28
