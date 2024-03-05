@@ -1,8 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,139.84.139.29,1620,139.84.128.0/17,maxlogs.webhop.me,webhop.me,2024-03-05
 njrat,3.125.188.168,10352,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-03-05
 njrat,3.127.138.57,17647,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-03-05
 njrat,18.156.13.209,17647,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-03-05
-nanocore,139.84.139.29,1620,139.84.128.0/17,maxlogs.webhop.me,webhop.me,2024-03-05
 lokibot,104.237.252.14,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-05
 redline,20.218.68.91,7690,20.208.0.0/12,,,2024-03-05
 njrat,3.67.112.102,19976,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-03-05
