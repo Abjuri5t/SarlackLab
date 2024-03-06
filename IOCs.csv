@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,34.86.252.187,1177,34.80.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-03-06
+njrat,3.127.59.75,11855,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-03-06
 lokibot,192.169.69.26,80,192.169.68.0/22,abixmaly.duckdns.org,duckdns.org,2024-03-06
 lokibot,104.237.252.14,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-06
 redline,20.218.68.91,7690,20.208.0.0/12,,,2024-03-06
@@ -53,7 +55,6 @@ njrat,154.38.160.55,35888,154.38.160.0/20,njnjnjs.duckdns.org,duckdns.org,2024-0
 lokibot,91.92.252.146,8008,91.92.240.0/20,,,2024-02-29
 njrat,162.19.25.207,8080,162.19.0.0/16,mrado.kozow.com,kozow.com,2024-02-29
 lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-02-29
-njrat,34.86.252.187,1177,34.80.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-02-28
 njrat,79.228.201.177,666,79.192.0.0/10,,,2024-02-28
 nanocore,83.213.157.103,1515,83.213.128.0/19,nibiru33.duckdns.org,duckdns.org,2024-02-28
 njrat,46.246.14.67,7771,46.246.12.0/22,berlyndinero.duckdns.org,duckdns.org,2024-02-27
