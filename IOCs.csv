@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,34.86.252.187,5050,34.80.0.0/13,seznam.zapto.org,zapto.org,2024-03-05
 njrat,94.72.114.95,5552,94.72.112.0/20,,,2024-03-05
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-03-05
 njrat,147.185.221.16,30641,147.185.221.0/24,electric-guest.gl.at.ply.gg,ply.gg,2024-03-05
@@ -61,7 +62,6 @@ njrat,3.125.223.134,12780,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-27
 nanocore,192.169.69.26,1177,192.169.68.0/22,backupnew.duckdns.org,duckdns.org,2024-02-27
 lumma,104.21.13.74,80,104.21.0.0/17,zamesblack.fun,zamesblack.fun,2024-02-27
 lokibot,91.92.252.146,8004,91.92.240.0/20,,,2024-02-27
-njrat,34.86.252.187,5050,34.80.0.0/13,seznam.zapto.org,zapto.org,2024-02-26
 njrat,147.185.221.18,43389,147.185.221.0/24,18.ip.gl.ply.gg,ply.gg,2024-02-26
 njrat,149.102.235.115,3000,149.102.224.0/19,,,2024-02-26
 njrat,54.94.248.37,12778,54.94.0.0/15,0.tcp.sa.ngrok.io,ngrok.io,2024-02-26
