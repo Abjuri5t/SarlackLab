@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.64.4.198,10058,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-03-07
 redline,20.218.68.91,7690,20.208.0.0/12,,,2024-03-07
 redline,65.108.20.226,37715,65.108.0.0/15,,,2024-03-06
 nanocore,139.84.139.29,5273,139.84.128.0/17,maxlogs.webhop.me,webhop.me,2024-03-06
