@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,147.45.45.81,30063,147.45.45.0/24,,,2024-03-09
 njrat,178.63.148.180,5552,178.63.0.0/16,,,2024-03-09
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-03-09
 nanocore,139.84.139.29,1620,139.84.128.0/17,maxlogs.webhop.me,webhop.me,2024-03-09
@@ -144,7 +145,6 @@ nanocore,192.169.69.25,1990,192.169.68.0/22,elianisgalidon3020.duckdns.org,duckd
 njrat,46.246.12.11,2054,46.246.12.0/22,nuevosremcs.duckdns.org,duckdns.org,2024-02-20
 njrat,154.197.124.161,2222,154.197.124.0/24,mangaforme.cloud,mangaforme.cloud,2024-02-20
 nanocore,192.169.69.26,64418,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-02-19
-redline,147.45.45.81,30063,147.45.45.0/24,,,2024-02-19
 njrat,46.246.80.3,1994,46.246.64.0/18,patria.duckdns.org,duckdns.org,2024-02-19
 njrat,3.142.167.54,19346,3.128.0.0/12,8.tcp.ngrok.io,ngrok.io,2024-02-19
 njrat,3.125.102.39,16904,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-19
