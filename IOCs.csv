@@ -1,7 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.161.190.139,13757,5.161.128.0/18,,,2024-03-09
+redline,20.218.68.91,7690,20.208.0.0/12,,,2024-03-09
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-09
 njrat,41.103.44.20,999,41.96.0.0/13,zakifail.hopto.org,hopto.org,2024-03-09
 recordbreaker,94.131.106.24,80,94.131.96.0/20,,,2024-03-09
-redline,20.218.68.91,7690,20.208.0.0/12,,,2024-03-09
 nanocore,139.84.139.29,1620,139.84.128.0/17,maxlogs.webhop.me,webhop.me,2024-03-09
 redline,147.45.45.81,30063,147.45.45.0/24,,,2024-03-09
 njrat,178.63.148.180,5552,178.63.0.0/16,,,2024-03-09
@@ -12,7 +14,6 @@ njrat,3.66.38.117,13672,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-09
 recordbreaker,195.20.16.127,80,195.20.16.0/24,,,2024-03-08
 recordbreaker,37.49.230.152,80,37.49.230.0/24,,,2024-03-08
 njrat,34.86.252.187,1177,34.80.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-03-08
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-08
 njrat,186.169.53.81,2025,186.169.32.0/19,mistersjsas1.duckdns.org,duckdns.org,2024-03-08
 lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-03-08
 lumma,188.114.97.2,80,188.114.96.0/22,freckletropsao.pw,freckletropsao.pw,2024-03-08
