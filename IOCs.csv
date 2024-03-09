@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.121.139.82,14314,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-03-09
+nanocore,192.169.69.26,313,192.169.68.0/22,podzeye.duckdns.org,duckdns.org,2024-03-09
 njrat,3.66.38.117,13672,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-09
 recordbreaker,195.20.16.127,80,195.20.16.0/24,,,2024-03-08
 recordbreaker,37.49.230.152,80,37.49.230.0/24,,,2024-03-08
