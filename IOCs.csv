@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,139.84.139.29,1620,139.84.128.0/17,maxlogs.webhop.me,webhop.me,2024-03-09
 njrat,3.121.139.82,14314,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-03-09
 nanocore,192.169.69.26,313,192.169.68.0/22,podzeye.duckdns.org,duckdns.org,2024-03-09
 njrat,3.66.38.117,13672,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-09
@@ -26,7 +27,6 @@ njrat,34.86.252.187,5050,34.80.0.0/13,seznam.zapto.org,zapto.org,2024-03-05
 njrat,94.72.114.95,5552,94.72.112.0/20,,,2024-03-05
 njrat,147.185.221.16,30641,147.185.221.0/24,electric-guest.gl.at.ply.gg,ply.gg,2024-03-05
 lokibot,91.92.252.146,4002,91.92.240.0/20,,,2024-03-05
-nanocore,139.84.139.29,1620,139.84.128.0/17,maxlogs.webhop.me,webhop.me,2024-03-05
 njrat,3.125.188.168,10352,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-03-05
 njrat,3.127.138.57,17647,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-03-05
 njrat,18.156.13.209,17647,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-03-05
