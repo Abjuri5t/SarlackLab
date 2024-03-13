@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.237.252.14,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-13
+lokibot,91.92.252.146,4002,91.92.240.0/20,,,2024-03-12
 redline,91.92.243.162,45162,91.92.240.0/20,,,2024-03-11
 njrat,3.66.38.117,13672,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-11
 njrat,3.125.209.94,19607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-11
@@ -31,7 +33,6 @@ lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-03-0
 lumma,188.114.97.2,80,188.114.96.0/22,freckletropsao.pw,freckletropsao.pw,2024-03-08
 njrat,167.86.86.15,3333,167.86.84.0/22,junio2023.duckdns.org,duckdns.org,2024-03-08
 njrat,18.231.93.153,19606,18.224.0.0/13,0.tcp.sa.ngrok.io,ngrok.io,2024-03-08
-lokibot,104.237.252.14,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-07
 redline,194.116.173.25,6519,194.116.172.0/23,,,2024-03-07
 njrat,3.64.4.198,10058,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-03-07
 redline,65.108.20.226,37715,65.108.0.0/15,,,2024-03-06
@@ -42,7 +43,6 @@ lokibot,192.169.69.26,80,192.169.68.0/22,abixmaly.duckdns.org,duckdns.org,2024-0
 njrat,34.86.252.187,5050,34.80.0.0/13,seznam.zapto.org,zapto.org,2024-03-05
 njrat,94.72.114.95,5552,94.72.112.0/20,,,2024-03-05
 njrat,147.185.221.16,30641,147.185.221.0/24,electric-guest.gl.at.ply.gg,ply.gg,2024-03-05
-lokibot,91.92.252.146,4002,91.92.240.0/20,,,2024-03-05
 njrat,3.125.188.168,10352,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-03-05
 njrat,3.127.138.57,17647,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-03-05
 njrat,18.156.13.209,17647,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-03-05
