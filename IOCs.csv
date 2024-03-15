@@ -1,5 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.142,33597,45.15.156.0/24,,,2024-03-15
 redline,34.31.226.230,37558,34.16.0.0/12,,,2024-03-15
+njrat,46.246.12.6,2054,46.246.12.0/22,mexico2020.duckdns.org,duckdns.org,2024-03-15
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-03-15
 njrat,3.125.223.134,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-15
 njrat,18.158.249.75,12607,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-03-15
@@ -21,7 +23,6 @@ njrat,3.125.209.94,19607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-11
 njrat,3.125.209.94,17485,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-11
 njrat,3.125.223.134,16779,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-11
 njrat,3.127.59.75,14314,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-03-11
-redline,45.15.156.142,33597,45.15.156.0/24,,,2024-03-11
 njrat,216.218.135.118,3604,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-03-11
 njrat,3.125.209.94,11258,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-11
 redline,20.218.68.91,7690,20.208.0.0/12,,,2024-03-10
