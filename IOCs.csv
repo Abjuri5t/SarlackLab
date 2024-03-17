@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.158.249.75,12051,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-03-17
+njrat,3.124.142.205,12051,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-17
+njrat,89.245.35.152,25565,89.245.0.0/17,,,2024-03-17
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-17
 njrat,193.161.193.99,48079,193.161.193.0/24,pidorgeio-48079.portmap.host,portmap.host,2024-03-17
 lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-03-17
