@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,35.213.200.121,80,35.213.128.0/17,www.rnofinancial.com.au,com.au,2024-03-18
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-03-18
 njrat,18.192.31.165,11326,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-18
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-18
@@ -36,7 +37,6 @@ nanocore,67.213.108.79,4782,67.213.96.0/20,api.fwfy.club,fwfy.club,2024-03-14
 nanocore,222.114.183.144,54984,222.114.128.0/17,kgj112233.codns.com,codns.com,2024-03-14
 lokibot,31.22.7.45,80,31.22.6.0/23,mauricioclopatofsky.tel,mauricioclopatofsky.tel,2024-03-14
 lokibot,192.185.115.239,80,192.185.64.0/18,avatar.ps,avatar.ps,2024-03-14
-lokibot,35.213.200.121,80,35.213.128.0/17,www.rnofinancial.com.au,com.au,2024-03-14
 lokibot,104.237.252.14,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-14
 lokibot,91.92.252.146,4002,91.92.240.0/20,,,2024-03-12
 redline,91.92.243.162,45162,91.92.240.0/20,,,2024-03-11
