@@ -1,4 +1,10 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.73.201,80,104.21.0.0/17,saldanha.top,saldanha.top,2024-03-23
+lokibot,172.67.165.208,80,172.67.0.0/16,saldanha.top,saldanha.top,2024-03-23
+lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-03-23
+lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-03-23
+lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-03-23
+lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-23
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-03-20
 redline,5.42.65.68,29093,5.42.64.0/22,,,2024-03-20
 njrat,46.246.84.18,3100,46.246.64.0/18,luisro2158.duckdns.org,duckdns.org,2024-03-20
@@ -74,7 +80,6 @@ recordbreaker,195.20.16.127,80,195.20.16.0/24,,,2024-03-08
 recordbreaker,37.49.230.152,80,37.49.230.0/24,,,2024-03-08
 njrat,34.86.252.187,1177,34.80.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-03-08
 njrat,186.169.53.81,2025,186.169.32.0/19,mistersjsas1.duckdns.org,duckdns.org,2024-03-08
-lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-03-08
 lumma,188.114.97.2,80,188.114.96.0/22,freckletropsao.pw,freckletropsao.pw,2024-03-08
 njrat,167.86.86.15,3333,167.86.84.0/22,junio2023.duckdns.org,duckdns.org,2024-03-08
 njrat,18.231.93.153,19606,18.224.0.0/13,0.tcp.sa.ngrok.io,ngrok.io,2024-03-08
@@ -188,7 +193,6 @@ njrat,3.127.181.115,13326,3.120.0.0/13,5.tcp.eu.ngrok.io,ngrok.io,2024-02-21
 njrat,3.125.102.39,19599,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-21
 nanocore,185.29.10.51,5211,185.29.10.0/24,jmoha66808.ddns.net,ddns.net,2024-02-21
 redline,20.218.68.91,13817,20.208.0.0/12,,,2024-02-21
-lokibot,104.21.73.201,80,104.21.0.0/17,saldanha.top,saldanha.top,2024-02-21
 njrat,46.246.6.4,1994,46.246.4.0/22,patria.duckdns.org,duckdns.org,2024-02-20
 nanocore,88.165.236.23,54985,88.160.0.0/11,nanocore73.zapto.org,zapto.org,2024-02-20
 nanocore,3.17.7.232,18237,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-02-20
@@ -282,7 +286,6 @@ redline,5.75.163.194,25084,5.75.128.0/17,,,2024-02-05
 njrat,213.159.61.169,1177,213.159.48.0/20,noiphabibi.ddns.net,ddns.net,2024-02-05
 nanocore,154.195.152.232,63641,154.195.128.0/18,,,2024-02-05
 njrat,3.6.122.107,19208,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-02-05
-lokibot,172.67.165.208,80,172.67.0.0/16,saldanha.top,saldanha.top,2024-02-05
 redline,156.251.19.27,20399,156.251.16.0/21,,,2024-02-05
 redline,92.222.212.74,1450,92.222.0.0/16,,,2024-02-04
 nanocore,192.169.69.26,8234,192.169.68.0/22,hhjhtggfr.duckdns.org,duckdns.org,2024-02-04
