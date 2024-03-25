@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-25
+lokibot,35.213.200.121,80,35.213.128.0/17,www.rnofinancial.com.au,com.au,2024-03-25
 redline,5.42.65.68,29093,5.42.64.0/22,,,2024-03-25
 njrat,94.131.122.80,5009,94.131.120.0/22,billions.ooguy.com,ooguy.com,2024-03-25
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-03-25
@@ -25,7 +27,6 @@ njrat,52.28.247.255,12377,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-03-24
 njrat,46.246.84.18,3100,46.246.64.0/18,luisro2158.duckdns.org,duckdns.org,2024-03-24
 nanocore,194.147.140.141,8100,194.147.140.0/24,nanomarch8100.duckdns.org,duckdns.org,2024-03-24
 lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-03-24
-lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-24
 njrat,3.124.142.205,18335,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
 njrat,179.14.8.182,2009,179.12.0.0/14,resilencia2023.duckdns.org,duckdns.org,2024-03-23
 njrat,3.125.102.39,13241,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
@@ -39,7 +40,6 @@ redline,34.31.226.230,37558,34.16.0.0/12,,,2024-03-19
 njrat,24.42.99.89,191,24.42.64.0/18,ameerpplus.ddns.net,ddns.net,2024-03-19
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-03-19
 njrat,3.125.209.94,11256,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-19
-lokibot,35.213.200.121,80,35.213.128.0/17,www.rnofinancial.com.au,com.au,2024-03-18
 njrat,18.192.31.165,11326,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-18
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-18
 njrat,89.245.33.102,25565,89.245.0.0/17,,,2024-03-18
