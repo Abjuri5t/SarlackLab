@@ -1,9 +1,11 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-03-26
+njrat,18.192.93.86,19282,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-03-26
+lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-26
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-03-26
 redline,194.87.107.145,10480,194.87.107.0/24,,,2024-03-26
 redline,5.42.65.68,29093,5.42.64.0/22,,,2024-03-26
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-03-26
-lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-25
 lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-03-25
 recordbreaker,193.233.132.231,80,193.233.132.0/24,,,2024-03-25
 njrat,94.131.122.80,5009,94.131.120.0/22,billions.ooguy.com,ooguy.com,2024-03-25
@@ -36,7 +38,6 @@ njrat,3.125.102.39,13241,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
 njrat,160.177.59.183,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-03-23
 nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-03-23
 lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-03-23
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-03-20
 njrat,3.68.171.119,12377,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-20
 redline,34.31.226.230,37558,34.16.0.0/12,,,2024-03-19
 njrat,24.42.99.89,191,24.42.64.0/18,ameerpplus.ddns.net,ddns.net,2024-03-19
