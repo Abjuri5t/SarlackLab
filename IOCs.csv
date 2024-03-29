@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,91.92.243.162,45162,91.92.240.0/20,,,2024-03-29
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-03-29
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-03-29
 njrat,18.197.239.109,14500,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-03-29
@@ -88,7 +89,6 @@ lokibot,31.22.7.45,80,31.22.6.0/23,mauricioclopatofsky.tel,mauricioclopatofsky.t
 lokibot,192.185.115.239,80,192.185.64.0/18,avatar.ps,avatar.ps,2024-03-14
 lokibot,104.237.252.14,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-14
 lokibot,91.92.252.146,4002,91.92.240.0/20,,,2024-03-12
-redline,91.92.243.162,45162,91.92.240.0/20,,,2024-03-11
 njrat,3.66.38.117,13672,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-11
 njrat,3.125.209.94,19607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-11
 njrat,3.125.209.94,17485,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-11
