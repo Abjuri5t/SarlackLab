@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.18,38122,147.185.221.0/24,links-annually.gl.at.ply.gg,ply.gg,2024-04-05
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-05
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-05
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-05
@@ -97,7 +98,6 @@ njrat,3.66.38.117,13040,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-15
 njrat,52.14.81.142,22206,52.8.0.0/13,7.tcp.ngrok.io,ngrok.io,2024-03-15
 njrat,94.72.114.95,5552,94.72.112.0/20,njtrial.duckdns.org,duckdns.org,2024-03-15
 njrat,178.63.148.180,5552,178.63.0.0/16,,,2024-03-15
-njrat,147.185.221.18,38122,147.185.221.0/24,links-annually.gl.at.ply.gg,ply.gg,2024-03-15
 nanocore,67.213.108.79,4782,67.213.96.0/20,api.fwfy.club,fwfy.club,2024-03-14
 nanocore,222.114.183.144,54984,222.114.128.0/17,kgj112233.codns.com,codns.com,2024-03-14
 lokibot,31.22.7.45,80,31.22.6.0/23,mauricioclopatofsky.tel,mauricioclopatofsky.tel,2024-03-14
