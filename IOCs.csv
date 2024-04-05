@@ -1,10 +1,25 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-03-29
+redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-05
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-05
+redline,5.42.65.0,29587,5.42.64.0/22,,,2024-04-05
+njrat,35.158.159.254,11464,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2024-04-05
+njrat,18.192.31.165,18511,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-05
+njrat,18.192.31.165,14390,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-05
+njrat,147.185.221.18,56522,147.185.221.0/24,having-jackson.gl.at.ply.gg,ply.gg,2024-04-05
+njrat,3.125.209.94,10543,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-05
+njrat,18.158.249.75,14390,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-05
+njrat,105.155.169.10,10000,105.155.128.0/18,doddyfire.linkpc.net,linkpc.net,2024-04-05
+njrat,3.125.223.134,10543,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-05
+njrat,3.125.102.39,10468,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-05
+njrat,179.13.0.175,5552,179.12.0.0/14,newnano-shel.duckdns.org,duckdns.org,2024-04-05
+njrat,46.246.84.9,3030,46.246.64.0/18,njpantalla.4cloud.click,4cloud.click,2024-04-05
+njrat,105.154.98.75,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-04-05
+nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-04-05
+nanocore,192.169.69.25,58887,192.169.68.0/22,kgentle77.duckdns.org,duckdns.org,2024-04-05
+nanocore,209.73.100.130,6969,209.73.96.0/19,j0k3r420.ddnsking.com,ddnsking.com,2024-04-05
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-29
 redline,91.92.243.162,45162,91.92.240.0/20,,,2024-03-29
-redline,4.185.137.132,1632,4.160.0.0/11,,,2024-03-29
 njrat,18.197.239.109,14500,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-03-29
-redline,5.42.65.0,29587,5.42.64.0/22,,,2024-03-29
 njrat,147.185.221.19,5491,147.185.221.0/24,registration-nil.gl.at.ply.gg,ply.gg,2024-03-29
 lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-29
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-03-29
@@ -53,7 +68,6 @@ njrat,3.124.142.205,18335,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
 njrat,179.14.8.182,2009,179.12.0.0/14,resilencia2023.duckdns.org,duckdns.org,2024-03-23
 njrat,3.125.102.39,13241,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
 njrat,160.177.59.183,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-03-23
-nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-03-23
 lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-03-23
 njrat,3.68.171.119,12377,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-20
 njrat,24.42.99.89,191,24.42.64.0/18,ameerpplus.ddns.net,ddns.net,2024-03-19
@@ -66,7 +80,6 @@ njrat,3.66.38.117,17008,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-18
 njrat,147.185.221.17,57514,147.185.221.0/24,17.ip.gl.ply.gg,ply.gg,2024-03-18
 redline,185.125.50.49,7439,185.125.50.0/24,,,2024-03-18
 njrat,147.185.221.18,41414,147.185.221.0/24,authority-amazon.gl.at.ply.gg,ply.gg,2024-03-17
-njrat,147.185.221.18,56522,147.185.221.0/24,having-jackson.gl.at.ply.gg,ply.gg,2024-03-17
 njrat,18.158.249.75,12051,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-03-17
 njrat,3.124.142.205,12051,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-17
 njrat,89.245.35.152,25565,89.245.0.0/17,,,2024-03-17
