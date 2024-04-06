@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,209.73.100.130,6969,209.73.96.0/19,j0k3r420.ddnsking.com,ddnsking.com,2024-04-06
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-06
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-06
 njrat,193.161.193.99,8080,193.161.193.0/24,wasted9sss1-57718.portmap.host,portmap.host,2024-04-05
@@ -26,7 +27,6 @@ njrat,46.246.84.9,3030,46.246.64.0/18,njpantalla.4cloud.click,4cloud.click,2024-
 njrat,105.154.98.75,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-04-05
 nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-04-05
 nanocore,192.169.69.25,58887,192.169.68.0/22,kgentle77.duckdns.org,duckdns.org,2024-04-05
-nanocore,209.73.100.130,6969,209.73.96.0/19,j0k3r420.ddnsking.com,ddnsking.com,2024-04-05
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-03-29
 redline,91.92.243.162,45162,91.92.240.0/20,,,2024-03-29
 njrat,18.197.239.109,14500,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-03-29
