@@ -1,5 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-06
+redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-06
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-06
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-06
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-06
@@ -35,7 +36,6 @@ redline,91.92.243.162,45162,91.92.240.0/20,,,2024-03-29
 njrat,18.197.239.109,14500,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-03-29
 njrat,147.185.221.19,5491,147.185.221.0/24,registration-nil.gl.at.ply.gg,ply.gg,2024-03-29
 lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-29
-redline,45.15.156.142,33597,45.15.156.0/24,,,2024-03-29
 njrat,160.176.152.91,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-03-28
 lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-03-28
 njrat,94.131.122.80,5009,94.131.120.0/22,billions.ooguy.com,ooguy.com,2024-03-28
