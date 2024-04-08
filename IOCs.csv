@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.26,8234,192.169.68.0/22,hhjhtggfr.duckdns.org,duckdns.org,2024-04-08
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-08
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-08
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-08
@@ -351,7 +352,6 @@ nanocore,154.195.152.232,63641,154.195.128.0/18,,,2024-02-05
 njrat,3.6.122.107,19208,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-02-05
 redline,156.251.19.27,20399,156.251.16.0/21,,,2024-02-05
 redline,92.222.212.74,1450,92.222.0.0/16,,,2024-02-04
-nanocore,192.169.69.26,8234,192.169.68.0/22,hhjhtggfr.duckdns.org,duckdns.org,2024-02-04
 nanocore,94.156.69.37,54984,94.156.64.0/21,updacon.hopto.org,hopto.org,2024-02-04
 njrat,3.127.138.57,17960,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-04
 nanocore,52.8.87.87,17240,52.8.0.0/13,0.tcp.us-cal-1.ngrok.io,ngrok.io,2024-02-04
