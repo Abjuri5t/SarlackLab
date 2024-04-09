@@ -1,8 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-09
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-09
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-09
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-09
+njrat,179.13.0.175,5556,179.12.0.0/14,newintento777.duckdns.org,duckdns.org,2024-04-09
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-09
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-09
 njrat,46.246.6.20,5050,46.246.4.0/22,asegurar1s.duckdns.org,duckdns.org,2024-04-09
 njrat,179.13.0.175,5554,179.12.0.0/14,newintento777.duckdns.org,duckdns.org,2024-04-09
 njrat,46.246.82.18,1994,46.246.64.0/18,patria.duckdns.org,duckdns.org,2024-04-09
