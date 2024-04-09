@@ -1,4 +1,11 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-08
+redline,5.42.65.0,29587,5.42.64.0/22,,,2024-04-08
+njrat,3.68.56.232,13306,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2024-04-08
+njrat,3.126.224.214,13306,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-04-08
+njrat,3.125.188.168,13306,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-04-08
+njrat,3.67.15.169,13306,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2024-04-08
+njrat,105.154.228.255,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-04-08
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-08
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-08
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-08
@@ -10,9 +17,7 @@ lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-04-0
 nanocore,192.169.69.26,8234,192.169.68.0/22,hhjhtggfr.duckdns.org,duckdns.org,2024-04-08
 redline,62.122.184.51,6017,62.122.184.0/24,,,2024-04-08
 njrat,94.131.122.80,5009,94.131.120.0/22,billions.ooguy.com,ooguy.com,2024-04-08
-redline,5.42.65.0,29587,5.42.64.0/22,,,2024-04-07
 njrat,41.142.31.190,10000,41.142.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-04-07
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-07
 njrat,18.198.77.177,14620,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-04-07
 njrat,52.28.112.211,12117,52.24.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-04-07
 redline,89.23.100.222,44528,89.23.100.0/23,,,2024-04-07
