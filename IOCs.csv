@@ -1,7 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-09
-redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-09
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-09
+redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-09
+redline,62.122.184.51,6017,62.122.184.0/24,,,2024-04-09
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-09
 njrat,179.13.0.175,5556,179.12.0.0/14,newintento777.duckdns.org,duckdns.org,2024-04-09
 njrat,46.246.6.20,5050,46.246.4.0/22,asegurar1s.duckdns.org,duckdns.org,2024-04-09
@@ -25,7 +26,6 @@ njrat,179.13.0.175,5555,179.12.0.0/14,firmes777.duckdns.org,duckdns.org,2024-04-
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-08
 lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-04-08
 nanocore,192.169.69.26,8234,192.169.68.0/22,hhjhtggfr.duckdns.org,duckdns.org,2024-04-08
-redline,62.122.184.51,6017,62.122.184.0/24,,,2024-04-08
 njrat,94.131.122.80,5009,94.131.120.0/22,billions.ooguy.com,ooguy.com,2024-04-08
 njrat,41.142.31.190,10000,41.142.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-04-07
 njrat,18.198.77.177,14620,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-04-07
