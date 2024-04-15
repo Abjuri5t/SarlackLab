@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-14
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-14
+lokibot,172.67.156.11,80,172.67.0.0/16,spencerstuartllc.top,spencerstuartllc.top,2024-04-14
 njrat,41.248.119.194,10000,41.248.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-04-14
 njrat,3.127.138.57,17170,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-04-14
 redline,4.185.137.132,1632,4.160.0.0/11,,,2024-04-14
