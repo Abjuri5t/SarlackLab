@@ -1,10 +1,18 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.192.31.165,12607,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-17
+njrat,3.125.102.39,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-17
+njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-17
+njrat,45.77.154.40,1177,45.76.0.0/15,ronymahmoud.casacam.net,casacam.net,2024-04-17
+njrat,191.233.27.50,5552,191.232.0.0/13,dzn.ddns.net,ddns.net,2024-04-17
+njrat,3.126.37.18,15020,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-04-17
+nanocore,93.123.39.100,8763,93.123.39.0/24,mup830634.duckdns.org,duckdns.org,2024-04-17
+lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-04-17
+lokibot,172.67.167.246,80,172.67.0.0/16,ebnsina.top,ebnsina.top,2024-04-17
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-17
 redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-17
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-04-17
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-17
 lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-04-17
-lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-04-17
 lokibot,172.67.156.11,80,172.67.0.0/16,spencerstuartllc.top,spencerstuartllc.top,2024-04-17
 lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-04-17
 njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-17
@@ -265,7 +273,6 @@ njrat,18.198.77.177,16495,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-02-29
 njrat,191.89.247.6,5552,191.88.0.0/14,888juantriana88.dynuddns.net,dynuddns.net,2024-02-29
 njrat,3.124.142.205,18909,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-29
 nanocore,192.169.69.25,4040,192.169.68.0/22,onpcsetup.duckdns.org,duckdns.org,2024-02-29
-njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-29
 njrat,154.38.160.55,35888,154.38.160.0/20,njnjnjs.duckdns.org,duckdns.org,2024-02-29
 lokibot,91.92.252.146,8008,91.92.240.0/20,,,2024-02-29
 njrat,162.19.25.207,8080,162.19.0.0/16,mrado.kozow.com,kozow.com,2024-02-29
@@ -313,7 +320,6 @@ njrat,18.192.31.165,12044,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,3.125.223.134,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,3.125.102.39,12044,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 njrat,18.158.249.75,12044,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
-njrat,3.125.102.39,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-23
 redline,185.209.162.106,80,185.209.160.0/22,mezla.site,mezla.site,2024-02-23
 njrat,147.185.221.18,37064,147.185.221.0/24,training-invasion.gl.at.ply.gg,ply.gg,2024-02-22
 redline,95.216.104.115,4328,95.216.0.0/15,,,2024-02-22
@@ -356,7 +362,6 @@ njrat,18.158.249.75,10540,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-02-17
 njrat,3.125.209.94,10540,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-17
 nanocore,82.117.230.122,54984,82.117.230.0/23,,,2024-02-17
 redline,185.172.128.33,8924,185.172.128.0/24,,,2024-02-16
-lokibot,172.67.167.246,80,172.67.0.0/16,ebnsina.top,ebnsina.top,2024-02-15
 njrat,18.197.239.5,15020,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-15
 recordbreaker,195.2.76.141,80,195.2.76.0/24,,,2024-02-15
 njrat,35.157.111.131,15119,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2024-02-15
