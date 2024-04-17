@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-04-17
+njrat,147.185.221.19,29750,147.185.221.0/24,require-spa.gl.at.ply.gg,ply.gg,2024-04-17
+lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-04-17
 redline,87.121.105.175,14845,87.121.105.0/24,,,2024-04-17
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-17
 njrat,147.185.221.19,29545,147.185.221.0/24,cars-fraction.gl.at.ply.gg,ply.gg,2024-04-16
@@ -22,7 +25,6 @@ njrat,147.185.221.19,28632,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,
 lokibot,91.92.254.199,80,91.92.240.0/20,tequilacofradiamx.com,tequilacofradiamx.com,2024-04-15
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-15
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-15
-lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-04-15
 njrat,5.39.43.50,8096,5.39.0.0/17,,,2024-04-15
 lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-04-15
 lokibot,172.67.156.11,80,172.67.0.0/16,spencerstuartllc.top,spencerstuartllc.top,2024-04-14
@@ -287,7 +289,6 @@ njrat,31.10.67.116,5552,31.10.64.0/18,,,2024-02-25
 njrat,3.126.37.18,16653,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-25
 redline,15.235.131.20,44647,15.235.0.0/16,,,2024-02-25
 njrat,147.185.221.18,80,147.185.221.0/24,conference-cal.gl.at.ply.gg,ply.gg,2024-02-24
-njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-02-24
 njrat,147.185.221.18,43519,147.185.221.0/24,male-stephen.gl.at.ply.gg,ply.gg,2024-02-24
 redline,77.246.158.53,13551,77.246.156.0/22,,,2024-02-24
 njrat,147.185.221.18,35017,147.185.221.0/24,content-royal.gl.at.ply.gg,ply.gg,2024-02-24
