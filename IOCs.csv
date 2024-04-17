@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-16
+njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-16
+njrat,147.185.221.19,29058,147.185.221.0/24,tue-jake.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,3.13.191.225,19044,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-16
 njrat,3.14.182.203,19044,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-16
 njrat,3.134.125.175,19044,3.128.0.0/12,0.tcp.ngrok.io,ngrok.io,2024-04-16
@@ -6,10 +9,7 @@ redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-16
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-16
 nanocore,3.6.115.64,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-16
 nanocore,3.6.115.182,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-16
-redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-16
-njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,147.185.221.19,28329,147.185.221.0/24,report-dust.gl.at.ply.gg,ply.gg,2024-04-16
-njrat,147.185.221.19,29058,147.185.221.0/24,tue-jake.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,3.124.142.205,10869,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-15
 njrat,3.125.223.134,10869,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-15
 njrat,3.125.102.39,10869,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-15
