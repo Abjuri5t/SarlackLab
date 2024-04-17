@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-17
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-17
 njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.19,29750,147.185.221.0/24,require-spa.gl.at.ply.gg,ply.gg,2024-04-17
@@ -7,7 +9,6 @@ redline,87.121.105.175,14845,87.121.105.0/24,,,2024-04-17
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-17
 njrat,147.185.221.19,29545,147.185.221.0/24,cars-fraction.gl.at.ply.gg,ply.gg,2024-04-16
 redline,89.23.100.222,44528,89.23.100.0/23,,,2024-04-16
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-16
 redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-16
 lokibot,91.92.253.228,80,91.92.240.0/20,tequilacofradiamx.com,tequilacofradiamx.com,2024-04-16
 njrat,147.185.221.19,29058,147.185.221.0/24,tue-jake.gl.at.ply.gg,ply.gg,2024-04-16
@@ -24,7 +25,6 @@ njrat,147.185.221.19,17455,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,
 njrat,147.185.221.19,28632,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-15
 lokibot,91.92.254.199,80,91.92.240.0/20,tequilacofradiamx.com,tequilacofradiamx.com,2024-04-15
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-15
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-15
 njrat,5.39.43.50,8096,5.39.0.0/17,,,2024-04-15
 lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-04-15
 lokibot,172.67.156.11,80,172.67.0.0/16,spencerstuartllc.top,spencerstuartllc.top,2024-04-14
