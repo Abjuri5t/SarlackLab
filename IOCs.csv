@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.19,29750,147.185.221.0/24,require-spa.gl.at.ply.gg,ply.gg,2024-04-17
 lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-04-17
@@ -9,7 +10,6 @@ redline,89.23.100.222,44528,89.23.100.0/23,,,2024-04-16
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-16
 redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-16
 lokibot,91.92.253.228,80,91.92.240.0/20,tequilacofradiamx.com,tequilacofradiamx.com,2024-04-16
-njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,147.185.221.19,29058,147.185.221.0/24,tue-jake.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,3.13.191.225,19044,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-16
 njrat,3.14.182.203,19044,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-16
