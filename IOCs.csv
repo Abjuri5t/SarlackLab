@@ -1,4 +1,25 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-19
+njrat,179.14.8.182,2009,179.12.0.0/14,resilencia2023.duckdns.org,duckdns.org,2024-04-19
+njrat,3.124.142.205,13241,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,3.125.102.39,13241,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,3.125.102.39,18335,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,3.125.223.134,18335,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,18.158.249.75,18335,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,20.206.240.63,1024,20.204.0.0/14,,,2024-04-19
+njrat,3.125.223.134,15422,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,18.192.31.165,15422,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,18.158.249.75,15422,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,46.246.84.16,1994,46.246.64.0/18,patria.duckdns.org,duckdns.org,2024-04-19
+njrat,3.125.102.39,17888,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,18.158.249.75,17888,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,3.125.223.134,17888,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
+njrat,46.246.12.3,2552,46.246.12.0/22,alma27.duckdns.org,duckdns.org,2024-04-19
+njrat,46.246.12.11,2054,46.246.12.0/22,nuevosecua.duckdns.org,duckdns.org,2024-04-19
+njrat,196.74.150.120,10000,196.74.0.0/15,doddyfire.linkpc.net,linkpc.net,2024-04-19
+lokibot,203.159.80.211,80,203.159.80.0/24,,,2024-04-19
+lokibot,192.236.162.239,80,192.236.160.0/22,,,2024-04-19
+lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-04-19
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-19
 redline,4.184.225.183,30592,4.160.0.0/11,,,2024-04-19
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-19
@@ -32,7 +53,6 @@ njrat,3.125.102.39,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-17
 njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-17
 njrat,3.126.37.18,15020,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-04-17
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-04-17
-lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-04-17
 lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-04-17
 njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-04-17
@@ -54,7 +74,6 @@ njrat,3.125.102.39,10869,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-15
 njrat,147.185.221.19,17455,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-15
 njrat,147.185.221.19,28632,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-15
 lokibot,91.92.254.199,80,91.92.240.0/20,tequilacofradiamx.com,tequilacofradiamx.com,2024-04-15
-redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-15
 njrat,5.39.43.50,8096,5.39.0.0/17,,,2024-04-15
 njrat,41.248.119.194,10000,41.248.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-04-14
 njrat,3.127.138.57,17170,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-04-14
@@ -153,9 +172,7 @@ njrat,18.197.239.109,14500,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-03-29
 njrat,147.185.221.19,5491,147.185.221.0/24,registration-nil.gl.at.ply.gg,ply.gg,2024-03-29
 njrat,160.176.152.91,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-03-28
 redline,34.31.226.230,37558,34.16.0.0/12,,,2024-03-28
-njrat,18.192.31.165,15422,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-28
 lokibot,34.162.170.92,80,34.160.0.0/14,secure01-redirect.net,secure01-redirect.net,2024-03-28
-njrat,20.206.240.63,1024,20.204.0.0/14,,,2024-03-27
 redline,194.87.107.145,10480,194.87.107.0/24,,,2024-03-27
 njrat,147.185.221.18,54056,147.185.221.0/24,results-outdoors.gl.at.ply.gg,ply.gg,2024-03-27
 njrat,147.185.221.19,5585,147.185.221.0/24,prior-gently.gl.at.ply.gg,ply.gg,2024-03-27
@@ -187,8 +204,6 @@ njrat,52.28.247.255,12377,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-03-24
 njrat,46.246.84.18,3100,46.246.64.0/18,luisro2158.duckdns.org,duckdns.org,2024-03-24
 nanocore,194.147.140.141,8100,194.147.140.0/24,nanomarch8100.duckdns.org,duckdns.org,2024-03-24
 njrat,3.124.142.205,18335,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
-njrat,179.14.8.182,2009,179.12.0.0/14,resilencia2023.duckdns.org,duckdns.org,2024-03-23
-njrat,3.125.102.39,13241,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
 njrat,160.177.59.183,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-03-23
 lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-03-23
 njrat,3.68.171.119,12377,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-20
@@ -317,7 +332,6 @@ njrat,147.185.221.18,43519,147.185.221.0/24,male-stephen.gl.at.ply.gg,ply.gg,202
 redline,77.246.158.53,13551,77.246.156.0/22,,,2024-02-24
 njrat,147.185.221.18,35017,147.185.221.0/24,content-royal.gl.at.ply.gg,ply.gg,2024-02-24
 njrat,95.86.227.200,25565,95.86.224.0/19,kisel228.zapto.org,zapto.org,2024-02-24
-lokibot,192.236.162.239,80,192.236.160.0/22,,,2024-02-24
 njrat,43.229.148.210,5556,43.229.148.0/22,appserv.ddns.net,ddns.net,2024-02-24
 njrat,147.185.221.18,80,147.185.221.0/24,nature-dawn.gl.at.ply.gg,ply.gg,2024-02-24
 njrat,18.157.68.73,15217,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-02-24
@@ -413,12 +427,10 @@ njrat,46.246.82.3,5552,46.246.64.0/18,peces.duckdns.org,duckdns.org,2024-02-10
 njrat,46.246.84.15,1995,46.246.64.0/18,patria.duckdns.org,duckdns.org,2024-02-10
 redline,91.92.244.55,13002,91.92.240.0/20,,,2024-02-10
 redline,156.251.19.27,20399,156.251.16.0/20,,,2024-02-09
-njrat,18.158.249.75,17888,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-02-09
 njrat,3.6.115.64,15032,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-02-09
 redline,80.66.85.145,27441,80.66.85.0/24,,,2024-02-09
 njrat,18.197.239.5,13056,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-09
 njrat,18.192.93.86,13056,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-09
-njrat,3.125.223.134,17888,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-09
 redline,91.92.246.148,3362,91.92.240.0/20,,,2024-02-08
 njrat,147.185.221.18,5204,147.185.221.0/24,18.ip.gl.ply.gg,ply.gg,2024-02-08
 nanocore,3.138.180.119,16825,3.128.0.0/12,4.tcp.ngrok.io,ngrok.io,2024-02-08
