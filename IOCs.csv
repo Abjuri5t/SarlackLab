@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-20
+nanocore,192.169.69.26,1177,192.169.68.0/22,backupnew.duckdns.org,duckdns.org,2024-04-20
 lokibot,192.169.69.26,80,192.169.68.0/22,abixmaly.duckdns.org,duckdns.org,2024-04-20
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-20
 redline,4.184.225.183,30592,4.160.0.0/11,,,2024-04-20
@@ -9,7 +11,6 @@ njrat,3.125.209.94,14390,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 njrat,3.125.209.94,10543,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 njrat,18.192.31.165,10543,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 njrat,3.125.102.39,10543,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
-redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-19
 njrat,46.246.84.16,1994,46.246.64.0/18,rusia.duckdns.org,duckdns.org,2024-04-19
 lokibot,91.92.253.228,80,91.92.240.0/20,tequilacofradiamx.com,tequilacofradiamx.com,2024-04-19
 lokibot,94.156.65.182,80,94.156.64.0/21,,,2024-04-19
@@ -321,7 +322,6 @@ njrat,46.246.14.67,7771,46.246.12.0/22,berlyndinero.duckdns.org,duckdns.org,2024
 njrat,192.169.69.26,8651,192.169.68.0/22,gbarpresencewriterprint.duckdns.org,duckdns.org,2024-02-27
 njrat,46.246.84.5,2054,46.246.64.0/18,clarosecurity-com.duckdns.org,duckdns.org,2024-02-27
 njrat,3.125.223.134,12780,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-27
-nanocore,192.169.69.26,1177,192.169.68.0/22,backupnew.duckdns.org,duckdns.org,2024-02-27
 lumma,104.21.13.74,80,104.21.0.0/17,zamesblack.fun,zamesblack.fun,2024-02-27
 lokibot,91.92.252.146,8004,91.92.240.0/20,,,2024-02-27
 njrat,147.185.221.18,43389,147.185.221.0/24,18.ip.gl.ply.gg,ply.gg,2024-02-26
