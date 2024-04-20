@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-20
+nanocore,91.92.245.231,56648,91.92.240.0/20,discoveryvipshinjiru2law.ooguy.com,ooguy.com,2024-04-20
+lokibot,35.213.200.121,80,35.213.128.0/17,www.rnofinancial.com.au,com.au,2024-04-20
 redline,4.184.225.183,30592,4.160.0.0/11,,,2024-04-20
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-20
 njrat,18.158.249.75,19177,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
@@ -9,7 +12,6 @@ njrat,83.196.78.85,8080,83.192.0.0/13,,,2024-04-20
 nanocore,3.124.142.205,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 nanocore,3.125.102.39,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 nanocore,3.125.209.94,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
-redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-20
 nanocore,192.169.69.26,1177,192.169.68.0/22,backupnew.duckdns.org,duckdns.org,2024-04-20
 lokibot,192.169.69.26,80,192.169.68.0/22,abixmaly.duckdns.org,duckdns.org,2024-04-20
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-20
@@ -201,7 +203,6 @@ njrat,147.185.221.18,64479,147.185.221.0/24,share-introduced.gl.at.ply.gg,ply.gg
 redline,15.235.131.20,39206,15.235.0.0/16,,,2024-03-26
 njrat,18.192.93.86,19282,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-03-26
 recordbreaker,193.233.132.231,80,193.233.132.0/24,,,2024-03-25
-lokibot,35.213.200.121,80,35.213.128.0/17,www.rnofinancial.com.au,com.au,2024-03-25
 lokibot,172.67.165.208,80,172.67.0.0/16,saldanha.top,saldanha.top,2024-03-25
 lokibot,104.21.73.201,80,104.21.0.0/17,saldanha.top,saldanha.top,2024-03-25
 redline,193.233.133.152,35515,193.233.133.0/24,,,2024-03-25
