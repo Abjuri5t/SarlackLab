@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.17,58503,147.185.221.0/24,basic-values.gl.at.ply.gg,ply.gg,2024-04-20
+njrat,83.196.78.85,8080,83.192.0.0/13,,,2024-04-20
 nanocore,3.124.142.205,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 nanocore,3.125.102.39,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 nanocore,3.125.209.94,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
