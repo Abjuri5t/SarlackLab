@@ -1,11 +1,18 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-21
+redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-21
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-21
 redline,4.184.225.183,30592,4.160.0.0/11,,,2024-04-21
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-21
+nanocore,3.125.223.134,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
+nanocore,3.125.209.94,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
+nanocore,3.125.102.39,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
+nanocore,3.124.142.205,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
+nanocore,18.192.31.165,11720,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
+nanocore,18.158.249.75,11720,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
+lokibot,94.156.65.182,80,94.156.64.0/21,,,2024-04-21
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-21
 redline,195.20.16.134,46690,195.20.16.0/24,,,2024-04-21
 lokibot,176.223.110.10,80,176.223.110.0/24,ecurs.ro,ecurs.ro,2024-04-21
-redline,5.42.65.50,33080,5.42.64.0/22,,,2024-04-21
 njrat,147.185.221.19,32934,147.185.221.0/24,quotes-nl.gl.at.ply.gg,ply.gg,2024-04-21
 nanocore,91.92.245.231,56648,91.92.240.0/20,discoveryvipshinjiru2law.ooguy.com,ooguy.com,2024-04-20
 lokibot,35.213.200.121,80,35.213.128.0/17,www.rnofinancial.com.au,com.au,2024-04-20
@@ -14,9 +21,6 @@ njrat,18.192.31.165,19177,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 njrat,147.185.221.19,32481,147.185.221.0/24,other-tours.gl.at.ply.gg,ply.gg,2024-04-20
 njrat,147.185.221.17,58503,147.185.221.0/24,basic-values.gl.at.ply.gg,ply.gg,2024-04-20
 njrat,83.196.78.85,8080,83.192.0.0/13,,,2024-04-20
-nanocore,3.124.142.205,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
-nanocore,3.125.102.39,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
-nanocore,3.125.209.94,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 nanocore,192.169.69.26,1177,192.169.68.0/22,backupnew.duckdns.org,duckdns.org,2024-04-20
 lokibot,192.169.69.26,80,192.169.68.0/22,abixmaly.duckdns.org,duckdns.org,2024-04-20
 njrat,3.124.142.205,14390,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
@@ -27,7 +31,6 @@ njrat,18.192.31.165,10543,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 njrat,3.125.102.39,10543,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-20
 njrat,46.246.84.16,1994,46.246.64.0/18,rusia.duckdns.org,duckdns.org,2024-04-19
 lokibot,91.92.253.228,80,91.92.240.0/20,tequilacofradiamx.com,tequilacofradiamx.com,2024-04-19
-lokibot,94.156.65.182,80,94.156.64.0/21,,,2024-04-19
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-19
 njrat,179.14.8.182,2009,179.12.0.0/14,resilencia2023.duckdns.org,duckdns.org,2024-04-19
 njrat,3.124.142.205,13241,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
