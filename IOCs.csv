@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.65.96,28380,5.42.64.0/22,,,2024-04-22
+lokibot,91.92.253.228,80,91.92.240.0/20,,,2024-04-22
 redline,193.233.132.169,37732,193.233.132.0/24,,,2024-04-22
 njrat,179.14.8.182,2009,179.12.0.0/14,resilencia2023.duckdns.org,duckdns.org,2024-04-22
 lokibot,185.182.56.12,80,185.182.56.0/22,mypony.nl,mypony.nl,2024-04-22
@@ -11,7 +13,6 @@ njrat,3.14.182.203,16969,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-22
 njrat,3.13.191.225,16969,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-22
 njrat,3.17.7.232,16969,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-22
 redline,45.89.53.206,4663,45.89.52.0/22,,,2024-04-22
-lokibot,91.92.253.228,80,91.92.240.0/20,,,2024-04-22
 nanocore,3.125.223.134,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
 nanocore,3.125.209.94,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
 nanocore,3.125.102.39,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
