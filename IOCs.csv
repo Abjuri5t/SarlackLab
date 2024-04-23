@@ -1,13 +1,14 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-23
+nanocore,3.6.98.232,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
+nanocore,3.6.30.85,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
+nanocore,3.6.122.107,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
+nanocore,3.6.115.182,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
+nanocore,3.6.115.64,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
 redline,87.121.105.175,14845,87.121.105.0/24,,,2024-04-23
 redline,5.42.65.96,28380,5.42.64.0/22,,,2024-04-23
-nanocore,3.6.115.64,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
-nanocore,3.6.115.182,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
-nanocore,3.6.30.85,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
-nanocore,3.6.98.232,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-23
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-23
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-23
 nanocore,91.92.245.231,64418,91.92.240.0/20,december2nd.ddns.net,ddns.net,2024-04-23
 redline,91.92.241.122,39361,91.92.240.0/20,,,2024-04-23
 njrat,41.200.95.182,5552,41.200.0.0/16,wscript.ddns.net,ddns.net,2024-04-22
