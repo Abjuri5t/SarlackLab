@@ -1,4 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.19,17455,147.185.221.0/24,green-morrison.gl.at.ply.gg,ply.gg,2024-04-23
+nanocore,3.6.30.85,10651,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
+nanocore,3.6.122.107,10651,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
+nanocore,3.6.98.232,10651,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
+nanocore,3.6.115.182,10651,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-23
 nanocore,3.6.98.232,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
 nanocore,3.6.30.85,15030,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-04-23
