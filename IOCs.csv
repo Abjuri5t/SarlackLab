@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,57.128.52.136,80,57.128.0.0/16,flypadi.com,flypadi.com,2024-04-25
 lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-04-25
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-04-25
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-25
