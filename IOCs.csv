@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-27
 njrat,147.185.221.19,17455,147.185.221.0/24,green-morrison.gl.at.ply.gg,ply.gg,2024-04-27
 redline,5.42.65.96,28380,5.42.64.0/22,,,2024-04-27
 njrat,147.185.221.19,17455,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-27
@@ -29,7 +30,6 @@ njrat,3.125.102.39,12143,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-24
 njrat,18.158.249.75,12143,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-24
 njrat,3.125.223.134,12143,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-24
 njrat,18.192.31.165,12143,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-24
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-24
 njrat,3.121.139.82,12138,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-04-24
 redline,103.113.70.99,2630,103.113.68.0/22,,,2024-04-24
 njrat,46.246.84.12,1994,46.246.64.0/18,rusia.duckdns.org,duckdns.org,2024-04-24
