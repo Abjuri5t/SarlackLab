@@ -1,11 +1,13 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-27
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-28
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-28
+redline,45.15.156.167,80,45.15.156.0/24,,,2024-04-28
+njrat,184.105.237.195,7412,184.105.236.0/23,supporknowledgebase.ddns.net,ddns.net,2024-04-28
+lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-04-28
 njrat,147.185.221.19,17455,147.185.221.0/24,green-morrison.gl.at.ply.gg,ply.gg,2024-04-27
 redline,5.42.65.96,28380,5.42.64.0/22,,,2024-04-27
 njrat,147.185.221.19,17455,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-27
 njrat,147.185.221.19,28632,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-27
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-27
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-27
 lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-04-27
 njrat,147.185.221.19,36969,147.185.221.0/24,phentermine-partial.gl.at.ply.gg,ply.gg,2024-04-27
 njrat,160.176.159.27,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-04-26
@@ -169,7 +171,6 @@ njrat,18.192.31.165,17231,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-13
 njrat,136.243.179.5,1414,136.243.178.0/23,booksports64.linkpc.net,linkpc.net,2024-04-13
 njrat,34.88.143.155,1177,34.88.0.0/14,seznam.zapto.org,zapto.org,2024-04-13
 njrat,41.249.108.177,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-04-13
-lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-04-13
 lokibot,185.215.113.67,26260,185.215.113.0/24,blesblochem.com,blesblochem.com,2024-04-13
 lokibot,185.172.128.33,8970,185.172.128.0/24,blesblochem.com,blesblochem.com,2024-04-13
 lokibot,4.185.137.132,1632,4.160.0.0/11,blesblochem.com,blesblochem.com,2024-04-13
