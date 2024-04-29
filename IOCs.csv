@@ -1,10 +1,11 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-29
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-29
+redline,89.23.100.222,44528,89.23.100.0/23,,,2024-04-29
 lokibot,67.227.226.240,80,67.227.128.0/17,apolovapers.com,apolovapers.com,2024-04-29
 redline,5.42.65.96,28380,5.42.64.0/22,,,2024-04-29
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-29
 recordbreaker,91.92.255.182,80,91.92.240.0/20,,,2024-04-29
 nanocore,192.169.69.26,64418,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-04-29
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-29
 njrat,178.128.228.252,5552,178.128.0.0/16,asero23.ddns.net,ddns.net,2024-04-28
 nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-04-28
 lokibot,104.21.46.21,80,104.21.0.0/17,tampabayllc.top,tampabayllc.top,2024-04-28
@@ -148,7 +149,6 @@ njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-04-
 njrat,147.185.221.19,29750,147.185.221.0/24,require-spa.gl.at.ply.gg,ply.gg,2024-04-17
 lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-04-17
 njrat,147.185.221.19,29545,147.185.221.0/24,cars-fraction.gl.at.ply.gg,ply.gg,2024-04-16
-redline,89.23.100.222,44528,89.23.100.0/23,,,2024-04-16
 njrat,147.185.221.19,29058,147.185.221.0/24,tue-jake.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,3.13.191.225,19044,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-16
 njrat,3.14.182.203,19044,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-16
