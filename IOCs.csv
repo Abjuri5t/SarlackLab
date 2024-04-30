@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,18.119.155.254,80,18.116.0.0/14,justloki.com,justloki.com,2024-04-30
+lokibot,18.189.229.254,80,18.188.0.0/14,justloki.com,justloki.com,2024-04-30
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-04-30
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-04-30
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-04-30
