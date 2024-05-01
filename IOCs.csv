@@ -1,5 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-05-01
+redline,147.45.47.65,47232,147.45.47.0/24,,,2024-05-01
 redline,5.42.65.96,28380,5.42.64.0/22,,,2024-05-01
 njrat,147.185.221.19,39289,147.185.221.0/24,teaching-wireless.gl.at.ply.gg,ply.gg,2024-05-01
 lokibot,104.21.13.124,80,104.21.0.0/17,ebnsina.top,ebnsina.top,2024-05-01
@@ -237,7 +238,6 @@ nanocore,192.169.69.25,7654,192.169.68.0/22,netwomo.duckdns.org,duckdns.org,2024
 njrat,160.178.39.123,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-04-06
 redline,185.125.50.49,48860,185.125.50.0/24,,,2024-04-06
 lokibot,91.92.253.221,80,91.92.240.0/20,,,2024-04-06
-redline,147.45.47.65,47232,147.45.47.0/24,,,2024-04-06
 lokibot,104.21.39.208,80,104.21.0.0/17,altaskifer.sbs,altaskifer.sbs,2024-04-06
 njrat,193.161.193.99,8080,193.161.193.0/24,wasted9sss1-57718.portmap.host,portmap.host,2024-04-05
 njrat,179.13.0.175,5554,179.12.0.0/14,promesasalvaro1.duckdns.org,duckdns.org,2024-04-05
