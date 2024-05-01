@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.89.53.206,4663,45.89.52.0/22,,,2024-05-01
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-01
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-01
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-05-01
@@ -86,7 +87,6 @@ njrat,192.169.69.26,35888,192.169.68.0/22,njnjnjs.duckdns.org,duckdns.org,2024-0
 njrat,3.14.182.203,16969,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-22
 njrat,3.13.191.225,16969,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-22
 njrat,3.17.7.232,16969,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-22
-redline,45.89.53.206,4663,45.89.52.0/22,,,2024-04-22
 nanocore,3.125.223.134,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
 nanocore,3.125.209.94,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
 nanocore,3.125.102.39,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
