@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,35.157.111.131,14964,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2024-05-04
+njrat,3.125.188.168,14964,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-05-04
+lokibot,94.156.65.182,80,94.156.64.0/21,,,2024-05-04
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-03
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-03
 njrat,147.185.221.19,39657,147.185.221.0/24,these-accommodation.gl.at.ply.gg,ply.gg,2024-05-03
@@ -101,7 +104,6 @@ nanocore,3.125.102.39,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
 nanocore,3.124.142.205,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
 nanocore,18.192.31.165,11720,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
 nanocore,18.158.249.75,11720,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-21
-lokibot,94.156.65.182,80,94.156.64.0/21,,,2024-04-21
 lokibot,176.223.110.10,80,176.223.110.0/24,ecurs.ro,ecurs.ro,2024-04-21
 njrat,147.185.221.19,32934,147.185.221.0/24,quotes-nl.gl.at.ply.gg,ply.gg,2024-04-21
 nanocore,91.92.245.231,56648,91.92.240.0/20,discoveryvipshinjiru2law.ooguy.com,ooguy.com,2024-04-20
