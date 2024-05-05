@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-05
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-05
+nanocore,209.25.141.212,32243,209.25.140.0/22,july-pty.at.ply.gg,ply.gg,2024-05-05
 nanocore,3.124.142.205,11720,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-05
 nanocore,18.192.31.165,11720,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-05
 nanocore,18.158.249.75,11720,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-05-05
