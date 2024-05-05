@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,5.39.43.50,1337,5.39.0.0/17,,,2024-05-05
+lokibot,198.144.229.143,80,198.144.224.0/20,eastcoastrest.com,eastcoastrest.com,2024-05-05
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-05
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-05
 nanocore,209.25.141.212,32243,209.25.140.0/22,july-pty.at.ply.gg,ply.gg,2024-05-05
