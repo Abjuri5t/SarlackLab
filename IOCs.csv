@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-07
+redline,178.159.39.40,19667,178.159.38.0/23,,,2024-05-07
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-07
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-07
 lokibot,91.92.253.228,80,91.92.240.0/20,,,2024-05-07
 lokibot,192.169.69.25,80,192.169.68.0/22,djanic.duckdns.org,duckdns.org,2024-05-06
 njrat,196.65.165.110,10000,196.64.0.0/15,doddyfire.linkpc.net,linkpc.net,2024-05-06
