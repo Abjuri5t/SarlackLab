@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,178.159.39.40,19667,178.159.38.0/23,,,2024-05-09
+lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-05-09
 njrat,51.158.202.242,443,51.158.0.0/16,asra1.ddns.net,ddns.net,2024-05-09
 nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-09
 njrat,3.67.161.133,14420,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-05-09
@@ -21,7 +23,6 @@ njrat,147.185.221.19,47021,147.185.221.0/24,,,2024-05-08
 lokibot,104.21.35.239,80,104.21.0.0/17,seadrill.top,seadrill.top,2024-05-08
 nanocore,91.92.253.11,65024,91.92.240.0/20,december2nd.ddns.net,ddns.net,2024-05-08
 redline,5.42.65.96,28380,5.42.64.0/22,,,2024-05-07
-redline,178.159.39.40,19667,178.159.38.0/23,,,2024-05-07
 lokibot,91.92.253.228,80,91.92.240.0/20,,,2024-05-07
 lokibot,192.169.69.25,80,192.169.68.0/22,djanic.duckdns.org,duckdns.org,2024-05-06
 njrat,196.65.165.110,10000,196.64.0.0/15,doddyfire.linkpc.net,linkpc.net,2024-05-06
@@ -197,7 +198,6 @@ njrat,3.125.102.39,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-17
 njrat,3.124.142.205,12607,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-17
 njrat,3.126.37.18,15020,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-04-17
 redline,45.15.156.127,48665,45.15.156.0/24,,,2024-04-17
-lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-04-17
 njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.19,29750,147.185.221.0/24,require-spa.gl.at.ply.gg,ply.gg,2024-04-17
