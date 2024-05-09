@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-09
 redline,178.159.39.40,19667,178.159.38.0/23,,,2024-05-09
 lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-05-09
 njrat,51.158.202.242,443,51.158.0.0/16,asra1.ddns.net,ddns.net,2024-05-09
@@ -15,7 +16,6 @@ njrat,192.169.69.25,1177,192.169.68.0/22,windowsuport.duckdns.org,duckdns.org,20
 nanocore,192.169.69.26,61715,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-08
 lokibot,34.91.32.224,80,34.88.0.0/14,abscete.info,abscete.info,2024-05-08
 redline,147.45.47.93,80,147.45.47.0/24,,,2024-05-08
-redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-08
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-08
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-08
 redline,15.165.134.129,8649,15.164.0.0/15,,,2024-05-08
