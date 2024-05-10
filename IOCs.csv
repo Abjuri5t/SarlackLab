@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,31.220.2.120,80,31.220.0.0/22,,,2024-05-10
+lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-05-10
 lokibot,195.123.211.210,80,195.123.208.0/21,,,2024-05-10
 njrat,46.246.82.10,2054,46.246.64.0/18,ecuaecua.duckdns.org,duckdns.org,2024-05-09
 njrat,105.154.96.186,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-05-09
@@ -90,7 +92,6 @@ lokibot,34.174.78.212,80,34.168.0.0/13,blesblochem.com,blesblochem.com,2024-04-2
 njrat,147.185.221.19,17455,147.185.221.0/24,green-morrison.gl.at.ply.gg,ply.gg,2024-04-27
 njrat,147.185.221.19,17455,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-27
 njrat,147.185.221.19,28632,147.185.221.0/24,artist-composed.gl.at.ply.gg,ply.gg,2024-04-27
-lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-04-27
 njrat,147.185.221.19,36969,147.185.221.0/24,phentermine-partial.gl.at.ply.gg,ply.gg,2024-04-27
 njrat,160.176.159.27,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-04-26
 njrat,3.124.67.191,10250,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-04-26
