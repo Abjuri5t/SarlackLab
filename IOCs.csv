@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-10
+lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-05-10
 lokibot,138.201.55.20,80,138.201.0.0/16,kammies.co.za,co.za,2024-05-10
 lokibot,31.220.2.120,80,31.220.0.0/22,,,2024-05-10
 lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-05-10
@@ -8,7 +10,6 @@ njrat,105.154.96.186,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-0
 redline,23.227.196.15,23461,23.227.196.0/25,,,2024-05-09
 njrat,104.250.172.89,1177,104.250.172.0/24,levantain.ddns.net,ddns.net,2024-05-09
 njrat,3.127.138.57,17751,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-09
-redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-09
 redline,178.159.39.40,19667,178.159.38.0/23,,,2024-05-09
 lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-05-09
 njrat,51.158.202.242,443,51.158.0.0/16,asra1.ddns.net,ddns.net,2024-05-09
@@ -103,7 +104,6 @@ njrat,46.246.86.14,1994,46.246.64.0/18,rusia.duckdns.org,duckdns.org,2024-04-25
 redline,5.42.92.179,18418,5.42.92.0/24,,,2024-04-25
 redline,193.233.132.169,37732,193.233.132.0/24,,,2024-04-25
 lokibot,57.128.52.136,80,57.128.0.0/16,flypadi.com,flypadi.com,2024-04-25
-lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-04-25
 nanocore,45.95.169.113,4190,45.95.168.0/22,amechi.duckdns.org,duckdns.org,2024-04-25
 nanocore,45.95.169.113,3190,45.95.168.0/22,amechi.duckdns.org,duckdns.org,2024-04-25
 njrat,82.205.72.17,8080,82.205.0.0/17,aboft7e.ddns.net,ddns.net,2024-04-25
