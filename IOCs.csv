@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.192.93.86,14858,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-10
+nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-05-10
 nanocore,192.169.69.25,4782,192.169.68.0/22,mybackups.duckdns.org,duckdns.org,2024-05-10
 lokibot,185.53.177.71,80,185.53.176.0/22,blazinghotter.igg.biz,igg.biz,2024-05-10
 redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-10
@@ -91,7 +93,6 @@ lokibot,67.227.226.240,80,67.227.128.0/17,apolovapers.com,apolovapers.com,2024-0
 recordbreaker,91.92.255.182,80,91.92.240.0/20,,,2024-04-29
 nanocore,192.169.69.26,64418,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-04-29
 njrat,178.128.228.252,5552,178.128.0.0/16,asero23.ddns.net,ddns.net,2024-04-28
-nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-04-28
 lokibot,104.21.46.21,80,104.21.0.0/17,tampabayllc.top,tampabayllc.top,2024-04-28
 njrat,18.192.31.165,10266,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-28
 njrat,184.105.237.195,7412,184.105.236.0/23,supporknowledgebase.ddns.net,ddns.net,2024-04-28
