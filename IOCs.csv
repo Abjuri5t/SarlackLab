@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-11
+lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-05-11
 redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-10
 njrat,18.192.93.86,14858,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-10
 nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-05-10
@@ -22,7 +24,6 @@ njrat,3.127.138.57,17751,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-09
 redline,178.159.39.40,19667,178.159.38.0/23,,,2024-05-09
 lokibot,172.67.197.72,80,172.67.0.0/16,meridianresourcellc.top,meridianresourcellc.top,2024-05-09
 njrat,51.158.202.242,443,51.158.0.0/16,asra1.ddns.net,ddns.net,2024-05-09
-nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-09
 njrat,3.67.161.133,14420,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-05-09
 njrat,18.158.58.205,14420,18.156.0.0/14,5.tcp.eu.ngrok.io,ngrok.io,2024-05-09
 njrat,3.67.62.142,14420,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-05-09
@@ -350,7 +351,6 @@ njrat,46.246.84.18,3100,46.246.64.0/18,luisro2158.duckdns.org,duckdns.org,2024-0
 nanocore,194.147.140.141,8100,194.147.140.0/24,nanomarch8100.duckdns.org,duckdns.org,2024-03-24
 njrat,3.124.142.205,18335,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-23
 njrat,160.177.59.183,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-03-23
-lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-03-23
 njrat,3.68.171.119,12377,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-20
 njrat,24.42.99.89,191,24.42.64.0/18,ameerpplus.ddns.net,ddns.net,2024-03-19
 njrat,3.125.209.94,11256,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-03-19
