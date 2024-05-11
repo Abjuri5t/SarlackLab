@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-11
 redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-11
 njrat,147.185.221.19,10345,147.185.221.0/24,study-window.gl.at.ply.gg,ply.gg,2024-05-11
 nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-11
@@ -40,7 +41,6 @@ njrat,192.169.69.25,1177,192.169.68.0/22,windowsuport.duckdns.org,duckdns.org,20
 nanocore,192.169.69.26,61715,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-08
 lokibot,34.91.32.224,80,34.88.0.0/14,abscete.info,abscete.info,2024-05-08
 redline,147.45.47.93,80,147.45.47.0/24,,,2024-05-08
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-08
 redline,15.165.134.129,8649,15.164.0.0/15,,,2024-05-08
 njrat,147.185.221.19,47021,147.185.221.0/24,,,2024-05-08
 lokibot,104.21.35.239,80,104.21.0.0/17,seadrill.top,seadrill.top,2024-05-08
