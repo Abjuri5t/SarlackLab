@@ -1,7 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-12
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-12
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-12
+lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-05-12
+redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-12
 nanocore,192.169.69.25,2551,192.169.68.0/22,sebaseuro.duckdns.org,duckdns.org,2024-05-12
 njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-05-11
 njrat,105.155.173.158,10000,105.155.128.0/18,doddyfire.linkpc.net,linkpc.net,2024-05-11
@@ -21,7 +22,6 @@ lokibot,154.41.233.100,80,154.41.224.0/20,edulinkr.com,edulinkr.com,2024-05-10
 lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-05-10
 lokibot,138.201.55.20,80,138.201.0.0/16,kammies.co.za,co.za,2024-05-10
 lokibot,31.220.2.120,80,31.220.0.0/22,,,2024-05-10
-lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-05-10
 lokibot,195.123.211.210,80,195.123.208.0/21,,,2024-05-10
 njrat,46.246.82.10,2054,46.246.64.0/18,ecuaecua.duckdns.org,duckdns.org,2024-05-09
 njrat,105.154.96.186,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-05-09
