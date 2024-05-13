@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-13
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-13
+njrat,3.67.161.133,11843,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-13
 lokibot,188.114.96.2,80,188.114.96.0/22,spencerstuartllc.top,spencerstuartllc.top,2024-05-13
 redline,147.45.47.36,39849,147.45.47.0/24,,,2024-05-13
