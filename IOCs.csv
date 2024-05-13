@@ -1,10 +1,14 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,147.45.47.93,80,147.45.47.0/24,,,2024-05-13
+lokibot,172.67.156.11,80,172.67.0.0/16,spencerstuartllc.top,spencerstuartllc.top,2024-05-13
+lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-05-13
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-12
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-12
+njrat,18.197.239.109,18014,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-05-12
 redline,194.36.178.33,47454,194.36.178.0/23,,,2024-05-12
 redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-12
 lokibot,107.175.150.73,80,107.175.144.0/20,,,2024-05-12
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-12
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-12
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-12
 lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-05-12
 nanocore,192.169.69.25,2551,192.169.68.0/22,sebaseuro.duckdns.org,duckdns.org,2024-05-12
 njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-05-11
@@ -44,7 +48,6 @@ njrat,41.249.40.69,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-05-0
 njrat,192.169.69.25,1177,192.169.68.0/22,windowsuport.duckdns.org,duckdns.org,2024-05-08
 nanocore,192.169.69.26,61715,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-08
 lokibot,34.91.32.224,80,34.88.0.0/14,abscete.info,abscete.info,2024-05-08
-redline,147.45.47.93,80,147.45.47.0/24,,,2024-05-08
 redline,15.165.134.129,8649,15.164.0.0/15,,,2024-05-08
 njrat,147.185.221.19,47021,147.185.221.0/24,,,2024-05-08
 lokibot,104.21.35.239,80,104.21.0.0/17,seadrill.top,seadrill.top,2024-05-08
@@ -93,7 +96,6 @@ redline,195.20.16.134,46690,195.20.16.0/24,,,2024-04-30
 lokibot,18.119.155.254,80,18.116.0.0/14,justloki.com,justloki.com,2024-04-30
 lokibot,18.189.229.254,80,18.188.0.0/14,justloki.com,justloki.com,2024-04-30
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-04-30
-lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-04-30
 njrat,45.141.215.185,7777,45.141.215.0/24,berlyn777.con-ip.com,con-ip.com,2024-04-29
 njrat,147.185.221.19,39209,147.185.221.0/24,analysis-minolta.gl.at.ply.gg,ply.gg,2024-04-29
 redline,89.23.100.222,44528,89.23.100.0/23,,,2024-04-29
@@ -197,7 +199,6 @@ lokibot,192.236.162.239,80,192.236.160.0/22,,,2024-04-19
 redline,209.126.11.251,31618,209.126.0.0/20,,,2024-04-19
 lokibot,103.92.235.29,80,103.92.235.0/24,skscarsrjn.in,skscarsrjn.in,2024-04-19
 lokibot,104.237.252.28,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-04-19
-lokibot,172.67.156.11,80,172.67.0.0/16,spencerstuartllc.top,spencerstuartllc.top,2024-04-19
 njrat,3.125.223.134,15296,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
 njrat,18.158.249.75,15296,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
 njrat,3.124.142.205,15296,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-04-19
