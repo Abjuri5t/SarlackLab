@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-14
+redline,194.36.178.33,47454,194.36.178.0/23,,,2024-05-14
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-14
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-14
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-14
 lokibot,188.114.97.2,80,188.114.96.0/22,franccoisfreres.com,franccoisfreres.com,2024-05-14
 lokibot,104.21.46.21,80,104.20.0.0/15,tampabayllc.top,tampabayllc.top,2024-05-14
@@ -14,7 +15,6 @@ njrat,18.192.31.165,12841,18.192.0.0/13,o.tpc.ngrok.io,ngrok.io,2024-05-13
 lokibot,91.195.28.16,80,91.195.28.0/23,strutitinca.ro,strutitinca.ro,2024-05-13
 njrat,3.125.223.134,16602,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 njrat,18.158.249.75,16602,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
-redline,194.36.178.33,47454,194.36.178.0/23,,,2024-05-13
 njrat,160.177.79.24,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-05-13
 redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-13
 njrat,3.121.139.82,10948,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-05-13
