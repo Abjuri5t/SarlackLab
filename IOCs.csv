@@ -1,6 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-14
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-14
+lokibot,188.114.96.2,80,188.114.96.0/22,rocheholding.top,rocheholding.top,2024-05-14
 lokibot,64.190.63.222,80,64.190.62.0/23,capty.nut.cc,nut.cc,2024-05-14
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-13
 njrat,3.125.223.134,12841,3.120.0.0/13,o.tpc.ngrok.io,ngrok.io,2024-05-13
 njrat,18.192.31.165,12841,18.192.0.0/13,o.tpc.ngrok.io,ngrok.io,2024-05-13
 lokibot,91.195.28.16,80,91.195.28.0/23,strutitinca.ro,strutitinca.ro,2024-05-13
@@ -8,7 +10,6 @@ njrat,3.125.223.134,16602,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 njrat,18.158.249.75,16602,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-13
 redline,194.36.178.33,47454,194.36.178.0/23,,,2024-05-13
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-13
 njrat,160.177.79.24,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-05-13
 redline,5.42.65.77,6541,5.42.64.0/22,,,2024-05-13
 njrat,3.121.139.82,10948,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-05-13
@@ -690,7 +691,6 @@ redline,45.15.156.60,12050,45.15.156.0/24,,,2024-01-28
 lokibot,104.21.91.56,80,104.21.0.0/17,novlkyy.shop,novlkyy.shop,2024-01-28
 lokibot,101.0.117.102,80,101.0.64.0/18,www.rnofinancial.com.au,com.au,2024-01-28
 lokibot,172.67.167.81,80,172.67.0.0/16,novlkyy.shop,novlkyy.shop,2024-01-28
-lokibot,188.114.96.2,80,188.114.96.0/22,rocheholding.top,rocheholding.top,2024-01-28
 njrat,165.227.31.192,22509,165.227.0.0/16,,,2024-01-28
 njrat,206.189.80.59,22614,206.189.0.0/16,,,2024-01-28
 nanocore,91.92.255.54,6513,91.92.240.0/20,jogard.duckdns.org,duckdns.org,2024-01-28
