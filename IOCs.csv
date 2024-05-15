@@ -1,6 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-lokibot,91.195.241.232,80,91.195.240.0/23,jayp.eu,jayp.eu,2024-05-15
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-15
+njrat,18.197.239.5,14141,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-15
+lokibot,3.64.163.50,80,3.64.0.0/12,kingu.xyz,kingu.xyz,2024-05-15
+lokibot,91.195.241.232,80,91.195.240.0/23,jayp.eu,jayp.eu,2024-05-15
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-15
 njrat,147.185.221.19,52445,147.185.221.0/24,tool-seven.gl.at.ply.gg,ply.gg,2024-05-15
 lokibot,34.91.32.224,80,34.88.0.0/14,abscete.info,abscete.info,2024-05-15
