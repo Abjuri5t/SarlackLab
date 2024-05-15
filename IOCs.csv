@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.19,52445,147.185.221.0/24,tool-seven.gl.at.ply.gg,ply.gg,2024-05-15
+lokibot,34.91.32.224,80,34.88.0.0/14,abscete.info,abscete.info,2024-05-15
 nanocore,192.169.69.25,58580,192.169.68.0/22,lordblessme.duckdns.org,duckdns.org,2024-05-15
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-15
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-15
@@ -79,7 +81,6 @@ njrat,3.125.223.134,11168,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-09
 njrat,41.249.40.69,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-05-08
 njrat,192.169.69.25,1177,192.169.68.0/22,windowsuport.duckdns.org,duckdns.org,2024-05-08
 nanocore,192.169.69.26,61715,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-08
-lokibot,34.91.32.224,80,34.88.0.0/14,abscete.info,abscete.info,2024-05-08
 redline,15.165.134.129,8649,15.164.0.0/15,,,2024-05-08
 njrat,147.185.221.19,47021,147.185.221.0/24,,,2024-05-08
 lokibot,104.21.35.239,80,104.21.0.0/17,seadrill.top,seadrill.top,2024-05-08
