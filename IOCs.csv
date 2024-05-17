@@ -1,7 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-17
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-17
+nanocore,94.156.66.54,65140,94.156.64.0/21,december2n.duckdns.org,duckdns.org,2024-05-17
+nanocore,192.169.69.26,65140,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-17
 redline,5.42.65.85,45779,5.42.64.0/22,,,2024-05-16
-redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-16
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-16
 lokibot,104.21.51.81,80,104.21.0.0/17,ransomproducts.top,ransomproducts.top,2024-05-16
 njrat,41.142.192.216,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-05-16
 nanocore,192.169.69.26,7719,192.169.68.0/22,moranhq.duckdns.org,duckdns.org,2024-05-16
