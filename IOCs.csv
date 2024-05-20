@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-20
+redline,5.42.65.85,45779,5.42.64.0/22,,,2024-05-20
 redline,185.215.113.67,26260,185.215.113.0/24,,,2024-05-20
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-20
 lokibot,54.80.154.23,80,54.80.0.0/13,blesblochem.com,blesblochem.com,2024-05-20
 lokibot,51.38.187.10,80,51.38.0.0/16,,,2024-05-20
 njrat,105.154.100.36,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-05-20
@@ -10,7 +11,6 @@ nanocore,192.169.69.25,482,192.169.68.0/22,tomcoyne.duckdns.org,duckdns.org,2024
 nanocore,192.169.69.25,83,192.169.68.0/22,meeti.duckdns.org,duckdns.org,2024-05-20
 lokibot,3.18.7.81,80,3.16.0.0/13,shipboot.com,shipboot.com,2024-05-20
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-20
-redline,5.42.65.85,45779,5.42.64.0/22,,,2024-05-20
 redline,147.45.47.93,80,147.45.47.0/24,,,2024-05-20
 njrat,147.185.221.19,56071,147.185.221.0/24,subjects-handbook.gl.at.ply.gg,ply.gg,2024-05-19
 njrat,3.69.157.220,15748,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-05-19
