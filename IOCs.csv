@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,192.185.129.109,80,192.185.129.0/24,infres.in,infres.in,2024-05-22
+lokibot,172.67.166.59,80,172.67.0.0/16,merckllc.top,merckllc.top,2024-05-22
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-22
 njrat,45.76.129.156,5050,45.76.0.0/16,seznam.zapto.org,zapto.org,2024-05-22
 njrat,18.197.239.5,10614,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-22
