@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,188.226.118.231,1527,188.226.0.0/17,njratvtope30.ddns.net,ddns.net,2024-05-23
+lokibot,104.21.65.180,80,104.21.0.0/17,rocheholding.top,rocheholding.top,2024-05-23
+lokibot,172.67.165.74,80,172.67.0.0/16,rocheholding.top,rocheholding.top,2024-05-23
 lokibot,130.51.23.8,80,130.51.20.0/22,sssteell-com.asia,sssteell-com.asia,2024-05-23
 lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2024-05-23
 nanocore,104.243.242.165,1620,104.243.242.0/23,newsddawork.3utilities.com,3utilities.com,2024-05-23
@@ -87,7 +90,6 @@ njrat,3.17.7.232,15743,3.16.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-05-18
 nanocore,184.105.237.196,1122,184.105.236.0/23,ruffella.ddns.net,ddns.net,2024-05-18
 nanocore,184.105.237.195,10010,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2024-05-18
 njrat,147.185.221.19,55286,147.185.221.0/24,19.ip.gl.ply.gg,ply.gg,2024-05-18
-lokibot,104.21.65.180,80,104.21.0.0/17,rocheholding.top,rocheholding.top,2024-05-17
 redline,152.228.175.121,23581,152.228.128.0/17,,,2024-05-17
 njrat,147.185.221.19,54921,147.185.221.0/24,19.ip.gl.ply.gg,ply.gg,2024-05-17
 njrat,41.249.51.52,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-05-17
@@ -101,7 +103,6 @@ nanocore,192.169.69.26,7719,192.169.68.0/22,moranhq.duckdns.org,duckdns.org,2024
 lokibot,95.217.59.29,80,95.216.0.0/15,en.mg-trade.ir,mg-trade.ir,2024-05-16
 lokibot,188.114.97.2,80,188.114.96.0/22,rocheholding.top,rocheholding.top,2024-05-16
 njrat,45.245.96.209,1177,45.245.96.0/20,venomm.ddns.net,ddns.net,2024-05-16
-lokibot,172.67.165.74,80,172.67.0.0/16,rocheholding.top,rocheholding.top,2024-05-16
 nanocore,185.216.70.125,1974,185.216.70.0/24,psolver827.ddns.net,ddns.net,2024-05-16
 nanocore,91.92.253.11,65024,91.92.240.0/20,december2nd.ddns.net,ddns.net,2024-05-16
 lokibot,103.74.123.3,80,103.74.120.0/22,mediagift.vn,mediagift.vn,2024-05-16
