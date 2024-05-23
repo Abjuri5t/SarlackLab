@@ -1,4 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.158.249.75,18134,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
+njrat,3.124.142.205,18134,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
+njrat,3.125.223.134,18134,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
+lokibot,107.154.163.162,80,107.154.128.0/18,wonderbooth.com.my,com.my,2024-05-23
 njrat,18.158.58.205,15949,18.156.0.0/14,5.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 lokibot,198.54.114.219,80,198.54.112.0/20,hydeoutent.com,hydeoutent.com,2024-05-23
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-23
