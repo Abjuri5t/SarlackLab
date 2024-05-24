@@ -1,4 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,40.121.142.114,6709,40.121.0.0/16,,,2024-05-23
+njrat,3.125.209.94,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
+njrat,3.125.223.134,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
+nanocore,185.216.70.125,1974,185.216.70.0/24,psolver827.ddns.net,ddns.net,2024-05-23
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-23
 lokibot,154.204.78.151,80,154.204.64.0/18,valdepian.com,valdepian.com,2024-05-23
 njrat,160.176.158.157,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-05-23
@@ -106,7 +110,6 @@ nanocore,192.169.69.26,7719,192.169.68.0/22,moranhq.duckdns.org,duckdns.org,2024
 lokibot,95.217.59.29,80,95.216.0.0/15,en.mg-trade.ir,mg-trade.ir,2024-05-16
 lokibot,188.114.97.2,80,188.114.96.0/22,rocheholding.top,rocheholding.top,2024-05-16
 njrat,45.245.96.209,1177,45.245.96.0/20,venomm.ddns.net,ddns.net,2024-05-16
-nanocore,185.216.70.125,1974,185.216.70.0/24,psolver827.ddns.net,ddns.net,2024-05-16
 nanocore,91.92.253.11,65024,91.92.240.0/20,december2nd.ddns.net,ddns.net,2024-05-16
 lokibot,103.74.123.3,80,103.74.120.0/22,mediagift.vn,mediagift.vn,2024-05-16
 lokibot,104.21.50.30,80,104.21.0.0/17,spencerstuartllc.top,spencerstuartllc.top,2024-05-16
