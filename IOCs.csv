@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-24
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-24
 nanocore,192.169.69.25,3615,192.169.68.0/22,getmoney3004.duckdns.org,duckdns.org,2024-05-24
 nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-24
 lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-05-24
@@ -7,7 +9,6 @@ redline,40.121.142.114,6709,40.121.0.0/16,,,2024-05-23
 njrat,3.125.209.94,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 njrat,3.125.223.134,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 nanocore,185.216.70.125,1974,185.216.70.0/24,psolver827.ddns.net,ddns.net,2024-05-23
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-23
 lokibot,154.204.78.151,80,154.204.64.0/18,valdepian.com,valdepian.com,2024-05-23
 njrat,160.176.158.157,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-05-23
 lokibot,34.205.242.146,80,34.204.0.0/14,shipboot.com,shipboot.com,2024-05-23
@@ -23,7 +24,6 @@ njrat,3.125.223.134,18134,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 lokibot,107.154.163.162,80,107.154.128.0/18,wonderbooth.com.my,com.my,2024-05-23
 njrat,18.158.58.205,15949,18.156.0.0/14,5.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 lokibot,198.54.114.219,80,198.54.112.0/20,hydeoutent.com,hydeoutent.com,2024-05-23
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-23
 njrat,105.104.48.230,5552,105.104.0.0/13,spygate.myftp.biz,myftp.biz,2024-05-23
 njrat,196.64.243.43,10000,196.64.0.0/15,doddyfire.linkpc.net,linkpc.net,2024-05-22
 redline,5.42.65.115,40551,5.42.64.0/22,,,2024-05-22
