@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.25,3615,192.169.68.0/22,getmoney3004.duckdns.org,duckdns.org,2024-05-24
+nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-24
+lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-05-24
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-23
 redline,40.121.142.114,6709,40.121.0.0/16,,,2024-05-23
 njrat,3.125.209.94,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
@@ -151,12 +154,10 @@ njrat,3.127.253.86,10948,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 njrat,147.185.221.18,34625,147.185.221.0/24,vacation-nails.gl.at.ply.gg,ply.gg,2024-05-13
 njrat,41.142.26.2,10000,41.142.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-05-13
 njrat,3.67.161.133,11843,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-05-13
-nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-13
 redline,147.45.47.36,39849,147.45.47.0/24,,,2024-05-13
 njrat,3.124.142.205,12222,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 njrat,18.158.249.75,12222,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 njrat,18.192.31.165,12222,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
-nanocore,192.169.69.25,3615,192.169.68.0/22,getmoney3004.duckdns.org,duckdns.org,2024-05-13
 njrat,18.197.239.109,18014,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-05-12
 lokibot,107.175.150.73,80,107.175.144.0/20,,,2024-05-12
 lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-05-12
@@ -222,7 +223,6 @@ redline,109.120.178.235,26632,109.120.176.0/22,,,2024-05-03
 redline,45.15.156.142,33597,45.15.156.0/24,,,2024-05-03
 njrat,46.246.80.19,1994,46.246.64.0/18,patria.duckdns.org,duckdns.org,2024-05-03
 njrat,147.185.221.19,42294,147.185.221.0/24,reviews-christians.gl.at.ply.gg,ply.gg,2024-05-02
-lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-05-02
 redline,45.15.156.167,80,45.15.156.0/24,,,2024-05-02
 redline,194.36.178.33,37732,194.36.178.0/23,,,2024-05-02
 njrat,147.185.221.19,39289,147.185.221.0/24,teaching-wireless.gl.at.ply.gg,ply.gg,2024-05-02
