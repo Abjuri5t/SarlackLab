@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-25
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-25
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-25
 nanocore,192.169.69.26,60705,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-25
@@ -15,7 +16,6 @@ lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-05-24
 njrat,147.185.221.17,41021,147.185.221.0/24,every-unnecessary.gl.at.ply.gg,ply.gg,2024-05-24
 njrat,147.185.221.19,54921,147.185.221.0/24,19.ip.gl.ply.gg,ply.gg,2024-05-24
 nanocore,192.169.69.25,3615,192.169.68.0/22,getmoney3004.duckdns.org,duckdns.org,2024-05-24
-redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-23
 redline,40.121.142.114,6709,40.121.0.0/16,,,2024-05-23
 njrat,3.125.209.94,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 njrat,3.125.223.134,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
