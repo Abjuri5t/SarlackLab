@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-25
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-25
+njrat,41.142.211.38,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-05-25
 njrat,147.185.221.18,41414,147.185.221.0/24,authority-amazon.gl.at.ply.gg,ply.gg,2024-05-25
 njrat,3.121.139.82,14200,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-05-25
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-25
@@ -11,7 +12,6 @@ njrat,192.169.69.25,5060,192.169.68.0/22,denemeciiso.duckdns.org,duckdns.org,202
 njrat,147.185.221.19,39657,147.185.221.0/24,these-accommodation.gl.at.ply.gg,ply.gg,2024-05-25
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-05-25
 njrat,160.177.77.232,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-05-24
-njrat,41.142.211.38,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-05-24
 nanocore,192.169.69.26,65024,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-05-24
 nanocore,184.105.237.195,10008,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2024-05-24
 lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-05-24
