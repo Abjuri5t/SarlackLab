@@ -1,8 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,5.42.65.115,40551,5.42.64.0/22,,,2024-05-26
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-26
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-26
 njrat,105.154.228.100,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-05-26
+redline,5.42.65.115,40551,5.42.64.0/22,,,2024-05-26
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-26
 lokibot,34.246.200.160,80,34.240.0.0/12,abscete.info,abscete.info,2024-05-26
 njrat,192.169.69.25,3042,192.169.68.0/22,njratnew.duckdns.org,duckdns.org,2024-05-26
