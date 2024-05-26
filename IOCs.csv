@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-25
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-25
+redline,89.23.100.222,44528,89.23.100.0/23,,,2024-05-26
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-26
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-26
 njrat,41.142.211.38,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-05-25
 njrat,147.185.221.18,41414,147.185.221.0/24,authority-amazon.gl.at.ply.gg,ply.gg,2024-05-25
 njrat,3.121.139.82,14200,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-05-25
@@ -247,7 +248,6 @@ lokibot,18.119.155.254,80,18.116.0.0/14,justloki.com,justloki.com,2024-04-30
 lokibot,18.189.229.254,80,18.188.0.0/14,justloki.com,justloki.com,2024-04-30
 njrat,45.141.215.185,7777,45.141.215.0/24,berlyn777.con-ip.com,con-ip.com,2024-04-29
 njrat,147.185.221.19,39209,147.185.221.0/24,analysis-minolta.gl.at.ply.gg,ply.gg,2024-04-29
-redline,89.23.100.222,44528,89.23.100.0/23,,,2024-04-29
 lokibot,67.227.226.240,80,67.227.128.0/17,apolovapers.com,apolovapers.com,2024-04-29
 recordbreaker,91.92.255.182,80,91.92.240.0/20,,,2024-04-29
 nanocore,192.169.69.26,64418,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-04-29
