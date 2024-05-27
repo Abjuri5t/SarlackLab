@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,54.80.154.23,80,54.80.0.0/13,blesblochem.com,blesblochem.com,2024-05-27
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-26
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-26
 njrat,45.76.129.156,1177,45.76.0.0/15,seznam.zapto.org,zapto.org,2024-05-26
@@ -100,7 +101,6 @@ lokibot,172.67.148.126,80,172.67.0.0/16,altaskifer.sbs,altaskifer.sbs,2024-05-20
 njrat,3.125.102.39,14740,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-20
 njrat,3.125.223.134,14740,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-20
 njrat,3.125.209.94,14740,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-20
-lokibot,54.80.154.23,80,54.80.0.0/13,blesblochem.com,blesblochem.com,2024-05-20
 lokibot,51.38.187.10,80,51.38.0.0/16,,,2024-05-20
 njrat,105.154.100.36,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-05-20
 njrat,199.223.235.67,5050,199.223.232.0/22,seznam.zapto.org,zapto.org,2024-05-20
