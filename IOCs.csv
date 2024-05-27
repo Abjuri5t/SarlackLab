@@ -1,7 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-27
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-27
+njrat,147.185.221.19,32384,147.185.221.0/24,control-road.gl.at.ply.gg,ply.gg,2024-05-27
+lokibot,185.53.177.13,80,185.53.176.0/22,www.dnacharting.com,dnacharting.com,2024-05-27
 lokibot,54.80.154.23,80,54.80.0.0/13,blesblochem.com,blesblochem.com,2024-05-27
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-26
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-26
 njrat,45.76.129.156,1177,45.76.0.0/15,seznam.zapto.org,zapto.org,2024-05-26
 nanocore,185.216.70.147,6318,185.216.70.0/24,zaragoza.ddns.net,ddns.net,2024-05-26
 redline,147.45.47.93,80,147.45.47.0/24,,,2024-05-26
