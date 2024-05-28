@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-28
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-28
+njrat,45.76.129.156,5050,45.76.0.0/15,seznam.zapto.org,zapto.org,2024-05-28
 lokibot,64.190.63.222,80,64.190.62.0/23,ciston.nut.cc,nut.cc,2024-05-28
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-28
 lokibot,192.169.69.25,80,192.169.68.0/22,jumbie.duckdns.org,duckdns.org,2024-05-28
