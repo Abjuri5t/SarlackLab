@@ -1,8 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-lokibot,46.148.39.131,80,46.148.39.0/24,sempersim.su,sempersim.su,2024-05-31
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-31
-redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-31
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-31
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-31
+lokibot,46.148.39.131,80,46.148.39.0/24,sempersim.su,sempersim.su,2024-05-31
+redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-31
 nanocore,94.156.69.232,65024,94.156.64.0/21,december2nd.ddns.net,ddns.net,2024-05-31
 lokibot,104.21.65.180,80,104.21.0.0/17,rocheholding.top,rocheholding.top,2024-05-31
 redline,43.155.163.53,24543,43.154.0.0/15,,,2024-05-31
