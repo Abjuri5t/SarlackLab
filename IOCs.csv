@@ -1,13 +1,15 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-31
+redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-31
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-31
+nanocore,94.156.69.232,65024,94.156.64.0/21,december2nd.ddns.net,ddns.net,2024-05-31
+lokibot,104.21.65.180,80,104.21.0.0/17,rocheholding.top,rocheholding.top,2024-05-31
 redline,43.155.163.53,24543,43.154.0.0/15,,,2024-05-31
 njrat,34.125.100.30,5050,34.124.0.0/15,ronymahmoud.casacam.net,casacam.net,2024-05-31
 njrat,193.161.193.99,42772,193.161.193.0/24,gorodpro-42772.portmap.host,portmap.host,2024-05-31
 njrat,49.13.194.118,5552,49.12.0.0/15,,,2024-05-31
 njrat,3.124.142.205,443,3.120.0.0/13,tcp.ngrok.io,ngrok.io,2024-05-31
 njrat,18.192.31.165,443,18.192.0.0/13,tcp.ngrok.io,ngrok.io,2024-05-31
-redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-30
 redline,147.45.47.93,80,147.45.47.0/24,,,2024-05-30
 redline,5.42.65.129,2353,5.42.64.0/22,,,2024-05-30
 njrat,3.14.182.203,16424,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-05-30
@@ -21,7 +23,6 @@ njrat,209.25.141.211,23521,209.25.140.0/22,tips-prairie.at.ply.gg,ply.gg,2024-05
 njrat,46.246.86.11,2054,46.246.64.0/18,anti2020.duckdns.org,duckdns.org,2024-05-30
 nanocore,93.123.39.66,6318,93.123.39.0/24,zaragoza.ddns.net,ddns.net,2024-05-30
 lokibot,203.209.197.31,80,203.209.192.0/20,geckoplumbing.com.au,com.au,2024-05-30
-lokibot,104.21.65.180,80,104.21.0.0/17,rocheholding.top,rocheholding.top,2024-05-30
 lokibot,51.68.167.104,80,51.68.0.0/16,,,2024-05-30
 lokibot,216.137.178.203,80,216.137.176.0/20,www.matantalbenna.com,matantalbenna.com,2024-05-30
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-05-30
