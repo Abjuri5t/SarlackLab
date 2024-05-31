@@ -1,6 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-05-31
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-05-31
+nanocore,216.218.135.117,3344,216.218.128.0/18,crsiedem7.ddns.net,ddns.net,2024-05-31
+lokibot,154.204.78.151,80,154.204.64.0/18,valdepian.com,valdepian.com,2024-05-31
 lokibot,46.148.39.131,80,46.148.39.0/24,sempersim.su,sempersim.su,2024-05-31
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-05-31
 nanocore,94.156.69.232,65024,94.156.64.0/21,december2nd.ddns.net,ddns.net,2024-05-31
@@ -88,7 +90,6 @@ redline,40.121.142.114,6709,40.121.0.0/16,,,2024-05-23
 njrat,3.125.209.94,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 njrat,3.125.223.134,13265,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-23
 nanocore,185.216.70.125,1974,185.216.70.0/24,psolver827.ddns.net,ddns.net,2024-05-23
-lokibot,154.204.78.151,80,154.204.64.0/18,valdepian.com,valdepian.com,2024-05-23
 njrat,160.176.158.157,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-05-23
 lokibot,34.205.242.146,80,34.204.0.0/14,shipboot.com,shipboot.com,2024-05-23
 njrat,188.226.118.231,1527,188.226.0.0/17,njratvtope30.ddns.net,ddns.net,2024-05-23
