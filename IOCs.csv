@@ -1,4 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-06-02
+lokibot,185.159.153.84,80,185.159.152.0/22,pendarcc.ir,pendarcc.ir,2024-06-02
+lokibot,185.53.177.13,80,185.53.176.0/22,www.dnacharting.com,dnacharting.com,2024-06-02
+lokibot,147.78.103.81,80,147.78.103.0/24,namex-na.com,namex-na.com,2024-06-02
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-02
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-02
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-02
@@ -46,7 +50,6 @@ nanocore,93.123.39.66,6318,93.123.39.0/24,zaragoza.ddns.net,ddns.net,2024-05-30
 lokibot,203.209.197.31,80,203.209.192.0/20,geckoplumbing.com.au,com.au,2024-05-30
 lokibot,51.68.167.104,80,51.68.0.0/16,,,2024-05-30
 lokibot,216.137.178.203,80,216.137.176.0/20,www.matantalbenna.com,matantalbenna.com,2024-05-30
-lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-05-30
 lokibot,34.246.200.160,80,34.240.0.0/12,abscete.info,abscete.info,2024-05-30
 lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-05-30
 lokibot,54.80.154.23,80,54.80.0.0/13,blesblochem.com,blesblochem.com,2024-05-30
@@ -72,7 +75,6 @@ njrat,197.202.219.104,555,197.202.0.0/15,x555hd.ddns.net,ddns.net,2024-05-27
 lokibot,31.220.2.200,80,31.220.0.0/22,,,2024-05-27
 redline,5.42.65.115,40551,5.42.64.0/22,,,2024-05-27
 njrat,147.185.221.19,32384,147.185.221.0/24,control-road.gl.at.ply.gg,ply.gg,2024-05-27
-lokibot,185.53.177.13,80,185.53.176.0/22,www.dnacharting.com,dnacharting.com,2024-05-27
 njrat,45.76.129.156,1177,45.76.0.0/15,seznam.zapto.org,zapto.org,2024-05-26
 lokibot,172.67.204.114,80,172.67.0.0/16,edgewell.cam,edgewell.cam,2024-05-26
 njrat,18.192.93.86,10092,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-26
