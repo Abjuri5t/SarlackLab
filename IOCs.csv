@@ -1,11 +1,15 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-04
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-04
+redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-04
+redline,43.155.163.53,24543,43.154.0.0/15,,,2024-06-04
+njrat,147.185.221.20,9426,147.185.221.0/24,so-taxi.gl.at.ply.gg,ply.gg,2024-06-03
+njrat,192.169.69.25,5552,192.169.68.0/22,win32.duckdns.org,duckdns.org,2024-06-03
+nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-06-03
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-06-02
 lokibot,185.159.153.84,80,185.159.152.0/22,pendarcc.ir,pendarcc.ir,2024-06-02
 lokibot,185.53.177.13,80,185.53.176.0/22,www.dnacharting.com,dnacharting.com,2024-06-02
 lokibot,147.78.103.81,80,147.78.103.0/24,namex-na.com,namex-na.com,2024-06-02
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-02
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-02
-redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-02
 redline,13.60.40.107,1912,13.60.0.0/15,,,2024-06-02
 njrat,193.161.193.99,44070,193.161.193.0/24,,,2024-06-02
 njrat,160.176.174.24,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-06-02
@@ -21,7 +25,6 @@ njrat,95.179.228.20,5050,95.179.128.0/17,seznam.zapto.org,zapto.org,2024-06-02
 lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-06-02
 nanocore,192.169.69.25,7019,192.169.68.0/22,haul.duckdns.org,duckdns.org,2024-06-01
 lokibot,31.220.1.98,80,31.220.0.0/22,,,2024-06-01
-redline,43.155.163.53,24543,43.154.0.0/15,,,2024-06-01
 redline,85.192.20.120,9999,85.192.20.0/24,,,2024-06-01
 lokibot,23.227.38.32,80,23.227.38.0/23,allbou.com,allbou.com,2024-05-31
 lokibot,46.148.39.131,80,46.148.39.0/24,sempersim.su,sempersim.su,2024-05-31
@@ -257,7 +260,6 @@ njrat,147.185.221.19,10345,147.185.221.0/24,study-window.gl.at.ply.gg,ply.gg,202
 lokibot,54.80.154.23,80,54.80.0.0/13,higomanga.info,higomanga.info,2024-05-11
 lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-05-11
 njrat,18.192.93.86,14858,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-10
-nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-05-10
 nanocore,192.169.69.25,4782,192.169.68.0/22,mybackups.duckdns.org,duckdns.org,2024-05-10
 lokibot,185.53.177.71,80,185.53.176.0/22,blazinghotter.igg.biz,igg.biz,2024-05-10
 redline,37.1.36.185,1912,37.1.0.0/18,,,2024-05-10
