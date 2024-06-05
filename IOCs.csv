@@ -1,10 +1,12 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,94.156.67.67,46629,94.156.64.0/21,,,2024-06-05
+lokibot,3.94.10.34,80,3.88.0.0/13,erxst.info,erxst.info,2024-06-05
+lokibot,172.67.168.154,80,172.67.0.0/16,giampaolidolciaria.cfd,giampaolidolciaria.cfd,2024-06-05
 njrat,147.185.221.19,43028,147.185.221.0/24,an-taxi.gl.at.ply.gg,ply.gg,2024-06-05
 lokibot,172.67.165.74,80,172.67.0.0/16,rocheholding.top,rocheholding.top,2024-06-05
 lokibot,104.21.65.180,80,104.21.0.0/17,rocheholding.top,rocheholding.top,2024-06-05
 redline,147.45.47.93,80,147.45.47.0/24,,,2024-06-05
 lokibot,31.192.235.208,80,31.192.232.0/21,mtuogioanis.com,mtuogioanis.com,2024-06-04
-lokibot,172.67.168.154,80,172.67.0.0/16,giampaolidolciaria.cfd,giampaolidolciaria.cfd,2024-06-04
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-04
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-04
 njrat,95.179.228.20,1177,95.179.128.0/17,seznam.zapto.org,zapto.org,2024-06-04
@@ -77,7 +79,6 @@ redline,51.195.53.197,13914,51.195.0.0/16,,,2024-05-28
 lokibot,172.67.175.19,80,172.67.0.0/16,metallc.top,metallc.top,2024-05-28
 lokibot,188.114.97.2,80,188.114.96.0/22,rocheholding.top,rocheholding.top,2024-05-28
 lokibot,192.3.209.101,80,192.3.208.0/20,,,2024-05-28
-lokibot,3.94.10.34,80,3.88.0.0/13,erxst.info,erxst.info,2024-05-28
 nanocore,147.78.103.240,1974,147.78.103.0/24,psolver827.ddns.net,ddns.net,2024-05-28
 njrat,105.154.226.162,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-05-27
 lokibot,64.190.63.222,80,64.190.62.0/23,lolibes.nut.cc,nut.cc,2024-05-27
