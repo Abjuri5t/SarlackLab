@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-05
 redline,94.156.67.67,46629,94.156.64.0/21,,,2024-06-05
 lokibot,3.94.10.34,80,3.88.0.0/13,erxst.info,erxst.info,2024-06-05
 lokibot,172.67.168.154,80,172.67.0.0/16,giampaolidolciaria.cfd,giampaolidolciaria.cfd,2024-06-05
@@ -10,7 +11,6 @@ lokibot,31.192.235.208,80,31.192.232.0/21,mtuogioanis.com,mtuogioanis.com,2024-0
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-04
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-04
 njrat,95.179.228.20,1177,95.179.128.0/17,seznam.zapto.org,zapto.org,2024-06-04
-redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-04
 redline,5.42.65.63,14707,5.42.64.0/22,,,2024-06-04
 njrat,95.179.228.20,5050,95.179.128.0/17,seznam.zapto.org,zapto.org,2024-06-04
 njrat,3.64.4.198,15212,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-06-04
