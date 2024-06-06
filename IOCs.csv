@@ -1,8 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.124.67.191,15023,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-06-06
+njrat,80.253.239.170,31089,80.253.224.0/20,,,2024-06-06
 njrat,3.6.122.107,10680,3.6.0.0/15,0.tcp.in.ngrok.io,ngrok.io,2024-06-06
 njrat,18.192.93.86,11520,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-06-06
 njrat,147.185.221.17,11278,147.185.221.0/24,results-ownership.gl.at.ply.gg,ply.gg,2024-06-06
-njrat,80.253.239.170,31089,80.253.224.0/20,,,2024-06-06
 redline,94.156.67.67,46629,94.156.64.0/21,,,2024-06-06
 redline,5.42.65.63,14707,5.42.64.0/22,,,2024-06-06
 njrat,18.192.31.165,17739,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-06
