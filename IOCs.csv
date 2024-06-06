@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-06
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-06
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-06
+njrat,147.185.221.20,9426,147.185.221.0/24,so-taxi.gl.at.ply.gg,ply.gg,2024-06-06
 redline,5.42.65.63,14707,5.42.64.0/22,,,2024-06-05
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-05
 redline,94.156.67.67,46629,94.156.64.0/21,,,2024-06-05
@@ -20,7 +21,6 @@ lokibot,188.114.96.2,80,188.114.96.0/22,ulysse-cazabonne.cam,ulysse-cazabonne.ca
 lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2024-06-04
 lokibot,93.123.39.160,80,93.123.39.0/24,namex-na.com,namex-na.com,2024-06-04
 redline,43.155.163.53,24543,43.154.0.0/15,,,2024-06-04
-njrat,147.185.221.20,9426,147.185.221.0/24,so-taxi.gl.at.ply.gg,ply.gg,2024-06-03
 njrat,192.169.69.25,5552,192.169.68.0/22,win32.duckdns.org,duckdns.org,2024-06-03
 nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-06-03
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-06-02
