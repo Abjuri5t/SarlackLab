@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,94.156.67.67,46629,94.156.64.0/21,,,2024-06-06
 redline,5.42.65.63,14707,5.42.64.0/22,,,2024-06-06
 njrat,18.192.31.165,17739,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-06
 njrat,3.125.102.39,17739,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-06
@@ -6,7 +7,6 @@ redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-06
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-06
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-06
 njrat,147.185.221.20,9426,147.185.221.0/24,so-taxi.gl.at.ply.gg,ply.gg,2024-06-06
-redline,94.156.67.67,46629,94.156.64.0/21,,,2024-06-05
 lokibot,3.94.10.34,80,3.88.0.0/13,erxst.info,erxst.info,2024-06-05
 lokibot,172.67.168.154,80,172.67.0.0/16,giampaolidolciaria.cfd,giampaolidolciaria.cfd,2024-06-05
 njrat,147.185.221.19,43028,147.185.221.0/24,an-taxi.gl.at.ply.gg,ply.gg,2024-06-05
