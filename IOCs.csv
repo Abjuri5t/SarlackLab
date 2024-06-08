@@ -1,8 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-njrat,18.156.13.209,17435,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-06-08
-njrat,18.157.68.73,17435,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-06-08
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-08
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-08
+njrat,18.156.13.209,17435,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-06-08
+njrat,18.157.68.73,17435,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-06-08
 njrat,3.125.102.39,17046,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-08
 njrat,3.64.4.198,13678,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-06-08
 njrat,105.105.234.158,555,105.104.0.0/13,x555hd.ddns.net,ddns.net,2024-06-08
