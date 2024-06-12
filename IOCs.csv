@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.20,10324,147.185.221.0/24,born-administrative.gl.at.ply.gg,ply.gg,2024-06-12
 njrat,69.195.128.82,8080,69.195.128.0/19,localhosts.anondns.net,anondns.net,2024-06-12
 redline,4.185.27.237,13528,4.160.0.0/11,,,2024-06-12
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-12
@@ -14,7 +15,6 @@ njrat,3.125.209.94,11331,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-12
 lokibot,172.67.165.74,80,172.67.0.0/16,rocheholding.top,rocheholding.top,2024-06-12
 redline,216.250.255.226,3731,216.250.248.0/21,,,2024-06-11
 njrat,41.248.117.232,10000,41.248.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-06-11
-njrat,147.185.221.20,10324,147.185.221.0/24,born-administrative.gl.at.ply.gg,ply.gg,2024-06-11
 redline,194.26.232.43,20746,194.26.232.0/24,,,2024-06-11
 njrat,41.44.209.185,5552,41.44.0.0/14,jokarrrrr333322.ddns.net,ddns.net,2024-06-11
 njrat,46.246.6.8,2054,46.246.4.0/22,nuevos2024.duckdns.org,duckdns.org,2024-06-11
