@@ -1,5 +1,10 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,4.185.27.237,13528,4.160.0.0/11,,,2024-06-12
+redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-12
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-12
+njrat,147.185.221.18,53098,147.185.221.0/24,northern-suggested.gl.at.ply.gg,ply.gg,2024-06-12
 njrat,85.234.6.210,1337,85.234.0.0/20,,,2024-06-12
+njrat,147.185.221.20,21552,147.185.221.0/24,different-been.gl.at.ply.gg,ply.gg,2024-06-12
 njrat,41.142.208.122,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-06-12
 lokibot,172.67.222.157,80,172.67.0.0/16,tampabayllc.top,tampabayllc.top,2024-06-12
 redline,52.242.20.137,1912,52.240.0.0/12,,,2024-06-12
@@ -7,9 +12,6 @@ njrat,192.169.69.25,2089,192.169.68.0/22,duckduck2021.duckdns.org,duckdns.org,20
 njrat,147.185.221.18,27425,147.185.221.0/24,,,2024-06-12
 njrat,147.185.221.20,10324,147.185.221.0/24,born-administrative.gl.at.ply.gg,ply.gg,2024-06-12
 njrat,69.195.128.82,8080,69.195.128.0/19,localhosts.anondns.net,anondns.net,2024-06-12
-redline,4.185.27.237,13528,4.160.0.0/11,,,2024-06-12
-redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-12
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-12
 lokibot,103.233.0.85,80,103.233.0.0/22,missingandfound.com.my,com.my,2024-06-12
 redline,45.89.53.206,4663,45.89.52.0/22,,,2024-06-12
 lokibot,104.21.79.102,80,104.21.0.0/17,alphabetllc.top,alphabetllc.top,2024-06-12
