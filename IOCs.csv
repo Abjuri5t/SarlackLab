@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,89.23.100.222,44528,89.23.100.0/23,,,2024-06-13
+lokibot,18.208.156.248,80,18.208.0.0/15,cpf-th.com,cpf-th.com,2024-06-13
 njrat,147.185.221.20,21854,147.185.221.0/24,,,2024-06-13
 redline,89.23.97.100,15799,89.23.96.0/22,,,2024-06-13
 njrat,85.234.6.210,1337,85.234.0.0/20,,,2024-06-13
@@ -165,7 +167,6 @@ njrat,18.192.31.165,15881,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-26
 njrat,3.66.38.117,17680,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-05-26
 njrat,105.154.228.100,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-05-26
 njrat,192.169.69.25,3042,192.169.68.0/22,njratnew.duckdns.org,duckdns.org,2024-05-26
-redline,89.23.100.222,44528,89.23.100.0/23,,,2024-05-26
 njrat,41.142.211.38,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-05-25
 njrat,147.185.221.18,41414,147.185.221.0/24,authority-amazon.gl.at.ply.gg,ply.gg,2024-05-25
 njrat,3.121.139.82,14200,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-05-25
