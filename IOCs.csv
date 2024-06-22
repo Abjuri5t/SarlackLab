@@ -1,9 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,91.92.255.143,45786,91.92.240.0/20,,,2024-06-21
-redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-21
-lokibot,104.21.23.190,80,104.20.0.0/15,midwestsoil.top,midwestsoil.top,2024-06-21
 redline,4.185.27.237,13528,4.160.0.0/11,,,2024-06-21
+redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-21
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-21
+lokibot,104.21.23.190,80,104.20.0.0/15,midwestsoil.top,midwestsoil.top,2024-06-21
 njrat,18.192.31.165,10148,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-21
 njrat,3.125.223.134,10148,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-21
 njrat,18.197.239.109,14452,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-06-21
