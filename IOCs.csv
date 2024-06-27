@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.65.92,27953,5.42.64.0/22,,,2024-06-27
+njrat,147.185.221.19,48615,147.185.221.0/24,photos-money.gl.at.ply.gg,ply.gg,2024-06-27
+lokibot,104.21.23.190,80,104.20.0.0/15,midwestsoil.top,midwestsoil.top,2024-06-27
 redline,94.228.166.68,80,94.228.166.0/24,,,2024-06-27
 redline,85.28.47.7,17210,85.28.47.0/24,,,2024-06-26
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-26
@@ -9,7 +12,6 @@ redline,45.154.99.245,13799,45.154.99.0/24,,,2024-06-26
 njrat,3.125.223.134,16163,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
 njrat,3.124.142.205,16163,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
 njrat,3.125.102.39,16163,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
-redline,5.42.65.92,27953,5.42.64.0/22,,,2024-06-26
 nanocore,74.137.248.199,4338,74.136.0.0/14,senaclient.ddns.net,ddns.net,2024-06-26
 njrat,3.125.223.134,12493,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
 njrat,3.124.142.205,12493,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
@@ -49,7 +51,6 @@ redline,149.28.222.15,44506,149.28.128.0/17,,,2024-06-23
 nanocore,147.185.221.20,38177,147.185.221.0/24,care-somewhere.gl.at.ply.gg,ply.gg,2024-06-23
 njrat,147.185.221.20,38713,147.185.221.0/24,delivery-cookie.gl.at.ply.gg,ply.gg,2024-06-23
 njrat,147.185.221.20,21472,147.185.221.0/24,christian-printed.gl.at.ply.gg,ply.gg,2024-06-23
-lokibot,104.21.23.190,80,104.20.0.0/15,midwestsoil.top,midwestsoil.top,2024-06-23
 njrat,193.161.193.99,25730,193.161.193.0/24,DeadSec69-52782.portmap.host,portmap.host,2024-06-22
 njrat,31.173.170.243,7777,31.173.160.0/20,,,2024-06-22
 njrat,41.47.231.58,5552,41.40.0.0/13,jokarrrrr333322.ddns.net,ddns.net,2024-06-22
