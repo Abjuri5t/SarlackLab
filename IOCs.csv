@@ -1,8 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,94.228.166.68,80,94.228.166.0/24,,,2024-06-27
+lokibot,172.67.212.234,80,172.67.0.0/16,midwestsoil.top,midwestsoil.top,2024-06-27
 redline,5.42.65.92,27953,5.42.64.0/22,,,2024-06-27
 njrat,147.185.221.19,48615,147.185.221.0/24,photos-money.gl.at.ply.gg,ply.gg,2024-06-27
 lokibot,104.21.23.190,80,104.20.0.0/15,midwestsoil.top,midwestsoil.top,2024-06-27
-redline,94.228.166.68,80,94.228.166.0/24,,,2024-06-27
 redline,85.28.47.7,17210,85.28.47.0/24,,,2024-06-26
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-26
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-06-26
@@ -87,7 +88,6 @@ njrat,147.185.221.20,33823,147.185.221.0/24,remember-sail.gl.at.ply.gg,ply.gg,20
 njrat,3.125.102.39,15809,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-21
 njrat,3.125.209.94,15809,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-21
 njrat,18.158.249.75,15809,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-06-21
-lokibot,172.67.212.234,80,172.67.0.0/16,midwestsoil.top,midwestsoil.top,2024-06-21
 lokibot,104.21.8.118,80,104.20.0.0/15,ulysse-cazabonne.cam,ulysse-cazabonne.cam,2024-06-21
 njrat,41.249.109.189,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-06-20
 njrat,147.185.221.20,16906,147.185.221.0/24,grade-excellence.gl.at.ply.gg,ply.gg,2024-06-20
