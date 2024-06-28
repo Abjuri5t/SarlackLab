@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,94.156.69.12,1912,94.156.64.0/21,,,2024-06-28
 redline,94.228.166.68,80,94.228.166.0/24,,,2024-06-27
 redline,185.172.128.33,8970,185.172.128.0/24,,,2024-06-27
 lokibot,31.192.239.29,80,31.192.232.0/21,vauxhall.top,vauxhall.top,2024-06-27
@@ -23,7 +24,6 @@ nanocore,74.137.248.199,4338,74.136.0.0/14,senaclient.ddns.net,ddns.net,2024-06-
 njrat,3.125.223.134,12493,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
 njrat,3.124.142.205,12493,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
 njrat,18.192.31.165,12493,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-26
-redline,94.156.69.12,1912,94.156.64.0/21,,,2024-06-26
 njrat,147.185.221.20,17341,147.185.221.0/24,press-higher.gl.at.ply.gg,ply.gg,2024-06-26
 redline,91.92.241.104,28744,91.92.240.0/20,,,2024-06-26
 redline,52.169.196.156,7766,52.160.0.0/11,,,2024-06-26
