@@ -1,7 +1,20 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-njrat,160.177.56.173,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-06-28
-redline,185.196.9.26,6302,185.196.8.0/22,,,2024-06-28
-redline,94.228.166.68,80,94.228.166.0/24,,,2024-06-28
+redline,94.228.166.68,80,94.228.166.0/24,,,2024-06-30
+njrat,18.158.249.75,19060,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-06-30
+njrat,3.125.102.39,19060,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-30
+redline,147.45.45.3,1912,147.45.45.0/24,,,2024-06-30
+redline,4.185.56.82,42687,4.160.0.0/11,,,2024-06-30
+redline,144.172.122.232,20131,144.172.122.0/23,,,2024-06-30
+redline,185.196.9.26,6302,185.196.8.0/22,,,2024-06-30
+redline,51.195.206.227,38719,51.195.0.0/16,,,2024-06-30
+njrat,147.185.221.20,50199,147.185.221.0/24,,,2024-06-30
+njrat,147.185.221.20,37993,147.185.221.0/24,them-recommended.gl.at.ply.gg,ply.gg,2024-06-30
+njrat,147.185.221.20,22517,147.185.221.0/24,provided-existence.gl.at.ply.gg,ply.gg,2024-06-30
+njrat,160.177.56.173,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-06-30
+njrat,192.169.69.25,1316,192.169.68.0/22,googledocs.duckdns.org,duckdns.org,2024-06-30
+nanocore,104.243.242.166,1620,104.243.242.0/23,newsddawork.3utilities.com,3utilities.com,2024-06-30
+nanocore,18.210.161.224,3436,18.210.0.0/16,kala1.duckdns.org,duckdns.org,2024-06-30
+nanocore,18.210.161.224,3637,18.210.0.0/16,munan.duckdns.org,duckdns.org,2024-06-30
 lokibot,104.21.23.190,80,104.20.0.0/15,midwestsoil.top,midwestsoil.top,2024-06-28
 redline,195.10.205.102,1912,195.10.205.0/24,,,2024-06-28
 redline,94.156.69.12,1912,94.156.64.0/21,,,2024-06-28
@@ -105,7 +118,6 @@ njrat,3.125.102.39,10935,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-20
 njrat,3.125.223.134,10935,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-20
 njrat,41.249.49.248,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-06-20
 njrat,147.185.221.19,43028,147.185.221.0/24,an-taxi.gl.at.ply.gg,ply.gg,2024-06-20
-nanocore,18.210.161.224,3637,18.210.0.0/16,munan.duckdns.org,duckdns.org,2024-06-20
 lokibot,104.21.23.190,80,104.21.0.0/17,midwestsoil.top,midwestsoil.top,2024-06-19
 redline,147.45.47.93,80,147.45.47.0/24,,,2024-06-19
 redline,212.86.114.67,42666,212.86.114.0/23,,,2024-06-19
