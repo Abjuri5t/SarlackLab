@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,103.224.212.214,80,103.224.212.0/23,byorn.us,byorn.us,2024-07-02
 redline,77.105.135.107,3445,77.105.135.0/24,,,2024-07-02
 redline,77.91.77.6,24186,77.91.76.0/23,,,2024-07-02
 redline,144.172.122.232,20131,144.172.122.0/23,,,2024-07-02
