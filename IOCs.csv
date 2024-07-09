@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,77.91.77.6,24186,77.91.76.0/23,,,2024-07-09
+nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-07-09
 njrat,18.197.239.109,15358,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-07-09
 njrat,18.177.76.42,18505,18.176.0.0/13,0.tcp.jp.ngrok.io,ngrok.io,2024-07-09
 njrat,147.185.221.21,4041,147.185.221.0/24,unit-latinas.gl.at.ply.gg,ply.gg,2024-07-09
@@ -32,7 +34,6 @@ lokibot,91.92.240.69,80,91.92.240.0/20,dashboardproducts.info,dashboardproducts.
 njrat,88.226.188.159,5552,88.226.188.0/23,jvjv2044duck33.duckdns.org,duckdns.org,2024-07-07
 njrat,3.121.139.82,15003,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-07-07
 njrat,18.198.77.177,15003,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-07-07
-redline,77.91.77.6,24186,77.91.76.0/23,,,2024-07-06
 redline,173.195.100.68,1912,173.195.100.0/22,,,2024-07-06
 njrat,147.185.221.19,32714,147.185.221.0/24,19.ip.gl.ply.gg,ply.gg,2024-07-06
 njrat,3.67.112.102,12761,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-07-06
@@ -205,7 +206,6 @@ njrat,3.125.223.134,12876,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-19
 njrat,18.158.249.75,12876,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-06-19
 nanocore,2.58.149.83,443,2.58.148.0/23,moregrace.duckdns.org,duckdns.org,2024-06-19
 nanocore,184.105.192.5,2669,184.105.192.0/22,tallboy.zapto.org,zapto.org,2024-06-19
-nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-06-19
 nanocore,192.169.69.26,54880,192.169.68.0/22,vjhelena.duckdns.org,duckdns.org,2024-06-19
 nanocore,147.185.221.20,26704,147.185.221.0/24,local-quote.gl.at.ply.gg,ply.gg,2024-06-19
 nanocore,94.156.68.149,15230,94.156.64.0/21,2023endofyear.duckdns.org,duckdns.org,2024-06-19
