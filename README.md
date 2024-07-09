@@ -1,3 +1,3 @@
 # SarlackLab
 
-Still a work in progress... Come back in a week or so to see the published resources.
+https://medium.com/@the_abjuri5t/aa1a4bba2863
