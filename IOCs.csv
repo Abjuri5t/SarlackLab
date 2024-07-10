@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,91.92.240.69,80,91.92.240.0/20,dashboardproducts.info,dashboardproducts.info,2024-07-10
 njrat,147.185.221.18,32415,147.185.221.0/24,made-infant.gl.at.ply.gg,ply.gg,2024-07-10
 lokibot,31.192.237.18,80,31.192.232.0/21,sssteell-com.pro,sssteell-com.pro,2024-07-10
 lokibot,104.21.14.127,80,104.20.0.0/15,samsunglimited.top,samsunglimited.top,2024-07-10
@@ -34,7 +35,6 @@ redline,89.23.101.114,1912,89.23.100.0/23,,,2024-07-08
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-07-08
 redline,51.81.126.51,3888,51.81.0.0/16,,,2024-07-08
 lokibot,66.29.130.54,80,66.29.128.0/19,ad4teg.com,ad4teg.com,2024-07-08
-lokibot,91.92.240.69,80,91.92.240.0/20,dashboardproducts.info,dashboardproducts.info,2024-07-07
 njrat,88.226.188.159,5552,88.226.188.0/23,jvjv2044duck33.duckdns.org,duckdns.org,2024-07-07
 njrat,3.121.139.82,15003,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-07-07
 njrat,18.198.77.177,15003,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-07-07
