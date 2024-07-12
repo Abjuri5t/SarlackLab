@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,77.91.77.6,24186,77.91.76.0/23,,,2024-07-12
+redline,185.196.9.26,6302,185.196.8.0/22,,,2024-07-12
 redline,94.228.166.68,80,94.228.166.0/24,,,2024-07-12
 redline,212.162.149.77,1912,212.162.148.0/22,,,2024-07-12
 nanocore,216.218.135.117,3603,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-07-12
@@ -18,7 +20,6 @@ nanocore,104.243.242.169,8258,104.243.242.0/23,,,2024-07-11
 lokibot,91.92.240.69,80,91.92.240.0/20,dashboardproducts.info,dashboardproducts.info,2024-07-10
 lokibot,172.67.169.238,80,172.67.0.0/16,alphabetllc.top,alphabetllc.top,2024-07-10
 njrat,147.185.221.21,6732,147.185.221.0/24,,,2024-07-10
-redline,185.196.9.26,6302,185.196.8.0/22,,,2024-07-10
 redline,46.183.222.27,1912,46.183.216.0/21,,,2024-07-10
 njrat,147.185.221.21,2094,147.185.221.0/24,data-dakota.gl.at.ply.gg,ply.gg,2024-07-10
 njrat,3.126.37.18,17814,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-10
@@ -30,7 +31,6 @@ lokibot,31.192.237.18,80,31.192.232.0/21,sssteell-com.pro,sssteell-com.pro,2024-
 lokibot,104.21.14.127,80,104.20.0.0/15,samsunglimited.top,samsunglimited.top,2024-07-10
 nanocore,104.243.242.168,1620,104.243.242.0/23,newsddawork.3utilities.com,3utilities.com,2024-07-09
 njrat,147.185.221.21,5008,147.185.221.0/24,,,2024-07-09
-redline,77.91.77.6,24186,77.91.76.0/23,,,2024-07-09
 nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-07-09
 njrat,18.197.239.109,15358,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-07-09
 njrat,18.177.76.42,18505,18.176.0.0/13,0.tcp.jp.ngrok.io,ngrok.io,2024-07-09
