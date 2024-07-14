@@ -1,11 +1,12 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,85.28.47.132,80,85.28.47.0/24,,,2024-07-14
+lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2024-07-14
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-07-14
 redline,89.23.101.114,1912,89.23.100.0/23,,,2024-07-13
 redline,91.92.249.24,4808,91.92.240.0/20,,,2024-07-13
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-07-13
 njrat,89.117.23.25,35999,89.117.16.0/21,njas.duckdns.org,duckdns.org,2024-07-13
 njrat,147.185.221.20,36100,147.185.221.0/24,,,2024-07-13
-redline,85.28.47.132,80,85.28.47.0/24,,,2024-07-13
 njrat,18.192.93.86,15240,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-13
 njrat,3.127.138.57,15240,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-13
 njrat,18.197.239.5,15240,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-13
@@ -39,7 +40,6 @@ njrat,147.185.221.21,2094,147.185.221.0/24,data-dakota.gl.at.ply.gg,ply.gg,2024-
 njrat,3.126.37.18,17814,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-10
 njrat,147.185.221.21,6567,147.185.221.0/24,within-gym.gl.at.ply.gg,ply.gg,2024-07-10
 njrat,147.185.221.21,6643,147.185.221.0/24,commission-machines.gl.at.ply.gg,ply.gg,2024-07-10
-lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2024-07-10
 njrat,147.185.221.18,32415,147.185.221.0/24,made-infant.gl.at.ply.gg,ply.gg,2024-07-10
 lokibot,31.192.237.18,80,31.192.232.0/21,sssteell-com.pro,sssteell-com.pro,2024-07-10
 lokibot,104.21.14.127,80,104.20.0.0/15,samsunglimited.top,samsunglimited.top,2024-07-10
