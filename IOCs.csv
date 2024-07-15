@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.192.31.165,11544,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-07-15
+njrat,3.124.142.205,11544,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-07-15
+njrat,3.125.223.134,11544,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-07-15
 redline,77.105.135.107,3445,77.105.135.0/24,,,2024-07-15
 redline,20.52.165.210,39030,20.48.0.0/12,,,2024-07-15
 njrat,147.185.221.21,3238,147.185.221.0/24,,,2024-07-15
@@ -1168,7 +1171,6 @@ njrat,3.127.138.57,13538,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-02-03
 nanocore,191.101.209.29,20427,191.101.209.0/24,,,2024-02-03
 njrat,18.228.115.60,18785,18.224.0.0/13,0.tcp.sa.ngrok.io,ngrok.io,2024-02-03
 njrat,3.125.209.94,11544,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-02
-njrat,18.192.31.165,11544,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-02-02
 njrat,20.106.168.188,5050,20.96.0.0/11,milla.publicvm.com,publicvm.com,2024-02-02
 njrat,3.69.115.178,11080,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-02-02
 nanocore,89.149.23.88,20427,89.149.23.0/24,technoblade.ddns.net,ddns.net,2024-02-02
