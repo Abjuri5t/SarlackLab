@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.20,64407,147.185.221.0/24,answers-crisis.gl.at.ply.gg,ply.gg,2024-07-16
 lokibot,104.21.95.88,80,104.20.0.0/15,verose.top,verose.top,2024-07-16
 njrat,147.185.221.20,26916,147.185.221.0/24,away-displays.gl.at.ply.gg,ply.gg,2024-07-16
 njrat,147.185.221.21,15158,147.185.221.0/24,,,2024-07-16
@@ -6,7 +7,6 @@ lokibot,104.21.65.180,80,104.20.0.0/15,rocheholding.top,rocheholding.top,2024-07
 lokibot,172.67.165.74,80,172.67.0.0/16,rocheholding.top,rocheholding.top,2024-07-16
 redline,38.180.204.127,17052,38.180.204.0/24,,,2024-07-15
 redline,91.92.249.167,28788,91.92.240.0/20,,,2024-07-15
-njrat,147.185.221.20,64407,147.185.221.0/24,answers-crisis.gl.at.ply.gg,ply.gg,2024-07-15
 njrat,3.125.223.134,14213,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-07-15
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-07-15
 njrat,147.185.221.19,30060,147.185.221.0/24,advanced-cognitive.gl.at.ply.gg,ply.gg,2024-07-15
