@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,178.23.190.118,1912,178.23.190.0/24,,,2024-07-18
 redline,94.156.69.115,46958,94.156.64.0/21,,,2024-07-18
 redline,204.10.160.140,7001,204.10.160.0/22,,,2024-07-18
 nanocore,216.218.135.118,1512,216.218.128.0/18,goddywin.freedynamicdns.net,freedynamicdns.net,2024-07-18
@@ -123,7 +124,6 @@ njrat,43.255.241.232,5555,43.255.240.0/22,,,2024-07-04
 njrat,178.78.19.238,1337,178.78.0.0/19,,,2024-07-03
 lokibot,104.21.76.60,80,104.20.0.0/15,andrebadi.top,andrebadi.top,2024-07-03
 lokibot,172.67.130.113,80,172.67.0.0/16,ulysse-cazabonne.cam,ulysse-cazabonne.cam,2024-07-03
-redline,178.23.190.118,1912,178.23.190.0/24,,,2024-07-03
 redline,147.124.209.128,7847,147.124.208.0/20,,,2024-07-02
 njrat,172.232.164.13,1177,172.232.128.0/17,seznam.zapto.org,zapto.org,2024-07-02
 njrat,105.157.150.238,10000,105.156.0.0/15,doddyfire.linkpc.net,linkpc.net,2024-07-02
