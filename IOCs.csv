@@ -1,7 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,77.105.135.107,3445,77.105.135.0/24,,,2024-07-17
+lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2024-07-17
 redline,85.28.47.132,80,85.28.47.0/24,,,2024-07-17
 njrat,160.176.168.94,10000,160.176.0.0/14,doddyfire.linkpc.net,linkpc.net,2024-07-17
-redline,77.105.135.107,3445,77.105.135.0/24,,,2024-07-17
 njrat,147.185.221.21,19455,147.185.221.0/24,,,2024-07-17
 njrat,54.153.17.157,14445,54.153.0.0/16,mrat23009.dyndns.org,dyndns.org,2024-07-17
 njrat,147.185.221.21,3238,147.185.221.0/24,,,2024-07-17
@@ -37,7 +38,6 @@ redline,89.23.101.114,1912,89.23.100.0/23,,,2024-07-14
 njrat,41.142.37.55,10000,41.142.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-07-14
 njrat,147.185.221.21,9137,147.185.221.0/24,service-extract.gl.at.ply.gg,ply.gg,2024-07-14
 njrat,147.185.221.21,14640,147.185.221.0/24,peter-tampa.gl.at.ply.gg,ply.gg,2024-07-14
-lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2024-07-14
 redline,91.92.249.24,4808,91.92.240.0/20,,,2024-07-13
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-07-13
 njrat,89.117.23.25,35999,89.117.16.0/21,njas.duckdns.org,duckdns.org,2024-07-13
