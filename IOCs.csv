@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,212.162.149.48,2049,212.162.148.0/22,,,2024-07-22
+njrat,46.246.82.15,6060,46.246.64.0/18,linternadc24.duckdns.org,duckdns.org,2024-07-22
 redline,77.105.135.107,3445,77.105.135.0/24,,,2024-07-22
 lokibot,70.32.1.32,80,70.32.0.0/21,byorn.us,byorn.us,2024-07-22
 njrat,3.67.161.133,17742,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-07-22
