@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.67.161.133,17742,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-07-22
+njrat,3.67.112.102,17742,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-07-22
 redline,94.232.249.204,29295,94.232.249.0/24,,,2024-07-22
 redline,88.99.151.68,7200,88.99.0.0/16,,,2024-07-22
 njrat,41.142.19.187,10000,41.142.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-07-22
