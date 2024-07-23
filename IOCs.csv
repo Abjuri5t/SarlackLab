@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.79.102,80,104.21.0.0/17,alphabetllc.top,alphabetllc.top,2024-07-23
 redline,5.42.92.213,46419,5.42.92.0/24,,,2024-07-23
 njrat,147.185.221.21,9316,147.185.221.0/24,components-resort.gl.at.ply.gg,ply.gg,2024-07-23
 njrat,34.102.5.126,1177,34.102.0.0/17,seznam.zapto.org,zapto.org,2024-07-23
@@ -338,7 +339,6 @@ njrat,147.185.221.20,10324,147.185.221.0/24,born-administrative.gl.at.ply.gg,ply
 njrat,69.195.128.82,8080,69.195.128.0/19,localhosts.anondns.net,anondns.net,2024-06-12
 lokibot,103.233.0.85,80,103.233.0.0/22,missingandfound.com.my,com.my,2024-06-12
 redline,45.89.53.206,4663,45.89.52.0/22,,,2024-06-12
-lokibot,104.21.79.102,80,104.21.0.0/17,alphabetllc.top,alphabetllc.top,2024-06-12
 njrat,3.125.223.134,11331,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-12
 njrat,18.158.249.75,11331,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-06-12
 njrat,3.125.209.94,11331,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-12
