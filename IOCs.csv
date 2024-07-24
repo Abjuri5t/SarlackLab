@@ -1,8 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.21,31388,147.185.221.0/24,insurance-helmet.gl.at.ply.gg,ply.gg,2024-07-24
+njrat,89.117.23.25,35999,89.117.16.0/21,njas.duckdns.org,duckdns.org,2024-07-24
 lokibot,185.130.225.203,80,185.130.224.0/22,sempersim.su,sempersim.su,2024-07-24
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-07-24
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-07-24
-njrat,147.185.221.21,31388,147.185.221.0/24,insurance-helmet.gl.at.ply.gg,ply.gg,2024-07-24
 redline,80.76.49.119,1912,80.76.49.0/24,,,2024-07-24
 redline,20.52.165.210,39030,20.48.0.0/12,,,2024-07-24
 redline,77.105.135.107,3445,77.105.135.0/24,,,2024-07-24
@@ -82,7 +83,6 @@ njrat,147.185.221.21,9137,147.185.221.0/24,service-extract.gl.at.ply.gg,ply.gg,2
 njrat,147.185.221.21,14640,147.185.221.0/24,peter-tampa.gl.at.ply.gg,ply.gg,2024-07-14
 redline,91.92.249.24,4808,91.92.240.0/20,,,2024-07-13
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-07-13
-njrat,89.117.23.25,35999,89.117.16.0/21,njas.duckdns.org,duckdns.org,2024-07-13
 njrat,147.185.221.20,36100,147.185.221.0/24,,,2024-07-13
 njrat,18.192.93.86,15240,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-13
 njrat,3.127.138.57,15240,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-13
