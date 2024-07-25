@@ -1,13 +1,16 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,31.177.108.53,11099,31.177.108.0/22,,,2024-07-25
+redline,185.196.9.26,6302,185.196.8.0/22,,,2024-07-25
+njrat,147.185.221.21,11656,147.185.221.0/24,,,2024-07-25
+njrat,45.83.207.67,6652,45.83.207.0/24,,,2024-07-25
+njrat,18.229.140.246,1177,18.224.0.0/13,troia23.duckdns.org,duckdns.org,2024-07-25
+lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-07-24
+lokibot,185.130.225.203,80,185.130.224.0/22,sempersim.su,sempersim.su,2024-07-24
 redline,204.10.160.140,7001,204.10.160.0/22,,,2024-07-24
-redline,185.196.9.26,6302,185.196.8.0/22,,,2024-07-24
 redline,45.83.31.49,1912,45.83.31.0/24,,,2024-07-24
 njrat,41.142.43.242,10000,41.142.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-07-24
-njrat,18.229.140.246,1177,18.224.0.0/13,troia23.duckdns.org,duckdns.org,2024-07-24
 njrat,41.249.55.89,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-07-24
-lokibot,185.130.225.203,80,185.130.224.0/22,sempersim.su,sempersim.su,2024-07-24
 njrat,147.185.221.21,31388,147.185.221.0/24,insurance-helmet.gl.at.ply.gg,ply.gg,2024-07-24
-redline,31.177.108.53,11099,31.177.108.0/22,,,2024-07-24
 redline,80.76.49.119,1912,80.76.49.0/24,,,2024-07-24
 njrat,89.117.23.25,35999,89.117.16.0/21,njas.duckdns.org,duckdns.org,2024-07-24
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-07-24
@@ -643,7 +646,6 @@ njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-05-1
 njrat,105.155.173.158,10000,105.155.128.0/18,doddyfire.linkpc.net,linkpc.net,2024-05-11
 njrat,147.185.221.19,10345,147.185.221.0/24,study-window.gl.at.ply.gg,ply.gg,2024-05-11
 lokibot,54.80.154.23,80,54.80.0.0/13,higomanga.info,higomanga.info,2024-05-11
-lokibot,104.21.52.88,80,104.21.0.0/17,meridianresourcellc.top,meridianresourcellc.top,2024-05-11
 njrat,18.192.93.86,14858,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-05-10
 nanocore,192.169.69.25,4782,192.169.68.0/22,mybackups.duckdns.org,duckdns.org,2024-05-10
 lokibot,185.53.177.71,80,185.53.176.0/22,blazinghotter.igg.biz,igg.biz,2024-05-10
