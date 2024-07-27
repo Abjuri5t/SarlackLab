@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,5.42.92.213,46419,5.42.92.0/24,,,2024-07-27
 redline,185.215.113.9,9137,185.215.113.0/24,,,2024-07-27
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-07-27
 redline,20.52.165.210,39030,20.48.0.0/12,,,2024-07-27
@@ -36,7 +37,6 @@ redline,80.76.49.119,1912,80.76.49.0/24,,,2024-07-24
 njrat,89.117.23.25,35999,89.117.16.0/21,njas.duckdns.org,duckdns.org,2024-07-24
 redline,77.105.135.107,3445,77.105.135.0/24,,,2024-07-24
 nanocore,192.169.69.25,7890,192.169.68.0/22,helpout.duckdns.org,duckdns.org,2024-07-23
-redline,5.42.92.213,46419,5.42.92.0/24,,,2024-07-23
 njrat,147.185.221.21,2094,147.185.221.0/24,data-dakota.gl.at.ply.gg,ply.gg,2024-07-23
 njrat,34.102.5.126,5050,34.102.0.0/17,seznam.zapto.org,zapto.org,2024-07-23
 nanocore,172.111.232.162,1620,172.111.232.0/24,newsddawork.3utilities.com,3utilities.com,2024-07-23
