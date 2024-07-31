@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,41.140.55.35,10000,41.140.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-07-31
 redline,185.215.113.9,9137,185.215.113.0/24,,,2024-07-31
 redline,91.92.240.171,32837,91.92.240.0/20,,,2024-07-31
 redline,20.52.165.210,39030,20.48.0.0/12,,,2024-07-31
@@ -16,7 +17,6 @@ nanocore,3.68.171.119,13201,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-07-31
 redline,147.45.47.104,8432,147.45.47.0/24,,,2024-07-31
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-07-31
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-07-31
-njrat,41.140.55.35,10000,41.140.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-07-30
 njrat,18.197.239.5,14407,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-30
 njrat,18.157.68.73,14407,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-07-30
 njrat,3.126.37.18,14407,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-30
