@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,45.88.91.205,1912,45.88.91.0/24,,,2024-08-01
+nanocore,216.218.135.118,2017,216.218.128.0/18,office1.servemp3.com,servemp3.com,2024-08-01
 redline,91.92.240.171,32837,91.92.240.0/20,,,2024-08-01
 redline,185.215.113.67,40960,185.215.113.0/24,,,2024-08-01
 redline,20.52.165.210,39030,20.48.0.0/12,,,2024-08-01
@@ -34,7 +36,6 @@ njrat,3.127.138.57,15558,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-30
 njrat,18.192.93.86,15558,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-07-30
 njrat,192.169.69.25,1604,192.169.68.0/22,paragetirmebana.duckdns.org,duckdns.org,2024-07-30
 njrat,192.169.69.25,655,192.169.68.0/22,sulumantest.duckdns.org,duckdns.org,2024-07-29
-nanocore,216.218.135.118,2017,216.218.128.0/18,office1.servemp3.com,servemp3.com,2024-07-29
 redline,20.195.15.112,1912,20.192.0.0/14,,,2024-07-29
 njrat,105.154.227.238,10000,105.154.0.0/16,doddyfire.linkpc.net,linkpc.net,2024-07-29
 njrat,147.185.221.21,31388,147.185.221.0/24,insurance-helmet.gl.at.ply.gg,ply.gg,2024-07-29
