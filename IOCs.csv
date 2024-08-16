@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-16
+nanocore,45.89.247.19,34587,45.89.247.0/24,vowquybcw.org,vowquybcw.org,2024-08-16
 redline,88.99.151.68,7200,88.99.0.0/16,,,2024-08-16
 redline,185.215.113.67,21405,185.215.113.0/24,,,2024-08-16
 redline,45.66.231.214,9932,45.66.231.0/24,,,2024-08-16
@@ -27,7 +29,6 @@ njrat,41.142.194.40,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-0
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-08-13
 njrat,147.185.221.21,64197,147.185.221.0/24,since-searching.gl.at.ply.gg,ply.gg,2024-08-13
 nanocore,103.89.91.169,54984,103.89.88.0/22,blackangel.hopto.org,hopto.org,2024-08-13
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-13
 njrat,192.169.69.25,5552,192.169.68.0/22,hackerkurda.duckdns.org,duckdns.org,2024-08-13
 nanocore,178.73.218.67,5569,178.73.216.0/22,chongmei33.publicvm.com,publicvm.com,2024-08-13
 recordbreaker,193.142.147.59,80,193.142.146.0/23,,,2024-08-13
