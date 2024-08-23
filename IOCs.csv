@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,103.89.91.169,54984,103.89.88.0/22,blackangel.hopto.org,hopto.org,2024-08-23
 redline,185.215.113.67,21405,185.215.113.0/24,,,2024-08-23
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-23
 redline,95.179.163.21,29257,95.179.128.0/17,,,2024-08-23
@@ -21,7 +22,6 @@ lokibot,192.185.3.67,80,192.185.2.0/23,www.sanibath.com,sanibath.com,2024-08-21
 redline,103.211.207.57,1912,103.211.206.0/23,,,2024-08-21
 njrat,192.169.69.25,1604,192.169.68.0/22,pulgetirmene.duckdns.org,duckdns.org,2024-08-20
 njrat,84.32.231.176,1610,84.32.231.0/24,,,2024-08-20
-nanocore,103.89.91.169,54984,103.89.88.0/22,blackangel.hopto.org,hopto.org,2024-08-20
 redline,89.23.97.185,4184,89.23.96.0/22,,,2024-08-20
 njrat,147.185.221.22,11149,147.185.221.0/24,great-it.gl.at.ply.gg,ply.gg,2024-08-20
 njrat,192.169.69.25,1604,192.169.68.0/22,ytka.duckdns.org,duckdns.org,2024-08-20
