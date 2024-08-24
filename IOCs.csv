@@ -1,11 +1,12 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,147.45.47.36,14537,147.45.47.0/24,,,2024-08-24
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-24
+lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-08-24
 redline,88.99.151.68,7200,88.99.0.0/16,,,2024-08-24
 redline,185.215.113.67,21405,185.215.113.0/24,,,2024-08-24
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-24
 redline,95.179.163.21,29257,95.179.128.0/17,,,2024-08-24
 njrat,94.13.152.8,25565,94.0.0.0/12,,,2024-08-24
-redline,147.45.47.36,14537,147.45.47.0/24,,,2024-08-24
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-08-24
 njrat,147.185.221.22,18022,147.185.221.0/24,storage-assigned.gl.at.ply.gg,ply.gg,2024-08-24
 njrat,192.169.69.25,1990,192.169.68.0/22,carlosgamez.duckdns.org,duckdns.org,2024-08-24
@@ -59,7 +60,6 @@ nanocore,3.69.157.220,13201,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-08-15
 njrat,41.249.60.29,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-08-14
 njrat,46.246.12.19,3100,46.246.12.0/22,telorino1581.duckdns.org,duckdns.org,2024-08-14
 njrat,41.142.194.40,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-08-13
-lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-08-13
 njrat,147.185.221.21,64197,147.185.221.0/24,since-searching.gl.at.ply.gg,ply.gg,2024-08-13
 njrat,192.169.69.25,5552,192.169.68.0/22,hackerkurda.duckdns.org,duckdns.org,2024-08-13
 nanocore,178.73.218.67,5569,178.73.216.0/22,chongmei33.publicvm.com,publicvm.com,2024-08-13
