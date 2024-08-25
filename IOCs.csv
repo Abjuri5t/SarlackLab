@@ -1,5 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-25
+redline,94.156.65.203,8383,94.156.64.0/21,,,2024-08-25
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-08-25
+nanocore,192.169.69.25,8192,192.169.68.0/22,ghfsquad.duckdns.org,duckdns.org,2024-08-25
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-25
 redline,185.215.113.25,13686,185.215.113.0/24,,,2024-08-25
 redline,95.179.163.21,29257,95.179.128.0/17,,,2024-08-25
@@ -7,7 +10,6 @@ lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2
 lokibot,50.63.8.251,80,50.63.8.0/21,eloquentcs.com,eloquentcs.com,2024-08-25
 njrat,157.245.65.139,22354,157.245.0.0/16,zealous-pine-98499.pktriot.net,pktriot.net,2024-08-24
 redline,147.45.47.36,14537,147.45.47.0/24,,,2024-08-24
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-24
 nanocore,192.169.69.26,65140,192.169.68.0/22,december2n.duckdns.org,duckdns.org,2024-08-24
 redline,89.23.97.185,4184,89.23.96.0/22,,,2024-08-24
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-08-24
