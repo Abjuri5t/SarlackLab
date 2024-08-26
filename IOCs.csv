@@ -1,5 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-26
+redline,185.215.113.67,21405,185.215.113.0/24,,,2024-08-26
 nanocore,192.169.69.26,5555,192.169.68.0/22,nibiru33.duckdns.org,duckdns.org,2024-08-26
 redline,185.218.125.157,21441,185.218.124.0/23,,,2024-08-26
 redline,185.215.113.25,13686,185.215.113.0/24,,,2024-08-25
@@ -19,7 +20,6 @@ nanocore,192.169.69.26,65140,192.169.68.0/22,december2n.duckdns.org,duckdns.org,
 redline,89.23.97.185,4184,89.23.96.0/22,,,2024-08-24
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-08-24
 redline,88.99.151.68,7200,88.99.0.0/16,,,2024-08-24
-redline,185.215.113.67,21405,185.215.113.0/24,,,2024-08-24
 njrat,94.13.152.8,25565,94.0.0.0/12,,,2024-08-24
 njrat,147.185.221.22,18022,147.185.221.0/24,storage-assigned.gl.at.ply.gg,ply.gg,2024-08-24
 njrat,192.169.69.25,1990,192.169.68.0/22,carlosgamez.duckdns.org,duckdns.org,2024-08-24
