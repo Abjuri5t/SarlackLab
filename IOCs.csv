@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2024-08-26
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-26
 njrat,147.185.221.19,14127,147.185.221.0/24,word-lang.gl.at.ply.gg,ply.gg,2024-08-26
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-26
@@ -564,7 +565,6 @@ njrat,95.179.228.20,5050,95.179.128.0/17,seznam.zapto.org,zapto.org,2024-06-04
 njrat,3.64.4.198,15212,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-06-04
 njrat,18.158.58.205,15212,18.156.0.0/14,5.tcp.eu.ngrok.io,ngrok.io,2024-06-04
 nanocore,192.169.69.25,54989,192.169.68.0/22,54989.duckdns.org,duckdns.org,2024-06-04
-lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2024-06-04
 lokibot,93.123.39.160,80,93.123.39.0/24,namex-na.com,namex-na.com,2024-06-04
 redline,43.155.163.53,24543,43.154.0.0/15,,,2024-06-04
 njrat,192.169.69.25,5552,192.169.68.0/22,win32.duckdns.org,duckdns.org,2024-06-03
