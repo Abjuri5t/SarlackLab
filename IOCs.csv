@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-27
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-27
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-08-27
 lokibot,3.64.163.50,80,3.64.0.0/12,beesco.net,beesco.net,2024-08-27
@@ -6,7 +7,6 @@ redline,147.45.47.251,2149,147.45.47.0/24,,,2024-08-27
 redline,89.23.97.185,4184,89.23.96.0/22,,,2024-08-27
 lokibot,104.21.41.226,80,104.21.0.0/17,werdotx.shop,werdotx.shop,2024-08-27
 redline,95.179.163.21,29257,95.179.128.0/17,,,2024-08-27
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-27
 njrat,197.206.97.68,999,197.204.0.0/14,volkatv500.sytes.net,sytes.net,2024-08-27
 lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2024-08-27
 lokibot,50.31.174.86,80,50.31.172.0/22,wardia.com.pe,com.pe,2024-08-27
