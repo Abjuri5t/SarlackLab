@@ -1,5 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-26
+redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-27
+nanocore,78.159.112.29,5230,78.159.96.0/19,e-businessloader.mywire.org,mywire.org,2024-08-27
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-08-26
 redline,147.45.47.36,14537,147.45.47.0/24,,,2024-08-26
 lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-08-26
