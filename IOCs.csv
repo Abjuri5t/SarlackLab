@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-27
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-27
+lokibot,18.208.156.248,80,18.208.0.0/15,higomanga.info,higomanga.info,2024-08-27
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-27
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-08-27
 njrat,147.185.221.22,17987,147.185.221.0/24,someone-entering.gl.at.ply.gg,ply.gg,2024-08-27
 nanocore,78.159.112.29,5230,78.159.96.0/19,e-businessloader.mywire.org,mywire.org,2024-08-27
