@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,31.220.2.200,80,31.220.0.0/22,,,2024-08-28
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-28
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-08-28
 lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-08-28
@@ -642,7 +643,6 @@ nanocore,185.216.70.147,6318,185.216.70.0/24,zaragoza.ddns.net,ddns.net,2024-05-
 lokibot,64.190.63.222,80,64.190.62.0/23,fiseriy.nut.cc,nut.cc,2024-05-27
 lokibot,54.244.188.177,80,54.244.0.0/14,theonlygoodman.com,theonlygoodman.com,2024-05-27
 njrat,197.202.219.104,555,197.202.0.0/15,x555hd.ddns.net,ddns.net,2024-05-27
-lokibot,31.220.2.200,80,31.220.0.0/22,,,2024-05-27
 redline,5.42.65.115,40551,5.42.64.0/22,,,2024-05-27
 njrat,147.185.221.19,32384,147.185.221.0/24,control-road.gl.at.ply.gg,ply.gg,2024-05-27
 njrat,45.76.129.156,1177,45.76.0.0/15,seznam.zapto.org,zapto.org,2024-05-26
