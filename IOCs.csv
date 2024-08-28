@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-08-28
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-28
 njrat,147.185.221.22,5050,147.185.221.0/24,industry-detective.gl.at.ply.gg,ply.gg,2024-08-28
 redline,95.179.250.45,26212,95.179.128.0/17,,,2024-08-28
@@ -17,7 +18,6 @@ lokibot,18.208.156.248,80,18.208.0.0/15,higomanga.info,higomanga.info,2024-08-27
 njrat,147.185.221.22,17987,147.185.221.0/24,someone-entering.gl.at.ply.gg,ply.gg,2024-08-27
 nanocore,78.159.112.29,5230,78.159.96.0/19,e-businessloader.mywire.org,mywire.org,2024-08-27
 redline,147.45.47.36,14537,147.45.47.0/24,,,2024-08-26
-lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-08-26
 lokibot,172.67.182.142,80,172.67.0.0/16,inepat.com,inepat.com,2024-08-26
 redline,88.99.151.68,7200,88.99.0.0/16,,,2024-08-26
 nanocore,193.203.238.87,54984,193.203.238.0/24,,,2024-08-26
