@@ -1,8 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,38.180.72.54,42814,38.180.72.0/21,,,2024-08-29
+redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-29
+njrat,192.169.69.25,1990,192.169.68.0/22,carlosgamez.duckdns.org,duckdns.org,2024-08-29
 nanocore,198.23.197.108,7077,198.23.196.0/22,builderlloulirabaonline23rd.mywire.org,mywire.org,2024-08-28
 redline,147.45.47.251,2149,147.45.47.0/24,,,2024-08-28
-redline,38.180.72.54,42814,38.180.72.0/21,,,2024-08-28
-redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-28
 redline,95.179.250.45,26212,95.179.128.0/17,,,2024-08-28
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-08-28
 redline,212.162.149.53,2049,212.162.148.0/22,,,2024-08-28
@@ -46,7 +47,6 @@ nanocore,192.169.69.26,65140,192.169.68.0/22,december2n.duckdns.org,duckdns.org,
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-08-24
 njrat,94.13.152.8,25565,94.0.0.0/12,,,2024-08-24
 njrat,147.185.221.22,18022,147.185.221.0/24,storage-assigned.gl.at.ply.gg,ply.gg,2024-08-24
-njrat,192.169.69.25,1990,192.169.68.0/22,carlosgamez.duckdns.org,duckdns.org,2024-08-24
 lokibot,203.170.84.89,80,203.170.80.0/21,www.ritcophysiotherapy.com.au,com.au,2024-08-24
 nanocore,103.89.91.169,54984,103.89.88.0/22,blackangel.hopto.org,hopto.org,2024-08-23
 redline,45.66.231.214,9932,45.66.231.0/24,,,2024-08-23
