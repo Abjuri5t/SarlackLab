@@ -1,6 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-30
 redline,95.179.250.45,26212,95.179.128.0/17,,,2024-08-30
+redline,45.133.36.107,1912,45.133.36.0/24,,,2024-08-30
+njrat,147.185.221.22,28379,147.185.221.0/24,brands-colors.gl.at.ply.gg,ply.gg,2024-08-30
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-08-30
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-08-30
 njrat,192.169.69.25,1604,192.169.68.0/22,paragetirmebana.duckdns.org,duckdns.org,2024-08-30
