@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-08-30
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-30
 redline,147.45.47.251,2149,147.45.47.0/24,,,2024-08-30
 redline,95.179.250.45,26212,95.179.128.0/17,,,2024-08-29
@@ -20,7 +21,6 @@ redline,89.23.97.185,4184,89.23.96.0/22,,,2024-08-28
 nanocore,192.169.69.25,40005,192.169.68.0/22,helpout.duckdns.org,duckdns.org,2024-08-28
 njrat,147.185.221.19,17455,147.185.221.0/24,green-morrison.gl.at.ply.gg,ply.gg,2024-08-28
 lokibot,31.220.2.200,80,31.220.0.0/22,,,2024-08-28
-lokibot,89.34.237.212,80,89.34.236.0/23,,,2024-08-28
 njrat,147.185.221.22,5050,147.185.221.0/24,industry-detective.gl.at.ply.gg,ply.gg,2024-08-28
 njrat,147.185.221.22,23392,147.185.221.0/24,industry-detective.gl.at.ply.gg,ply.gg,2024-08-28
 lokibot,3.64.163.50,80,3.64.0.0/12,beesco.net,beesco.net,2024-08-27
