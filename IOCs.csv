@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-08-30
 redline,95.179.250.45,26212,95.179.128.0/17,,,2024-08-30
+njrat,192.169.69.25,1604,192.169.68.0/22,paragetirmebana.duckdns.org,duckdns.org,2024-08-30
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-08-30
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-08-30
 lokibot,45.152.46.28,80,45.152.46.0/24,odontologiaintegra.com.br,com.br,2024-08-30
@@ -73,7 +74,6 @@ njrat,147.185.221.22,11937,147.185.221.0/24,senior-feeding.gl.at.ply.gg,ply.gg,2
 nanocore,192.169.69.25,1333,192.169.68.0/22,ijehawele.duckdns.org,duckdns.org,2024-08-19
 nanocore,98.232.171.231,1604,98.192.0.0/10,hiatus2.ddns.net,ddns.net,2024-08-19
 redline,51.103.174.63,1912,51.103.0.0/16,,,2024-08-19
-njrat,192.169.69.25,1604,192.169.68.0/22,paragetirmebana.duckdns.org,duckdns.org,2024-08-19
 nanocore,192.169.69.26,4156,192.169.68.0/22,bnow.duckdns.org,duckdns.org,2024-08-19
 nanocore,147.185.221.19,46981,147.185.221.0/24,host-knight.gl.at.ply.gg,ply.gg,2024-08-19
 njrat,107.178.223.183,1118,107.178.192.0/18,top.killwhenabusing1.xyz,killwhenabusing1.xyz,2024-08-17
