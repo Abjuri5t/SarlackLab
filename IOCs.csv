@@ -1,6 +1,17 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.192.31.165,13913,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
+njrat,18.158.249.75,13913,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
+njrat,3.124.142.205,13913,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
+njrat,3.125.209.94,13913,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
+njrat,179.13.4.37,8030,179.12.0.0/14,fdfdsfdsag.duckdns.org,duckdns.org,2024-09-06
+njrat,18.158.249.75,13886,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
+njrat,3.125.223.134,13886,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
+njrat,3.125.102.39,13886,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
+nanocore,51.89.204.182,1604,51.89.0.0/16,millen.ddns.net,ddns.net,2024-09-06
+lokibot,84.32.84.32,80,84.32.84.0/24,sbrglobal.net,sbrglobal.net,2024-09-06
+lokibot,46.8.8.101,80,46.8.8.0/23,kitchenraja.com,kitchenraja.com,2024-09-06
+lokibot,187.33.241.43,80,187.33.224.0/19,casafacilsj.com.br,com.br,2024-09-06
 njrat,147.185.221.17,43143,147.185.221.0/24,done-declared.gl.at.ply.gg,ply.gg,2024-09-05
-njrat,179.13.4.37,8030,179.12.0.0/14,fdfdsfdsag.duckdns.org,duckdns.org,2024-09-05
 njrat,3.125.209.94,18863,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-05
 njrat,3.125.223.134,18863,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-05
 njrat,3.125.102.39,18863,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-05
