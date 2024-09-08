@@ -1,7 +1,10 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.215.113.67,15206,185.215.113.0/24,,,2024-09-07
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-09-07
 redline,95.179.250.45,26212,95.179.128.0/17,,,2024-09-07
+redline,147.45.47.192,8580,147.45.47.0/24,,,2024-09-07
+redline,185.215.113.67,15206,185.215.113.0/24,,,2024-09-07
+nanocore,51.89.204.182,1604,51.89.0.0/16,millen.ddns.net,ddns.net,2024-09-07
+lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-09-07
 redline,193.233.255.125,1912,193.233.255.0/24,,,2024-09-07
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-09-07
 redline,147.45.47.36,30035,147.45.47.0/24,,,2024-09-07
@@ -17,7 +20,6 @@ njrat,179.13.4.37,8030,179.12.0.0/14,fdfdsfdsag.duckdns.org,duckdns.org,2024-09-
 njrat,18.158.249.75,13886,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
 njrat,3.125.223.134,13886,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
 njrat,3.125.102.39,13886,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-06
-nanocore,51.89.204.182,1604,51.89.0.0/16,millen.ddns.net,ddns.net,2024-09-06
 lokibot,84.32.84.32,80,84.32.84.0/24,sbrglobal.net,sbrglobal.net,2024-09-06
 lokibot,46.8.8.101,80,46.8.8.0/23,kitchenraja.com,kitchenraja.com,2024-09-06
 lokibot,187.33.241.43,80,187.33.224.0/19,casafacilsj.com.br,com.br,2024-09-06
@@ -28,7 +30,6 @@ njrat,3.125.102.39,18863,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-05
 nanocore,78.159.112.29,5230,78.159.96.0/19,e-businessloader.mywire.org,mywire.org,2024-09-05
 lokibot,18.208.156.248,80,18.208.0.0/15,blesblochem.com,blesblochem.com,2024-09-05
 lokibot,194.55.224.9,80,194.55.224.0/24,,,2024-09-02
-redline,147.45.47.192,8580,147.45.47.0/24,,,2024-09-02
 njrat,18.176.183.3,12215,18.176.0.0/13,0.tcp.jp.ngrok.io,ngrok.io,2024-09-02
 njrat,18.177.0.235,12215,18.176.0.0/13,0.tcp.jp.ngrok.io,ngrok.io,2024-09-02
 njrat,18.177.53.48,12215,18.176.0.0/13,0.tcp.jp.ngrok.io,ngrok.io,2024-09-02
@@ -639,7 +640,6 @@ njrat,209.25.140.211,23521,209.25.140.0/22,tips-prairie.at.ply.gg,ply.gg,2024-06
 njrat,3.124.142.205,18801,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-02
 njrat,18.192.31.165,18801,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-02
 njrat,18.158.249.75,18801,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-06-02
-lokibot,91.223.223.236,80,91.223.223.0/24,tkanilux.com.ua,com.ua,2024-06-02
 nanocore,192.169.69.25,7019,192.169.68.0/22,haul.duckdns.org,duckdns.org,2024-06-01
 lokibot,31.220.1.98,80,31.220.0.0/22,,,2024-06-01
 redline,85.192.20.120,9999,85.192.20.0/24,,,2024-06-01
