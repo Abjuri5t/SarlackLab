@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.25,58887,192.169.68.0/22,kgentle77.duckdns.org,duckdns.org,2024-09-19
 lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2024-09-18
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-09-18
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-09-18
@@ -608,7 +609,6 @@ redline,89.23.97.100,15799,89.23.96.0/22,,,2024-06-13
 njrat,85.234.6.210,1337,85.234.0.0/20,,,2024-06-13
 njrat,18.158.249.75,13022,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-06-12
 njrat,3.125.209.94,13022,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-12
-nanocore,192.169.69.25,58887,192.169.68.0/22,kgentle77.duckdns.org,duckdns.org,2024-06-12
 njrat,147.185.221.18,53098,147.185.221.0/24,northern-suggested.gl.at.ply.gg,ply.gg,2024-06-12
 njrat,147.185.221.20,21552,147.185.221.0/24,different-been.gl.at.ply.gg,ply.gg,2024-06-12
 njrat,41.142.208.122,10000,41.142.192.0/19,doddyfire.linkpc.net,linkpc.net,2024-06-12
