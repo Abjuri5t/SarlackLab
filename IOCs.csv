@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,212.162.149.53,2049,212.162.148.0/22,,,2024-09-20
+njrat,34.145.18.233,1177,34.145.0.0/16,seznam.hopto.org,hopto.org,2024-09-20
 redline,147.45.47.192,8580,147.45.47.0/24,,,2024-09-20
 njrat,147.185.221.22,26471,147.185.221.0/24,individual-katrina.gl.at.ply.gg,ply.gg,2024-09-20
 redline,193.233.255.84,4284,193.233.255.0/24,,,2024-09-20
@@ -16,7 +18,6 @@ lokibot,185.53.177.52,80,185.53.176.0/22,umarguzardijye.com,umarguzardijye.com,2
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-09-18
 lokibot,172.67.179.126,80,172.67.0.0/16,trvtest.click,trvtest.click,2024-09-18
 lokibot,104.21.12.202,80,104.21.0.0/17,dddotx.shop,dddotx.shop,2024-09-18
-redline,212.162.149.53,2049,212.162.148.0/22,,,2024-09-18
 njrat,147.185.221.22,42449,147.185.221.0/24,basis-cheap.gl.at.ply.gg,ply.gg,2024-09-18
 redline,217.119.129.17,1912,217.119.129.0/24,,,2024-09-18
 redline,212.162.149.159,37004,212.162.148.0/22,,,2024-09-18
