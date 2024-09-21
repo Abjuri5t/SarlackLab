@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-09-20
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-09-20
+lokibot,217.182.228.254,80,217.182.0.0/16,lagenceengineering.com,lagenceengineering.com,2024-09-20
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-09-20
 nanocore,147.185.221.22,53806,147.185.221.0/24,internet-sullivan.gl.at.ply.gg,ply.gg,2024-09-20
 nanocore,184.105.237.196,9037,184.105.236.0/23,sirnon1956ge.ddns.net,ddns.net,2024-09-20
 redline,212.162.149.53,2049,212.162.148.0/22,,,2024-09-20
