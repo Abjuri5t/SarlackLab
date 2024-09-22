@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,216.218.135.117,3603,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-09-22
+nanocore,216.218.135.118,3603,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-09-22
 redline,89.105.223.196,29862,89.105.222.0/23,,,2024-09-22
 redline,185.215.113.67,15206,185.215.113.0/24,,,2024-09-22
 redline,65.21.18.51,45580,65.21.0.0/16,,,2024-09-22
@@ -380,8 +382,6 @@ nanocore,147.185.221.21,9388,147.185.221.0/24,21.ip.gl.ply.gg,ply.gg,2024-07-12
 njrat,147.185.221.20,7436,147.185.221.0/24,engine-cheers.gl.at.ply.gg,ply.gg,2024-07-12
 redline,77.91.77.6,24186,77.91.76.0/23,,,2024-07-12
 redline,212.162.149.77,1912,212.162.148.0/22,,,2024-07-12
-nanocore,216.218.135.117,3603,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-07-12
-nanocore,216.218.135.118,3603,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-07-12
 redline,204.10.160.198,1950,204.10.160.0/22,,,2024-07-12
 lokibot,104.21.24.17,80,104.20.0.0/15,kinltd.top,kinltd.top,2024-07-12
 nanocore,104.243.242.169,1620,104.243.242.0/23,newsddawork.3utilities.com,3utilities.com,2024-07-11
