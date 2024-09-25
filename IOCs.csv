@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-09-25
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-09-25
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-09-25
 lokibot,104.21.12.202,80,104.21.0.0/17,dddotx.shop,dddotx.shop,2024-09-25
@@ -67,7 +68,6 @@ nanocore,216.218.135.118,1512,216.218.128.0/18,goddywin.freedynamicdns.net,freed
 nanocore,147.185.221.22,44089,147.185.221.0/24,casino-cst.gl.at.ply.gg,ply.gg,2024-09-16
 nanocore,192.169.69.25,76,192.169.68.0/22,deburg.duckdns.org,duckdns.org,2024-09-16
 lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2024-09-16
-lokibot,31.220.40.22,80,31.220.40.0/23,,,2024-09-16
 lokibot,172.67.134.88,80,172.67.0.0/16,touxzw.ir,touxzw.ir,2024-09-12
 nanocore,198.23.197.108,7077,198.23.196.0/22,builderlloulirabaonline23rd.mywire.org,mywire.org,2024-09-12
 redline,185.203.241.68,40901,185.203.241.0/24,,,2024-09-12
