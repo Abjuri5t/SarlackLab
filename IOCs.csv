@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,34.145.18.233,1177,34.145.0.0/16,seznam.hopto.org,hopto.org,2024-09-25
 njrat,147.185.221.19,42443,147.185.221.0/24,19.ip.gl.ply.gg,ply.gg,2024-09-25
 lokibot,104.21.12.202,80,104.21.0.0/17,dddotx.shop,dddotx.shop,2024-09-25
 redline,185.215.113.67,15206,185.215.113.0/24,,,2024-09-25
@@ -23,7 +24,6 @@ nanocore,216.218.135.117,3603,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,20
 nanocore,216.218.135.118,3603,216.218.128.0/18,dontreachme3.ddns.net,ddns.net,2024-09-22
 redline,212.162.149.53,2049,212.162.148.0/22,,,2024-09-22
 lokibot,172.67.179.126,80,172.67.0.0/16,trvtest.click,trvtest.click,2024-09-22
-njrat,34.145.18.233,1177,34.145.0.0/16,seznam.hopto.org,hopto.org,2024-09-21
 redline,88.99.151.68,7200,88.99.0.0/16,,,2024-09-21
 redline,193.233.255.84,4284,193.233.255.0/24,,,2024-09-21
 njrat,147.185.221.22,28135,147.185.221.0/24,sound-falls.gl.at.ply.gg,ply.gg,2024-09-21
