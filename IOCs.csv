@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,103.48.119.160,80,103.48.119.0/24,fashionstune.com,fashionstune.com,2024-09-29
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-09-29
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-09-29
 njrat,177.101.101.171,5020,177.101.96.0/19,windowssistem.duckdns.org,duckdns.org,2024-09-29
@@ -99,7 +100,6 @@ njrat,172.210.195.22,7777,172.208.0.0/13,,,2024-09-11
 nanocore,78.159.112.29,65535,78.159.96.0/19,jacksonnnn233.theworkpc.com,theworkpc.com,2024-09-10
 lokibot,210.211.113.136,80,210.211.112.0/20,idp.vn,idp.vn,2024-09-10
 lokibot,135.181.18.169,80,135.181.0.0/16,paylesssignandprinters.ca,paylesssignandprinters.ca,2024-09-10
-lokibot,103.48.119.160,80,103.48.119.0/24,fashionstune.com,fashionstune.com,2024-09-10
 njrat,18.158.249.75,13886,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-09-07
 njrat,3.125.223.134,13886,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-07
 njrat,3.125.102.39,13886,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-07
