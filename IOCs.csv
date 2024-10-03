@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.23,1213,147.185.221.0/24,florida-institutions.gl.at.ply.gg,ply.gg,2024-10-03
+nanocore,103.207.37.72,1664,103.207.36.0/22,pnauco5.ddns.net,ddns.net,2024-10-03
+lokibot,45.149.241.169,80,45.149.241.0/24,freighteighttwocam.ddns.net,ddns.net,2024-10-03
 njrat,186.169.63.46,3737,186.169.32.0/19,sundsvall00020.duckdns.org,duckdns.org,2024-10-03
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-02
 redline,185.215.113.67,21405,185.215.113.0/24,,,2024-10-02
@@ -60,7 +63,6 @@ lokibot,104.21.41.226,80,104.21.0.0/17,werdotx.shop,werdotx.shop,2024-09-24
 lokibot,172.67.195.100,80,172.67.0.0/16,werdotx.shop,werdotx.shop,2024-09-24
 redline,198.12.90.244,49780,198.12.64.0/19,,,2024-09-24
 njrat,186.169.89.218,2828,186.169.64.0/18,michael2009nj.duckdns.org,duckdns.org,2024-09-24
-nanocore,103.207.37.72,1664,103.207.36.0/22,pnauco5.ddns.net,ddns.net,2024-09-23
 redline,193.3.168.69,41193,193.3.168.0/24,,,2024-09-23
 nanocore,103.202.55.183,1604,103.202.52.0/22,,,2024-09-22
 nanocore,103.156.91.217,3132,103.156.90.0/23,l3g3nd.sytes.net,sytes.net,2024-09-22
