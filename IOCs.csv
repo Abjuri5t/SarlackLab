@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-02
 redline,185.215.113.67,21405,185.215.113.0/24,,,2024-10-02
 njrat,134.0.160.221,1165,134.0.128.0/18,fahad26smsm.duckdns.org,duckdns.org,2024-10-02
 njrat,192.169.69.26,1177,192.169.68.0/22,by-sabotage123.duckdns.org,duckdns.org,2024-10-02
@@ -31,7 +32,6 @@ nanocore,18.192.93.86,10394,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-09-29
 nanocore,3.127.138.57,10394,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-09-29
 njrat,18.156.13.209,10394,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-09-29
 lokibot,103.48.119.160,80,103.48.119.0/24,fashionstune.com,fashionstune.com,2024-09-29
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-09-29
 njrat,177.101.101.171,5020,177.101.96.0/19,windowssistem.duckdns.org,duckdns.org,2024-09-29
 njrat,45.84.199.218,1604,45.84.199.0/24,,,2024-09-28
 lokibot,64.190.63.222,80,64.190.62.0/23,www.venitex.nut.cc,nut.cc,2024-09-28
