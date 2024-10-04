@@ -1,5 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.67,15206,185.215.113.0/24,,,2024-10-04
+redline,136.244.88.135,17615,136.244.64.0/18,,,2024-10-04
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-10-04
+njrat,147.185.221.23,5951,147.185.221.0/24,,,2024-10-04
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-04
 lokibot,45.149.241.168,80,45.149.241.0/24,freighteightonecam.sytes.net,sytes.net,2024-10-04
 redline,212.162.149.53,2049,212.162.148.0/22,,,2024-10-04
@@ -13,8 +16,6 @@ lokibot,45.149.241.169,80,45.149.241.0/24,freighteighttwocam.ddns.net,ddns.net,2
 njrat,186.169.63.46,3737,186.169.32.0/19,sundsvall00020.duckdns.org,duckdns.org,2024-10-03
 njrat,134.0.160.221,1165,134.0.128.0/18,fahad26smsm.duckdns.org,duckdns.org,2024-10-02
 njrat,192.169.69.26,1177,192.169.68.0/22,by-sabotage123.duckdns.org,duckdns.org,2024-10-02
-redline,185.215.113.67,15206,185.215.113.0/24,,,2024-10-02
-redline,136.244.88.135,17615,136.244.64.0/18,,,2024-10-02
 njrat,192.169.69.25,1701,192.169.68.0/22,nuevo1.duckdns.org,duckdns.org,2024-10-02
 njrat,188.34.178.0,5552,188.34.128.0/17,,,2024-10-02
 njrat,3.67.112.102,14355,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-10-01
