@@ -1,4 +1,9 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-04
+njrat,185.141.35.22,1206,185.141.34.0/23,drd8jxg.localto.net,localto.net,2024-10-04
+njrat,185.141.35.22,3198,185.141.34.0/23,drd8jxg.localto.net,localto.net,2024-10-04
+njrat,185.141.35.22,4683,185.141.34.0/23,txx8luo.localto.net,localto.net,2024-10-04
+njrat,147.185.221.19,17515,147.185.221.0/24,ground-heavily.gl.at.ply.gg,ply.gg,2024-10-04
 njrat,185.141.35.22,7608,185.141.34.0/23,tlkkyhm.localto.net,localto.net,2024-10-04
 njrat,209.126.80.197,3906,209.126.80.0/21,gbyvwcn.localto.net,localto.net,2024-10-04
 njrat,147.185.221.22,57731,147.185.221.0/24,22.ip.gl.ply.gg,ply.gg,2024-10-04
@@ -6,7 +11,6 @@ redline,185.215.113.67,15206,185.215.113.0/24,,,2024-10-04
 redline,136.244.88.135,17615,136.244.64.0/18,,,2024-10-04
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-10-04
 njrat,147.185.221.23,5951,147.185.221.0/24,,,2024-10-04
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-04
 lokibot,45.149.241.168,80,45.149.241.0/24,freighteightonecam.sytes.net,sytes.net,2024-10-04
 redline,212.162.149.53,2049,212.162.148.0/22,,,2024-10-04
 njrat,13.60.28.43,9600,13.60.0.0/15,randomized.sytes.net,sytes.net,2024-10-03
