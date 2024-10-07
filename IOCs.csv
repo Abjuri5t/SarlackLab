@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-07
 redline,198.12.90.244,49780,198.12.64.0/19,,,2024-10-07
 njrat,3.71.225.231,17846,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2024-10-07
 njrat,18.153.198.123,17846,18.153.0.0/16,0.tcp.eu.ngrok.io,ngrok.io,2024-10-07
@@ -17,7 +18,6 @@ njrat,147.185.221.23,7999,147.185.221.0/24,eg-womens.gl.at.ply.gg,ply.gg,2024-10
 njrat,85.113.101.120,1177,85.113.96.0/19,encrypted7745.hopto.org,hopto.org,2024-10-05
 njrat,3.71.225.231,18924,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2024-10-05
 njrat,185.141.35.22,3989,185.141.34.0/23,txx8luo.localto.net,localto.net,2024-10-05
-redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-05
 njrat,185.141.35.22,7075,185.141.34.0/23,tlkkyhm.localto.net,localto.net,2024-10-05
 redline,185.218.125.157,21441,185.218.124.0/23,,,2024-10-05
 njrat,185.141.35.22,1206,185.141.34.0/23,drd8jxg.localto.net,localto.net,2024-10-04
