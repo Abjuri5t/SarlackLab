@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,198.12.90.244,49780,198.12.64.0/19,,,2024-10-07
 njrat,3.71.225.231,17846,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2024-10-07
 njrat,18.153.198.123,17846,18.153.0.0/16,0.tcp.eu.ngrok.io,ngrok.io,2024-10-07
 njrat,180.64.110.203,6522,180.64.0.0/17,,,2024-10-07
@@ -86,7 +87,6 @@ njrat,34.145.18.233,1177,34.145.0.0/16,seznam.hopto.org,hopto.org,2024-09-25
 njrat,46.246.14.5,2054,46.246.12.0/22,notificadoresrma.duckdns.org,duckdns.org,2024-09-24
 lokibot,104.21.41.226,80,104.21.0.0/17,werdotx.shop,werdotx.shop,2024-09-24
 lokibot,172.67.195.100,80,172.67.0.0/16,werdotx.shop,werdotx.shop,2024-09-24
-redline,198.12.90.244,49780,198.12.64.0/19,,,2024-09-24
 njrat,186.169.89.218,2828,186.169.64.0/18,michael2009nj.duckdns.org,duckdns.org,2024-09-24
 redline,193.3.168.69,41193,193.3.168.0/24,,,2024-09-23
 nanocore,103.202.55.183,1604,103.202.52.0/22,,,2024-09-22
