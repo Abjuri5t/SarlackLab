@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,212.162.149.53,2049,212.162.148.0/22,,,2024-10-09
+njrat,93.123.39.69,5439,93.123.39.0/24,ole.cloudns.ph,cloudns.ph,2024-10-09
 lokibot,103.229.73.18,80,103.229.72.0/23,th-ina.co.id,co.id,2024-10-08
 njrat,64.176.183.172,5050,64.176.160.0/19,seznam.hopto.org,hopto.org,2024-10-08
 njrat,178.162.221.62,80,178.162.192.0/18,,,2024-10-08
@@ -33,7 +35,6 @@ njrat,209.126.80.197,3906,209.126.80.0/21,gbyvwcn.localto.net,localto.net,2024-1
 njrat,147.185.221.22,57731,147.185.221.0/24,22.ip.gl.ply.gg,ply.gg,2024-10-04
 njrat,147.185.221.23,5951,147.185.221.0/24,,,2024-10-04
 lokibot,45.149.241.168,80,45.149.241.0/24,freighteightonecam.sytes.net,sytes.net,2024-10-04
-redline,212.162.149.53,2049,212.162.148.0/22,,,2024-10-04
 njrat,13.60.28.43,9600,13.60.0.0/15,randomized.sytes.net,sytes.net,2024-10-03
 njrat,167.0.201.5,9001,167.0.0.0/16,02oct.duckdns.org,duckdns.org,2024-10-03
 redline,185.215.113.67,21405,185.215.113.0/24,,,2024-10-03
