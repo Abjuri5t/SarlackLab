@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,192.185.115.239,80,192.185.64.0/18,avatar.ps,avatar.ps,2024-10-09
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-10-09
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-09
 redline,89.105.223.196,29862,89.105.222.0/23,,,2024-10-09
@@ -1337,7 +1338,6 @@ njrat,178.63.148.180,5552,178.63.0.0/16,,,2024-03-15
 nanocore,67.213.108.79,4782,67.213.96.0/20,api.fwfy.club,fwfy.club,2024-03-14
 nanocore,222.114.183.144,54984,222.114.128.0/17,kgj112233.codns.com,codns.com,2024-03-14
 lokibot,31.22.7.45,80,31.22.6.0/23,mauricioclopatofsky.tel,mauricioclopatofsky.tel,2024-03-14
-lokibot,192.185.115.239,80,192.185.64.0/18,avatar.ps,avatar.ps,2024-03-14
 lokibot,104.237.252.14,80,104.237.252.0/22,sempersim.su,sempersim.su,2024-03-14
 lokibot,91.92.252.146,4002,91.92.240.0/20,,,2024-03-12
 njrat,3.66.38.117,13672,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-03-11
