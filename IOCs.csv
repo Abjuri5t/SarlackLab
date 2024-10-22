@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.12.202,80,104.21.0.0/17,dddotx.shop,dddotx.shop,2024-10-22
 redline,185.196.9.26,6302,185.196.8.0/22,,,2024-10-22
 lokibot,94.156.177.220,80,94.156.177.0/24,,,2024-10-22
 redline,89.105.223.196,29155,89.105.222.0/23,,,2024-10-22
@@ -54,7 +55,6 @@ nanocore,103.151.125.139,6110,103.151.124.0/23,blv23728.ddns.net,ddns.net,2024-1
 nanocore,79.110.49.176,2024,79.110.49.0/24,udignost01.ddns.net,ddns.net,2024-10-18
 lokibot,192.185.115.239,80,192.185.64.0/18,avatar.ps,avatar.ps,2024-10-18
 lokibot,34.90.60.144,80,34.88.0.0/14,checkvim.com,checkvim.com,2024-10-18
-lokibot,104.21.12.202,80,104.21.0.0/17,dddotx.shop,dddotx.shop,2024-10-18
 lokibot,104.21.25.154,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2024-10-18
 redline,185.215.113.67,33160,185.215.113.0/24,,,2024-10-09
 redline,194.156.89.169,1912,194.156.89.0/24,,,2024-10-09
