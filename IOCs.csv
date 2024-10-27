@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.26,1608,192.169.68.0/22,josh289232.duckdns.org,duckdns.org,2024-10-26
 redline,5.42.92.74,7175,5.42.92.0/24,,,2024-10-26
 njrat,52.57.120.10,10698,52.56.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-10-26
 njrat,3.74.27.83,10698,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2024-10-26
@@ -9,7 +10,6 @@ njrat,147.185.221.23,32547,147.185.221.0/24,race-frequent.gl.at.ply.gg,ply.gg,20
 recordbreaker,193.187.174.250,80,193.187.172.0/22,,,2024-10-26
 redline,185.38.142.167,6302,185.38.140.0/22,,,2024-10-26
 lokibot,94.156.177.220,80,94.156.177.0/24,,,2024-10-25
-nanocore,192.169.69.26,1608,192.169.68.0/22,josh289232.duckdns.org,duckdns.org,2024-10-25
 redline,185.215.113.22,80,185.215.113.0/24,,,2024-10-25
 lokibot,104.21.12.202,80,104.21.0.0/17,dddotx.shop,dddotx.shop,2024-10-24
 redline,212.162.149.53,2049,212.162.148.0/22,,,2024-10-24
