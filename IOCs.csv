@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.26,54984,192.169.68.0/22,josh289232.duckdns.org,duckdns.org,2024-11-02
 njrat,94.46.207.10,1177,94.46.207.0/24,,,2024-11-02
 njrat,3.128.254.91,5050,3.128.0.0/12,ronymahmoud.casacam.net,casacam.net,2024-11-02
 nanocore,66.63.187.113,1664,66.63.187.0/24,,,2024-11-01
@@ -42,7 +43,6 @@ njrat,3.67.15.169,14076,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2024-10-21
 njrat,3.68.56.232,14076,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2024-10-21
 njrat,3.125.188.168,14076,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2024-10-21
 nanocore,78.148.197.237,54984,78.144.0.0/13,,,2024-10-21
-nanocore,192.169.69.26,54984,192.169.68.0/22,josh289232.duckdns.org,duckdns.org,2024-10-21
 nanocore,78.148.197.237,54984,78.144.0.0/13,josh289232.duckdns.org,duckdns.org,2024-10-21
 lokibot,172.67.163.14,80,172.67.0.0/16,dddotx.site,dddotx.site,2024-10-21
 njrat,80.76.51.209,5439,80.76.51.0/24,ole.cloudns.ph,cloudns.ph,2024-10-21
