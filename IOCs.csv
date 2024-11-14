@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.95,80,94.156.177.0/24,,,2024-11-14
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-11-14
 nanocore,185.235.138.103,20251,185.235.138.0/24,aye2mar280502016.ddns.net,ddns.net,2024-11-14
 lokibot,172.67.192.176,80,172.67.0.0/16,ddrtot.shop,ddrtot.shop,2024-11-14
@@ -7,7 +8,6 @@ njrat,41.249.228.123,55554,41.249.224.0/20,spk.accesscam.org,accesscam.org,2024-
 njrat,185.141.35.22,6835,185.141.34.0/23,83aky1z.localto.net,localto.net,2024-11-13
 nanocore,192.169.69.26,7788,192.169.68.0/22,fredrchmn.duckdns.org,duckdns.org,2024-11-13
 njrat,176.74.84.88,4444,176.74.64.0/18,mingrelian.duckdns.org,duckdns.org,2024-11-13
-lokibot,94.156.177.95,80,94.156.177.0/24,,,2024-11-13
 nanocore,192.169.69.25,4070,192.169.68.0/22,pacotdc20.duckdns.org,duckdns.org,2024-11-12
 njrat,86.1.93.186,25565,86.0.0.0/11,,,2024-11-12
 njrat,196.119.18.157,10000,196.119.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-11-12
