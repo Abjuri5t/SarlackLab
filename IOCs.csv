@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,212.162.149.53,36014,212.162.148.0/22,,,2024-11-19
+redline,176.111.174.140,1912,176.111.174.0/24,,,2024-11-19
 njrat,147.185.221.23,61297,147.185.221.0/24,maximum-blame.gl.at.ply.gg,ply.gg,2024-11-19
 njrat,192.169.69.26,4444,192.169.68.0/22,mingrelian.duckdns.org,duckdns.org,2024-11-18
 nanocore,192.169.69.25,9900,192.169.68.0/22,aboki0419.duckdns.org,duckdns.org,2024-11-18
@@ -11,7 +13,6 @@ njrat,147.185.221.23,56448,147.185.221.0/24,else-directors.gl.at.ply.gg,ply.gg,2
 redline,147.45.44.221,1912,147.45.44.0/24,,,2024-11-17
 redline,31.177.109.130,1912,31.177.108.0/22,,,2024-11-16
 njrat,192.169.69.26,5552,192.169.68.0/22,asdaryder.duckdns.org,duckdns.org,2024-11-16
-redline,176.111.174.140,1912,176.111.174.0/24,,,2024-11-16
 njrat,147.185.221.16,36189,147.185.221.0/24,,,2024-11-16
 nanocore,185.235.138.103,20251,185.235.138.0/24,aye2mar280502016.ddns.net,ddns.net,2024-11-14
 lokibot,172.67.192.176,80,172.67.0.0/16,ddrtot.shop,ddrtot.shop,2024-11-14
