@@ -1,7 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,18.246.231.120,80,18.246.0.0/16,secure01-redirect.net,secure01-redirect.net,2024-11-21
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-11-21
 redline,185.241.208.193,1912,185.241.208.0/24,,,2024-11-20
-lokibot,18.246.231.120,80,18.246.0.0/16,secure01-redirect.net,secure01-redirect.net,2024-11-20
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-11-20
 njrat,49.228.131.165,2422,49.228.128.0/18,,,2024-11-19
 redline,212.162.149.53,36014,212.162.148.0/22,,,2024-11-19
