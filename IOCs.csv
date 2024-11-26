@@ -1,10 +1,10 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,176.111.174.140,1912,176.111.174.0/24,,,2024-11-26
 njrat,3.68.56.232,12891,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2024-11-26
 njrat,35.157.111.131,12891,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2024-11-26
 njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-11-26
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-11-26
 redline,212.162.149.53,36014,212.162.148.0/22,,,2024-11-26
-redline,176.111.174.140,1912,176.111.174.0/24,,,2024-11-25
 lokibot,45.149.241.168,5337,45.149.241.0/24,naturealmikaly.sytes.net,sytes.net,2024-11-25
 njrat,179.13.4.37,8031,179.12.0.0/14,notificacionpdf.duckdns.org,duckdns.org,2024-11-25
 njrat,3.127.138.57,12824,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-11-25
