@@ -1,6 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-njrat,185.50.25.45,80,185.50.24.0/22,,,2024-11-28
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-11-28
+njrat,185.50.25.45,80,185.50.24.0/22,,,2024-11-28
 njrat,52.28.247.255,13739,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-11-27
 njrat,3.69.115.178,13739,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-11-27
 lokibot,45.149.241.168,4410,45.149.241.0/24,,,2024-11-27
