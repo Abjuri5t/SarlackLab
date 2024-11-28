@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,185.50.25.45,80,185.50.24.0/22,,,2024-11-28
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-11-28
 njrat,52.28.247.255,13739,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-11-27
 njrat,3.69.115.178,13739,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-11-27
@@ -19,7 +20,6 @@ njrat,179.13.4.37,8031,179.12.0.0/14,notificacionpdf.duckdns.org,duckdns.org,202
 njrat,3.126.37.18,12824,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-11-25
 njrat,18.156.13.209,12824,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-11-25
 njrat,18.192.93.86,12824,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-11-25
-njrat,185.50.25.45,80,185.50.24.0/22,,,2024-11-24
 njrat,196.119.18.157,10000,196.119.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-11-24
 njrat,49.228.131.165,2424,49.228.128.0/18,,,2024-11-24
 njrat,147.185.221.23,7999,147.185.221.0/24,eg-womens.gl.at.ply.gg,ply.gg,2024-11-24
