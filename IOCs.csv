@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.25.154,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2024-12-03
 njrat,147.185.221.24,16265,147.185.221.0/24,cities-constraints.gl.at.ply.gg,ply.gg,2024-12-03
 njrat,52.201.248.168,5050,52.200.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-12-03
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-12-02
@@ -161,7 +162,6 @@ nanocore,103.151.125.139,6110,103.151.124.0/23,blv23728.ddns.net,ddns.net,2024-1
 nanocore,79.110.49.176,2024,79.110.49.0/24,udignost01.ddns.net,ddns.net,2024-10-18
 lokibot,192.185.115.239,80,192.185.64.0/18,avatar.ps,avatar.ps,2024-10-18
 lokibot,34.90.60.144,80,34.88.0.0/14,checkvim.com,checkvim.com,2024-10-18
-lokibot,104.21.25.154,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2024-10-18
 redline,185.215.113.67,33160,185.215.113.0/24,,,2024-10-09
 redline,194.156.89.169,1912,194.156.89.0/24,,,2024-10-09
 njrat,192.169.69.26,2828,192.169.68.0/22,michael2009nj.duckdns.org,duckdns.org,2024-10-09
