@@ -1,5 +1,26 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-11-28
+redline,176.111.174.140,1912,176.111.174.0/24,,,2024-12-02
+redline,91.214.78.86,1912,91.214.78.0/24,,,2024-12-02
+redline,212.162.149.53,36014,212.162.148.0/22,,,2024-12-02
+redline,41.216.183.218,1912,41.216.182.0/23,,,2024-12-02
+redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-02
+njrat,147.185.221.24,10206,147.185.221.0/24,cnet-contracting.gl.at.ply.gg,ply.gg,2024-12-02
+njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-12-02
+njrat,147.185.221.17,48460,147.185.221.0/24,loans-hamburg.gl.at.ply.gg,ply.gg,2024-12-02
+njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-12-02
+njrat,103.171.1.196,56071,103.171.0.0/23,lemon.geoiplookup.live,geoiplookup.live,2024-12-02
+njrat,136.243.111.71,741,136.243.0.0/17,antivirus-helper.publicvm.com,publicvm.com,2024-12-02
+nanocore,192.169.69.26,1604,192.169.68.0/22,haxorbaba.duckdns.org,duckdns.org,2024-12-02
+nanocore,192.169.69.26,6445,192.169.68.0/22,alertt.duckdns.org,duckdns.org,2024-12-02
+lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-12-02
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-12-02
+lokibot,34.90.60.144,80,34.88.0.0/14,iykl.xyz,iykl.xyz,2024-12-02
+lokibot,172.67.192.176,80,172.67.0.0/16,ddrtot.shop,ddrtot.shop,2024-12-02
+lokibot,104.21.73.230,80,104.21.0.0/17,ddrtot.shop,ddrtot.shop,2024-12-02
+lokibot,104.21.57.140,80,104.21.0.0/17,dvlref.online,dvlref.online,2024-12-02
+lokibot,34.227.7.138,80,34.224.0.0/13,blesblochem.com,blesblochem.com,2024-12-02
+lokibot,172.67.164.23,80,172.67.0.0/16,dvlref.online,dvlref.online,2024-12-02
+lokibot,176.111.174.140,1912,176.111.174.0/24,ddrtot.shop,ddrtot.shop,2024-12-02
 njrat,185.50.25.45,80,185.50.24.0/22,,,2024-11-28
 njrat,52.28.247.255,13739,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-11-27
 njrat,3.69.115.178,13739,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-11-27
@@ -10,11 +31,8 @@ njrat,3.68.171.119,13739,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-11-27
 njrat,3.127.138.57,12824,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-11-26
 njrat,18.157.68.73,12824,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-11-26
 lokibot,45.149.241.168,5338,45.149.241.0/24,naturealmikaly.sytes.net,sytes.net,2024-11-26
-redline,176.111.174.140,1912,176.111.174.0/24,,,2024-11-26
 njrat,3.68.56.232,12891,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2024-11-26
 njrat,35.157.111.131,12891,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2024-11-26
-njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-11-26
-redline,212.162.149.53,36014,212.162.148.0/22,,,2024-11-26
 lokibot,45.149.241.168,5337,45.149.241.0/24,naturealmikaly.sytes.net,sytes.net,2024-11-25
 njrat,179.13.4.37,8031,179.12.0.0/14,notificacionpdf.duckdns.org,duckdns.org,2024-11-25
 njrat,3.126.37.18,12824,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-11-25
@@ -44,7 +62,6 @@ redline,31.177.109.130,1912,31.177.108.0/22,,,2024-11-16
 njrat,192.169.69.26,5552,192.169.68.0/22,asdaryder.duckdns.org,duckdns.org,2024-11-16
 njrat,147.185.221.16,36189,147.185.221.0/24,,,2024-11-16
 nanocore,185.235.138.103,20251,185.235.138.0/24,aye2mar280502016.ddns.net,ddns.net,2024-11-14
-lokibot,172.67.192.176,80,172.67.0.0/16,ddrtot.shop,ddrtot.shop,2024-11-14
 redline,93.185.156.124,1912,93.185.156.0/24,,,2024-11-13
 njrat,41.249.228.123,55554,41.249.224.0/20,spk.accesscam.org,accesscam.org,2024-11-13
 njrat,185.141.35.22,6835,185.141.34.0/23,83aky1z.localto.net,localto.net,2024-11-13
@@ -1111,7 +1128,6 @@ njrat,18.192.31.165,12222,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-05-13
 njrat,18.197.239.109,18014,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-05-12
 lokibot,107.175.150.73,80,107.175.144.0/20,,,2024-05-12
 nanocore,192.169.69.25,2551,192.169.68.0/22,sebaseuro.duckdns.org,duckdns.org,2024-05-12
-njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-05-11
 njrat,105.155.173.158,10000,105.155.128.0/18,doddyfire.linkpc.net,linkpc.net,2024-05-11
 njrat,147.185.221.19,10345,147.185.221.0/24,study-window.gl.at.ply.gg,ply.gg,2024-05-11
 lokibot,54.80.154.23,80,54.80.0.0/13,higomanga.info,higomanga.info,2024-05-11
@@ -1300,7 +1316,6 @@ redline,45.15.156.127,48665,45.15.156.0/24,,,2024-04-17
 njrat,147.185.221.19,26628,147.185.221.0/24,returns-vary.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.17,80,147.185.221.0/24,bit-number.gl.at.ply.gg,ply.gg,2024-04-17
 njrat,147.185.221.19,29750,147.185.221.0/24,require-spa.gl.at.ply.gg,ply.gg,2024-04-17
-lokibot,192.236.162.234,80,192.236.160.0/22,,,2024-04-17
 njrat,147.185.221.19,29545,147.185.221.0/24,cars-fraction.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,147.185.221.19,29058,147.185.221.0/24,tue-jake.gl.at.ply.gg,ply.gg,2024-04-16
 njrat,3.13.191.225,19044,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2024-04-16
