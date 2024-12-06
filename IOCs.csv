@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,34.227.7.138,80,34.224.0.0/13,blesblochem.com,blesblochem.com,2024-12-06
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-12-05
 lokibot,172.67.153.63,80,172.67.0.0/16,dddotx.shop,dddotx.shop,2024-12-05
 lokibot,192.185.115.239,80,192.185.112.0/22,avatar.ps,avatar.ps,2024-12-05
@@ -13,7 +14,6 @@ njrat,136.243.111.71,741,136.243.0.0/17,antivirus-helper.publicvm.com,publicvm.c
 njrat,196.119.35.10,10000,196.119.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-12-04
 njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-12-04
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-12-04
-lokibot,34.227.7.138,80,34.224.0.0/13,blesblochem.com,blesblochem.com,2024-12-03
 lokibot,104.21.25.154,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2024-12-03
 njrat,52.201.248.168,5050,52.200.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-12-03
 redline,91.214.78.86,1912,91.214.78.0/24,,,2024-12-02
