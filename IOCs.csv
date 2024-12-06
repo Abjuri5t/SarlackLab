@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-06
 lokibot,34.227.7.138,80,34.224.0.0/13,blesblochem.com,blesblochem.com,2024-12-06
 njrat,18.197.239.5,16299,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
 njrat,3.127.138.57,16299,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
@@ -22,7 +23,6 @@ njrat,52.201.248.168,5050,52.200.0.0/13,ronymahmoud.casacam.net,casacam.net,2024
 redline,91.214.78.86,1912,91.214.78.0/24,,,2024-12-02
 redline,212.162.149.53,36014,212.162.148.0/22,,,2024-12-02
 redline,41.216.183.218,1912,41.216.182.0/23,,,2024-12-02
-redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-02
 njrat,147.185.221.24,10206,147.185.221.0/24,cnet-contracting.gl.at.ply.gg,ply.gg,2024-12-02
 njrat,147.185.221.17,48460,147.185.221.0/24,loans-hamburg.gl.at.ply.gg,ply.gg,2024-12-02
 njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-12-02
