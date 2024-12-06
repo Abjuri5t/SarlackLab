@@ -1,4 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-12-06
+njrat,3.126.37.18,19294,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
+njrat,18.197.239.5,19294,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
+njrat,18.157.68.73,19294,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-12-06
 njrat,46.246.80.6,5250,46.246.64.0/18,hugolganador.duckdns.org,duckdns.org,2024-12-06
 lokibot,34.227.7.138,80,34.224.0.0/13,blesblochem.com,blesblochem.com,2024-12-06
@@ -26,7 +30,6 @@ redline,212.162.149.53,36014,212.162.148.0/22,,,2024-12-02
 redline,41.216.183.218,1912,41.216.182.0/23,,,2024-12-02
 njrat,147.185.221.24,10206,147.185.221.0/24,cnet-contracting.gl.at.ply.gg,ply.gg,2024-12-02
 njrat,147.185.221.17,48460,147.185.221.0/24,loans-hamburg.gl.at.ply.gg,ply.gg,2024-12-02
-njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-12-02
 njrat,103.171.1.196,56071,103.171.0.0/23,lemon.geoiplookup.live,geoiplookup.live,2024-12-02
 nanocore,192.169.69.26,1604,192.169.68.0/22,haxorbaba.duckdns.org,duckdns.org,2024-12-02
 nanocore,192.169.69.26,6445,192.169.68.0/22,alertt.duckdns.org,duckdns.org,2024-12-02
