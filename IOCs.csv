@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.127.138.57,15986,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-07
+njrat,18.192.93.86,15986,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-07
+njrat,18.156.13.209,15986,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-12-07
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-12-07
 njrat,147.185.221.19,56149,147.185.221.0/24,youth-latex.gl.at.ply.gg,ply.gg,2024-12-07
 njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-12-07
