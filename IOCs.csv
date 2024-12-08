@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,78.70.235.238,1912,78.64.0.0/12,,,2024-12-08
+redline,78.70.235.238,1912,78.64.0.0/12,f8terat.ddns.net,ddns.net,2024-12-08
 nanocore,192.169.69.26,4444,192.169.68.0/22,thecevoo.duckdns.org,duckdns.org,2024-12-08
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-12-08
 lokibot,94.156.167.57,80,94.156.166.0/23,www.stipamana.com,stipamana.com,2024-12-08
@@ -320,7 +322,6 @@ njrat,3.67.161.133,14885,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-09-12
 njrat,18.158.58.205,14885,18.156.0.0/14,5.tcp.eu.ngrok.io,ngrok.io,2024-09-12
 njrat,192.169.69.25,2889,192.169.68.0/22,salesxpert.duckdns.org,duckdns.org,2024-09-12
 redline,45.91.202.63,25415,45.91.202.0/24,,,2024-09-11
-redline,78.70.235.238,1912,78.64.0.0/12,,,2024-09-11
 njrat,18.158.249.75,11348,18.156.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2024-09-11
 njrat,18.192.31.165,11348,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-09-11
 njrat,192.169.69.25,6565,192.169.68.0/22,hicham9risa.duckdns.org,duckdns.org,2024-09-11
