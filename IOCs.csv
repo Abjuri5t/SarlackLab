@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-12-09
 njrat,147.185.221.19,56149,147.185.221.0/24,youth-latex.gl.at.ply.gg,ply.gg,2024-12-08
 redline,78.70.235.238,1912,78.64.0.0/12,,,2024-12-08
 redline,78.70.235.238,1912,78.64.0.0/12,f8terat.ddns.net,ddns.net,2024-12-08
@@ -11,7 +12,6 @@ njrat,196.119.176.86,10000,196.119.128.0/18,doddyfire.linkpc.net,linkpc.net,2024
 njrat,3.127.138.57,15986,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-07
 njrat,18.192.93.86,15986,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-07
 njrat,18.156.13.209,15986,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-12-07
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2024-12-07
 njrat,103.186.117.182,7788,103.186.116.0/23,,,2024-12-07
 njrat,147.185.221.18,47346,147.185.221.0/24,until-delivering.gl.at.ply.gg,ply.gg,2024-12-06
 njrat,147.185.221.23,53376,147.185.221.0/24,two-besides.gl.at.ply.gg,ply.gg,2024-12-06
