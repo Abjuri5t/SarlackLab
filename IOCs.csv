@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-11
 njrat,35.158.159.254,16948,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
 njrat,18.198.77.177,16948,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
 njrat,3.121.139.82,16948,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
@@ -28,7 +29,6 @@ njrat,18.197.239.5,19294,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
 njrat,18.157.68.73,19294,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
 njrat,46.246.80.6,5250,46.246.64.0/18,hugolganador.duckdns.org,duckdns.org,2024-12-06
 lokibot,34.227.7.138,80,34.224.0.0/13,blesblochem.com,blesblochem.com,2024-12-06
-redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-06
 njrat,18.197.239.5,16299,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
 njrat,3.127.138.57,16299,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
 njrat,3.126.37.18,16299,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-06
