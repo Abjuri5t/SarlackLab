@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,35.158.159.254,16948,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
+njrat,18.198.77.177,16948,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
+njrat,3.121.139.82,16948,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
 lokibot,94.156.167.55,80,94.156.166.0/23,www.stipamana.com,stipamana.com,2024-12-10
 njrat,45.83.207.236,5552,45.83.207.0/24,,,2024-12-10
 njrat,186.169.64.185,2019,186.169.64.0/18,carlitosmoreno1794.duckdns.org,duckdns.org,2024-12-10
