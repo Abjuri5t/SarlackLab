@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.81.68.147,1912,185.81.68.0/24,,,2024-12-11
 redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-11
 njrat,35.158.159.254,16948,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
 njrat,18.198.77.177,16948,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
