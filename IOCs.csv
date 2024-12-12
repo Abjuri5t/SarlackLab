@@ -1,11 +1,12 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,45.83.207.236,5552,45.83.207.0/24,,,2024-12-12
+lokibot,94.156.167.57,80,94.156.166.0/23,www.stipamana.com,stipamana.com,2024-12-12
 redline,185.81.68.147,1912,185.81.68.0/24,,,2024-12-12
 redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-11
 njrat,35.158.159.254,16948,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
 njrat,18.198.77.177,16948,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
 njrat,3.121.139.82,16948,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-11
 lokibot,94.156.167.55,80,94.156.166.0/23,www.stipamana.com,stipamana.com,2024-12-10
-njrat,45.83.207.236,5552,45.83.207.0/24,,,2024-12-10
 njrat,186.169.64.185,2019,186.169.64.0/18,carlitosmoreno1794.duckdns.org,duckdns.org,2024-12-10
 redline,77.90.185.55,1912,77.90.185.0/24,,,2024-12-10
 njrat,147.185.221.24,16828,147.185.221.0/24,japanese-cross.gl.at.ply.gg,ply.gg,2024-12-10
@@ -16,7 +17,6 @@ redline,78.70.235.238,1912,78.64.0.0/12,,,2024-12-08
 redline,78.70.235.238,1912,78.64.0.0/12,f8terat.ddns.net,ddns.net,2024-12-08
 nanocore,192.169.69.26,4444,192.169.68.0/22,thecevoo.duckdns.org,duckdns.org,2024-12-08
 redline,176.111.174.140,1912,176.111.174.0/24,,,2024-12-08
-lokibot,94.156.167.57,80,94.156.166.0/23,www.stipamana.com,stipamana.com,2024-12-08
 nanocore,147.185.221.23,28916,147.185.221.0/24,original-financial.gl.at.ply.gg,ply.gg,2024-12-07
 njrat,196.119.176.86,10000,196.119.128.0/18,doddyfire.linkpc.net,linkpc.net,2024-12-07
 njrat,3.127.138.57,15986,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-07
