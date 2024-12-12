@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,49.228.131.165,2422,49.228.128.0/18,,,2024-12-12
 redline,185.81.68.147,1912,185.81.68.0/24,,,2024-12-12
 nanocore,104.250.175.42,54984,104.250.174.0/23,vitalwerks.istmein.de,istmein.de,2024-12-12
 redline,87.120.120.86,1912,87.120.120.0/23,,,2024-12-12
@@ -90,7 +91,6 @@ njrat,45.247.223.72,5555,45.247.0.0/16,SLL.casacam.net,casacam.net,2024-11-22
 lokibot,103.27.74.73,80,103.27.74.0/24,just-in-timelog.com,just-in-timelog.com,2024-11-22
 redline,20.47.120.249,1912,20.47.120.0/22,,,2024-11-22
 redline,185.241.208.193,1912,185.241.208.0/24,,,2024-11-20
-njrat,49.228.131.165,2422,49.228.128.0/18,,,2024-11-19
 njrat,147.185.221.23,61297,147.185.221.0/24,maximum-blame.gl.at.ply.gg,ply.gg,2024-11-19
 njrat,192.169.69.26,4444,192.169.68.0/22,mingrelian.duckdns.org,duckdns.org,2024-11-18
 nanocore,192.169.69.25,9900,192.169.68.0/22,aboki0419.duckdns.org,duckdns.org,2024-11-18
