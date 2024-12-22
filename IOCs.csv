@@ -1,6 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-njrat,3.64.4.198,10587,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-12-22
 njrat,147.185.221.24,35059,147.185.221.0/24,fat-pads.gl.at.ply.gg,ply.gg,2024-12-22
+lokibot,195.200.9.224,80,195.200.0.0/20,publicspeaking.co.id,co.id,2024-12-22
+njrat,3.64.4.198,10587,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-12-22
 njrat,3.68.171.119,11237,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-12-22
 njrat,18.197.239.109,11237,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-12-22
 njrat,52.28.247.255,11237,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2024-12-22
