@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-12-25
 njrat,147.185.221.18,42876,147.185.221.0/24,company-telecom.gl.at.ply.gg,ply.gg,2024-12-25
 njrat,52.28.112.211,17275,52.24.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-25
 njrat,18.198.77.177,17275,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-25
@@ -28,7 +29,6 @@ njrat,167.71.56.116,22342,167.71.0.0/16,eu-central-7075.packetriot.net,packetrio
 njrat,83.31.171.13,2002,83.24.0.0/13,niewiemcodac.ddns.net,ddns.net,2024-12-20
 redline,193.203.238.86,1912,193.203.238.0/24,,,2024-12-20
 njrat,147.185.221.24,35994,147.185.221.0/24,latest-springer.gl.at.ply.gg,ply.gg,2024-12-19
-njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-12-19
 nanocore,147.185.221.22,32971,147.185.221.0/24,parts-sleeps.gl.at.ply.gg,ply.gg,2024-12-18
 njrat,35.159.113.6,1337,35.156.0.0/14,,,2024-12-18
 lokibot,34.227.7.138,80,34.224.0.0/13,blesblochem.com,blesblochem.com,2024-12-18
