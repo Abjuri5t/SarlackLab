@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,147.45.44.224,1912,147.45.44.0/24,,,2024-12-26
+lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2024-12-26
 njrat,147.185.221.24,37334,147.185.221.0/24,problems-onion.gl.at.ply.gg,ply.gg,2024-12-26
 njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-12-25
 njrat,147.185.221.18,42876,147.185.221.0/24,company-telecom.gl.at.ply.gg,ply.gg,2024-12-25
@@ -8,11 +10,9 @@ njrat,188.226.118.231,1527,188.226.0.0/17,prapor03212.ddns.net,ddns.net,2024-12-
 redline,87.120.120.7,1912,87.120.120.0/23,,,2024-12-25
 njrat,147.185.221.24,37290,147.185.221.0/24,,,2024-12-25
 njrat,3.68.171.119,11145,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-12-24
-redline,147.45.44.224,1912,147.45.44.0/24,,,2024-12-24
 njrat,167.71.56.116,22342,167.71.0.0/16,,,2024-12-23
 lokibot,195.200.9.204,80,195.200.0.0/20,publicspeaking.co.id,co.id,2024-12-23
 njrat,147.185.221.24,35059,147.185.221.0/24,fat-pads.gl.at.ply.gg,ply.gg,2024-12-23
-lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2024-12-22
 nanocore,192.169.69.25,3883,192.169.68.0/22,wcbradley.duckdns.org,duckdns.org,2024-12-22
 njrat,192.169.69.26,2150,192.169.68.0/22,peru2022peru.duckdns.org,duckdns.org,2024-12-22
 lokibot,195.200.9.224,80,195.200.0.0/20,publicspeaking.co.id,co.id,2024-12-22
