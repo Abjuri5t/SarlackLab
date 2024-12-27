@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.192.31.30,19331,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-12-27
+njrat,3.71.225.231,19331,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2024-12-27
 njrat,147.185.221.18,42876,147.185.221.0/24,company-telecom.gl.at.ply.gg,ply.gg,2024-12-26
 redline,147.45.44.224,1912,147.45.44.0/24,,,2024-12-26
 lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2024-12-26
