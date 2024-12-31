@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,5.39.43.50,5234,5.39.0.0/17,,,2024-12-31
 lokibot,107.178.223.183,80,107.178.192.0/18,blesblochem.com,blesblochem.com,2024-12-30
 lokibot,104.155.138.21,80,104.155.0.0/16,blesblochem.com,blesblochem.com,2024-12-30
 njrat,18.192.31.30,10095,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-12-30
