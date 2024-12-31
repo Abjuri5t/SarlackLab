@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,107.178.223.183,80,107.178.192.0/18,blesblochem.com,blesblochem.com,2024-12-30
+lokibot,104.155.138.21,80,104.155.0.0/16,blesblochem.com,blesblochem.com,2024-12-30
 njrat,18.192.31.30,10095,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-12-30
 njrat,18.153.198.123,10095,18.128.0.0/11,0.tcp.eu.ngrok.io,ngrok.io,2024-12-30
 njrat,3.71.225.231,10095,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2024-12-30
@@ -6,7 +8,6 @@ njrat,192.169.69.26,2150,192.169.68.0/22,peru2022peru.duckdns.org,duckdns.org,20
 njrat,3.121.139.82,17275,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-29
 njrat,52.28.112.211,17275,52.24.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-29
 njrat,18.198.77.177,17275,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2024-12-29
-lokibot,107.178.223.183,80,107.178.192.0/18,blesblochem.com,blesblochem.com,2024-12-28
 njrat,18.156.13.209,11048,18.128.0.0/11,2.tcp.eu.ngrok.io,ngrok.io,2024-12-28
 njrat,18.192.93.86,11048,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2024-12-28
 njrat,147.185.221.24,50300,147.185.221.0/24,printer-nebraska.gl.at.ply.gg,ply.gg,2024-12-28
