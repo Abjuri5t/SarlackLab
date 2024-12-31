@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,212.56.41.77,1912,212.56.32.0/20,,,2024-12-31
+njrat,167.71.56.116,22342,167.71.0.0/16,eu-central-7075.packetriot.net,packetriot.net,2024-12-31
 njrat,5.39.43.50,5234,5.39.0.0/17,,,2024-12-31
 lokibot,107.178.223.183,80,107.178.192.0/18,blesblochem.com,blesblochem.com,2024-12-30
 lokibot,104.155.138.21,80,104.155.0.0/16,blesblochem.com,blesblochem.com,2024-12-30
@@ -40,7 +42,6 @@ njrat,3.66.38.117,11237,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2024-12-22
 njrat,3.64.4.198,14324,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-12-21
 njrat,3.127.181.115,14324,3.120.0.0/13,5.tcp.eu.ngrok.io,ngrok.io,2024-12-21
 redline,185.81.68.147,1912,185.81.68.0/24,,,2024-12-21
-njrat,167.71.56.116,22342,167.71.0.0/16,eu-central-7075.packetriot.net,packetriot.net,2024-12-21
 njrat,83.31.171.13,2002,83.24.0.0/13,niewiemcodac.ddns.net,ddns.net,2024-12-20
 redline,193.203.238.86,1912,193.203.238.0/24,,,2024-12-20
 njrat,147.185.221.24,35994,147.185.221.0/24,latest-springer.gl.at.ply.gg,ply.gg,2024-12-19
