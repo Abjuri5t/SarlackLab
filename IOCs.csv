@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,136.243.111.71,741,136.243.0.0/17,antivirus-helper.publicvm.com,publicvm.com,2025-01-01
 njrat,45.137.201.181,511,45.137.201.0/24,,,2024-12-31
 redline,212.56.41.77,1912,212.56.32.0/20,,,2024-12-31
 njrat,167.71.56.116,22342,167.71.0.0/16,eu-central-7075.packetriot.net,packetriot.net,2024-12-31
@@ -105,7 +106,6 @@ njrat,157.245.65.139,22281,157.245.0.0/16,eu-west-36307.packetriot.net,packetrio
 lokibot,45.149.241.168,80,45.149.241.0/24,www.stipamana.com,stipamana.com,2024-12-05
 njrat,147.185.221.24,16265,147.185.221.0/24,cities-constraints.gl.at.ply.gg,ply.gg,2024-12-04
 lokibot,45.149.241.168,80,45.149.241.0/24,stipamana.com,stipamana.com,2024-12-04
-njrat,136.243.111.71,741,136.243.0.0/17,antivirus-helper.publicvm.com,publicvm.com,2024-12-04
 njrat,196.119.35.10,10000,196.119.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-12-04
 lokibot,104.21.25.154,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2024-12-03
 njrat,52.201.248.168,5050,52.200.0.0/13,ronymahmoud.casacam.net,casacam.net,2024-12-03
