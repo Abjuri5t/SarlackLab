@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2025-01-02
 nanocore,193.168.173.66,139,193.168.173.0/24,,,2025-01-01
 njrat,136.243.111.71,741,136.243.0.0/17,antivirus-helper.publicvm.com,publicvm.com,2025-01-01
 njrat,45.137.201.181,511,45.137.201.0/24,,,2024-12-31
@@ -25,7 +26,6 @@ njrat,147.185.221.18,42876,147.185.221.0/24,company-telecom.gl.at.ply.gg,ply.gg,
 redline,147.45.44.224,1912,147.45.44.0/24,,,2024-12-26
 lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2024-12-26
 njrat,147.185.221.24,37334,147.185.221.0/24,problems-onion.gl.at.ply.gg,ply.gg,2024-12-26
-njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2024-12-25
 njrat,188.226.118.231,1527,188.226.0.0/17,prapor03212.ddns.net,ddns.net,2024-12-25
 redline,87.120.120.7,1912,87.120.120.0/23,,,2024-12-25
 njrat,147.185.221.24,37290,147.185.221.0/24,,,2024-12-25
