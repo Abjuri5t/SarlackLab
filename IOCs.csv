@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,34.227.7.138,80,34.224.0.0/12,checkvim.com,checkvim.com,2025-01-02
 redline,52.90.131.119,1912,52.90.0.0/15,,,2025-01-02
 nanocore,82.67.51.130,54984,82.64.0.0/14,,,2025-01-02
 njrat,185.65.68.247,6522,185.65.68.0/24,,,2025-01-02
