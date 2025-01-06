@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,193.161.193.99,59950,193.161.193.0/24,umso-59950.portmap.host,portmap.host,2025-01-06
 njrat,77.90.22.45,5552,77.90.22.0/24,,,2025-01-06
 lokibot,18.246.231.120,80,18.246.0.0/15,secure01-redirect.net,secure01-redirect.net,2025-01-06
 lokibot,172.67.161.31,80,172.67.0.0/16,ilyasautotech.com.au,com.au,2025-01-05
