@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,18.246.231.120,80,18.246.0.0/15,secure01-redirect.net,secure01-redirect.net,2025-01-05
 lokibot,172.67.161.31,80,172.67.0.0/16,ilyasautotech.com.au,com.au,2025-01-05
 njrat,147.185.221.24,60732,147.185.221.0/24,both-foundations.gl.at.ply.gg,ply.gg,2025-01-05
 lokibot,34.227.7.138,80,34.224.0.0/12,checkvim.com,checkvim.com,2025-01-05
@@ -8,7 +9,6 @@ njrat,147.185.221.24,58685,147.185.221.0/24,between-youth.gl.at.ply.gg,ply.gg,20
 njrat,204.95.99.26,1604,204.95.96.0/20,np21tda.no-ip.biz,no-ip.biz,2025-01-04
 njrat,147.185.221.19,28055,147.185.221.0/24,jersey-prize.gl.at.ply.gg,ply.gg,2025-01-03
 njrat,69.16.230.165,80,69.16.224.0/19,maxxrocker.dlinkddns.com,dlinkddns.com,2025-01-03
-lokibot,18.246.231.120,80,18.246.0.0/15,secure01-redirect.net,secure01-redirect.net,2025-01-03
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-01-03
 redline,52.90.131.119,1912,52.90.0.0/15,,,2025-01-02
 nanocore,82.67.51.130,54984,82.64.0.0/14,,,2025-01-02
