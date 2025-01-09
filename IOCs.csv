@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,45.137.201.181,511,45.137.201.0/24,,,2025-01-08
 njrat,147.185.221.24,47287,147.185.221.0/24,financial-amanda.gl.at.ply.gg,ply.gg,2025-01-08
 lokibot,18.246.231.120,80,18.246.0.0/15,secure01-redirect.net,secure01-redirect.net,2025-01-08
 njrat,103.82.249.78,3158,103.82.248.0/22,,,2025-01-08
@@ -31,7 +32,6 @@ njrat,185.172.175.125,505,185.172.175.0/24,abolhb.com,abolhb.com,2025-01-02
 njrat,184.105.237.195,5553,184.105.236.0/23,redlan.hopto.org,hopto.org,2025-01-02
 nanocore,193.168.173.66,139,193.168.173.0/24,,,2025-01-01
 njrat,136.243.111.71,741,136.243.0.0/17,antivirus-helper.publicvm.com,publicvm.com,2025-01-01
-njrat,45.137.201.181,511,45.137.201.0/24,,,2024-12-31
 redline,212.56.41.77,1912,212.56.32.0/20,,,2024-12-31
 njrat,167.71.56.116,22342,167.71.0.0/16,eu-central-7075.packetriot.net,packetriot.net,2024-12-31
 njrat,5.39.43.50,5234,5.39.0.0/17,,,2024-12-31
