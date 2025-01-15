@@ -1,12 +1,20 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,212.56.41.77,1912,212.56.32.0/20,,,2025-01-13
+redline,212.56.41.77,1912,212.56.32.0/20,,,2025-01-14
+njrat,18.192.93.86,18768,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
+njrat,18.157.68.73,18768,18.128.0.0/11,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
+njrat,3.126.37.18,18768,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
+njrat,18.156.13.209,18768,18.128.0.0/11,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
+njrat,3.127.138.57,14206,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
+njrat,18.197.239.5,14206,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
+njrat,18.157.68.73,14206,18.128.0.0/11,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
+njrat,147.185.221.25,14413,147.185.221.0/24,hi-tin.gl.at.ply.gg,ply.gg,2025-01-14
+lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-01-14
 redline,195.177.92.88,1912,195.177.92.0/24,,,2025-01-13
 redline,89.23.101.77,1912,89.23.100.0/23,,,2025-01-13
 redline,87.120.120.22,1912,87.120.120.0/23,,,2025-01-12
 njrat,130.51.20.126,6732,130.51.20.0/22,phh79b4.localto.net,localto.net,2025-01-12
 njrat,45.61.159.148,1111,45.61.158.0/23,daxon.giize.com,giize.com,2025-01-12
 njrat,147.50.253.6,9997,147.50.252.0/23,,,2025-01-12
-lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-01-12
 njrat,178.215.236.227,4411,178.215.236.0/24,,,2025-01-11
 njrat,3.126.224.214,19931,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-01-11
 njrat,3.68.56.232,19931,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-01-11
