@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.69.115.178,15553,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-02-01
+njrat,52.28.247.255,15553,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2025-02-01
+njrat,3.68.171.119,15553,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-02-01
 lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-01-31
 njrat,5.75.234.8,2596,5.75.128.0/17,j4n6foy.localto.net,localto.net,2025-01-30
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-01-30
