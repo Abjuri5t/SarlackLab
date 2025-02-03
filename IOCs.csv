@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,195.177.92.88,1912,195.177.92.0/24,,,2025-02-03
 njrat,102.156.4.62,1177,102.156.0.0/14,postpix.shop,postpix.shop,2025-02-02
 lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-02-02
 njrat,3.67.62.142,15938,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2025-02-02
@@ -59,7 +60,6 @@ njrat,3.127.138.57,14206,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
 njrat,18.197.239.5,14206,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
 njrat,18.157.68.73,14206,18.128.0.0/11,2.tcp.eu.ngrok.io,ngrok.io,2025-01-14
 njrat,147.185.221.25,14413,147.185.221.0/24,hi-tin.gl.at.ply.gg,ply.gg,2025-01-14
-redline,195.177.92.88,1912,195.177.92.0/24,,,2025-01-13
 njrat,130.51.20.126,6732,130.51.20.0/22,phh79b4.localto.net,localto.net,2025-01-12
 njrat,45.61.159.148,1111,45.61.158.0/23,daxon.giize.com,giize.com,2025-01-12
 njrat,147.50.253.6,9997,147.50.252.0/23,,,2025-01-12
