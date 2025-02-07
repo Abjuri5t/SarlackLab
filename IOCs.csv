@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,172.245.123.11,80,172.245.122.0/23,,,2025-02-07
+lokibot,94.156.167.223,80,94.156.166.0/23,royalsailtravel.ru,royalsailtravel.ru,2025-02-07
 njrat,147.185.221.25,47744,147.185.221.0/24,staff-tunisia.gl.at.ply.gg,ply.gg,2025-02-07
 njrat,147.185.221.25,47140,147.185.221.0/24,nice-otherwise.gl.at.ply.gg,ply.gg,2025-02-07
 lokibot,104.21.96.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-07
@@ -10,7 +12,6 @@ njrat,102.158.1.30,1177,102.156.0.0/14,postpix.shop,postpix.shop,2025-02-05
 njrat,204.95.99.26,5552,204.95.96.0/20,rooom.zapto.org,zapto.org,2025-02-05
 redline,38.240.36.233,1912,38.240.32.0/20,,,2025-02-05
 lokibot,104.21.80.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-05
-lokibot,94.156.167.223,80,94.156.166.0/23,royalsailtravel.ru,royalsailtravel.ru,2025-02-05
 njrat,46.153.112.54,443,46.152.0.0/15,sosomyhestor.ddns.net,ddns.net,2025-02-05
 njrat,197.2.31.108,1177,197.2.0.0/16,postpix.shop,postpix.shop,2025-02-04
 njrat,31.166.65.188,5552,31.166.0.0/15,microsoft-365-updater.duckdns.org,duckdns.org,2025-02-04
@@ -99,7 +100,6 @@ lokibot,104.155.138.21,80,104.155.0.0/16,iykl.xyz,iykl.xyz,2025-01-09
 njrat,45.137.201.181,511,45.137.201.0/24,,,2025-01-08
 njrat,147.185.221.24,47287,147.185.221.0/24,financial-amanda.gl.at.ply.gg,ply.gg,2025-01-08
 njrat,103.82.249.78,3158,103.82.248.0/22,,,2025-01-08
-lokibot,172.245.123.11,80,172.245.122.0/23,,,2025-01-08
 njrat,147.50.253.19,1609,147.50.252.0/23,finzydev.click,finzydev.click,2025-01-07
 njrat,77.90.22.45,3333,77.90.22.0/24,,,2025-01-07
 lokibot,104.21.9.171,80,104.21.0.0/17,ilyasautotech.com.au,com.au,2025-01-07
