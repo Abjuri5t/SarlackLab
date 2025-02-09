@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-02-09
 njrat,3.66.38.117,12482,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-02-09
 njrat,147.185.221.25,56498,147.185.221.0/24,la-accreditation.gl.at.ply.gg,ply.gg,2025-02-09
 njrat,147.185.221.25,10454,147.185.221.0/24,environmental-seeds.gl.at.ply.gg,ply.gg,2025-02-08
@@ -28,7 +29,6 @@ njrat,147.185.221.25,36121,147.185.221.0/24,leading-fraser.gl.at.ply.gg,ply.gg,2
 lokibot,85.31.47.84,5339,85.31.47.0/24,,,2025-02-03
 redline,195.177.92.88,1912,195.177.92.0/24,,,2025-02-03
 njrat,102.156.4.62,1177,102.156.0.0/14,postpix.shop,postpix.shop,2025-02-02
-lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-02-02
 njrat,3.67.62.142,15938,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2025-02-02
 njrat,3.67.112.102,15938,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2025-02-02
 njrat,3.71.225.231,16168,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-02-01
