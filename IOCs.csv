@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-02-14
 njrat,65.109.115.25,5552,65.108.0.0/15,,,2025-02-14
 njrat,147.185.221.26,1955,147.185.221.0/24,videos-flux.gl.at.ply.gg,ply.gg,2025-02-13
 nanocore,108.231.94.28,1608,108.230.0.0/15,,,2025-02-13
@@ -50,7 +51,6 @@ njrat,3.69.115.178,15553,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-02-01
 njrat,52.28.247.255,15553,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2025-02-01
 njrat,3.68.171.119,15553,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-02-01
 njrat,5.75.234.8,2596,5.75.128.0/17,j4n6foy.localto.net,localto.net,2025-01-30
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-01-30
 redline,87.120.120.22,1912,87.120.120.0/23,,,2025-01-29
 njrat,197.58.200.175,1177,197.48.0.0/12,colyfigo55.hopto.org,hopto.org,2025-01-29
 njrat,41.103.71.188,999,41.96.0.0/13,volkatv500.sytes.net,sytes.net,2025-01-29
