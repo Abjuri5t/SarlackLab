@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.16.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-19
+lokibot,104.21.96.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-19
 lokibot,104.21.48.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-19
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-02-18
 njrat,88.99.61.194,5067,88.99.0.0/16,,,2025-02-18
@@ -42,7 +44,6 @@ njrat,185.172.175.161,9999,185.172.175.0/24,3skr.uncofig.com,uncofig.com,2025-02
 lokibot,172.245.123.11,80,172.245.122.0/23,,,2025-02-07
 lokibot,94.156.167.223,80,94.156.166.0/23,royalsailtravel.ru,royalsailtravel.ru,2025-02-07
 njrat,147.185.221.25,47744,147.185.221.0/24,staff-tunisia.gl.at.ply.gg,ply.gg,2025-02-07
-lokibot,104.21.96.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-07
 nanocore,192.169.69.25,2741,192.169.68.0/22,nonox.duckdns.org,duckdns.org,2025-02-06
 njrat,185.79.132.175,8000,185.79.132.0/23,,,2025-02-06
 nanocore,108.231.94.28,10135,108.230.0.0/15,,,2025-02-06
