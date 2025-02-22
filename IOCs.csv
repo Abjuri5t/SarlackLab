@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,172.67.186.47,80,172.67.0.0/16,sebel.sbs,sebel.sbs,2025-02-22
+lokibot,104.21.19.129,80,104.21.0.0/17,sebel.sbs,sebel.sbs,2025-02-22
 njrat,77.100.63.251,5631,77.96.0.0/13,,,2025-02-21
 njrat,147.185.221.26,14454,147.185.221.0/24,posts-valentine.gl.at.ply.gg,ply.gg,2025-02-21
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-02-21
