@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,213.152.161.114,43366,213.152.160.0/23,lxtihmjohnson163.airdns.org,airdns.org,2025-02-23
+nanocore,192.169.69.26,56345,192.169.68.0/22,lxtihmjohnson163.airdns.org,airdns.org,2025-02-23
+njrat,108.231.94.28,6522,108.230.0.0/15,,,2025-02-23
 lokibot,172.67.186.47,80,172.67.0.0/16,sebel.sbs,sebel.sbs,2025-02-22
 lokibot,104.21.19.129,80,104.21.0.0/17,sebel.sbs,sebel.sbs,2025-02-22
 njrat,77.100.63.251,5631,77.96.0.0/13,,,2025-02-21
