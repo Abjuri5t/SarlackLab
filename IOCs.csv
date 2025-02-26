@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.26,5555,192.169.68.0/22,nibiru33.duckdns.org,duckdns.org,2025-02-26
 redline,45.155.103.183,1488,45.155.102.0/23,,,2025-02-26
 lokibot,196.251.84.43,80,196.251.84.0/24,royalsailtravel.ru,royalsailtravel.ru,2025-02-26
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-02-26
@@ -638,7 +639,6 @@ redline,147.45.47.36,14537,147.45.47.0/24,,,2024-08-26
 lokibot,172.67.182.142,80,172.67.0.0/16,inepat.com,inepat.com,2024-08-26
 nanocore,193.203.238.87,54984,193.203.238.0/24,,,2024-08-26
 njrat,147.185.221.19,14127,147.185.221.0/24,word-lang.gl.at.ply.gg,ply.gg,2024-08-26
-nanocore,192.169.69.26,5555,192.169.68.0/22,nibiru33.duckdns.org,duckdns.org,2024-08-26
 redline,185.215.113.25,13686,185.215.113.0/24,,,2024-08-25
 lokibot,192.169.69.25,80,192.169.68.0/22,djanic.duckdns.org,duckdns.org,2024-08-25
 njrat,147.185.221.22,19892,147.185.221.0/24,friend-tr.gl.at.ply.gg,ply.gg,2024-08-25
