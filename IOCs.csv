@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.26,39086,147.185.221.0/24,,,2025-03-03
+njrat,173.45.117.247,6522,173.45.64.0/18,,,2025-03-03
 njrat,193.161.193.99,43449,193.161.193.0/24,232222222223-43449.portmap.host,portmap.host,2025-03-02
 njrat,196.119.118.76,10000,196.119.0.0/17,doddyfire.linkpc.net,linkpc.net,2025-03-02
 njrat,18.153.198.123,14673,18.152.0.0/15,0.tcp.eu.ngrok.io,ngrok.io,2025-03-02
