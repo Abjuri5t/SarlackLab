@@ -1,9 +1,10 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.112.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-04
+lokibot,104.21.48.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-04
 redline,45.155.103.183,1488,45.155.102.0/23,,,2025-03-03
 nanocore,192.3.96.75,1808,192.3.96.0/22,,,2025-03-03
 njrat,141.11.62.152,12345,141.11.62.0/24,,,2025-03-03
 njrat,147.185.221.26,38013,147.185.221.0/24,vpn1.hackcrack.io,hackcrack.io,2025-03-03
-lokibot,104.21.112.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-03
 lokibot,104.21.80.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-03
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-03
 njrat,147.185.221.26,39086,147.185.221.0/24,,,2025-03-03
@@ -27,7 +28,6 @@ redline,196.251.92.21,1912,196.251.92.0/22,,,2025-02-27
 njrat,147.185.221.26,30723,147.185.221.0/24,instruments-arrives.gl.at.ply.gg,ply.gg,2025-02-27
 nanocore,192.169.69.26,5555,192.169.68.0/22,nibiru33.duckdns.org,duckdns.org,2025-02-26
 lokibot,196.251.84.43,80,196.251.84.0/24,royalsailtravel.ru,royalsailtravel.ru,2025-02-26
-lokibot,104.21.48.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-25
 lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-02-25
 njrat,5.182.226.142,35724,5.182.224.0/22,tcp.cloudpub.ru,cloudpub.ru,2025-02-25
 redline,195.211.191.34,1912,195.211.191.0/24,,,2025-02-25
