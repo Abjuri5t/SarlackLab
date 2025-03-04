@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-03-04
 njrat,147.185.221.26,21909,147.185.221.0/24,,,2025-03-04
 redline,45.155.103.183,1488,45.155.102.0/23,,,2025-03-04
 lokibot,172.67.155.164,80,172.67.0.0/16,ddrtot.shop,ddrtot.shop,2025-03-04
@@ -30,7 +31,6 @@ redline,196.251.92.21,1912,196.251.92.0/22,,,2025-02-27
 njrat,147.185.221.26,30723,147.185.221.0/24,instruments-arrives.gl.at.ply.gg,ply.gg,2025-02-27
 nanocore,192.169.69.26,5555,192.169.68.0/22,nibiru33.duckdns.org,duckdns.org,2025-02-26
 lokibot,196.251.84.43,80,196.251.84.0/24,royalsailtravel.ru,royalsailtravel.ru,2025-02-26
-lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-02-25
 njrat,5.182.226.142,35724,5.182.224.0/22,tcp.cloudpub.ru,cloudpub.ru,2025-02-25
 redline,195.211.191.34,1912,195.211.191.0/24,,,2025-02-25
 redline,14.128.14.32,1912,14.128.12.0/22,,,2025-02-25
