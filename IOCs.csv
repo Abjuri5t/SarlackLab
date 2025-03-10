@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.32.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-10
 lokibot,104.21.96.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-10
 njrat,146.158.116.151,7655,146.158.116.0/24,,,2025-03-09
 njrat,3.64.4.198,15691,3.64.0.0/12,,,2025-03-09
@@ -42,7 +43,6 @@ njrat,2.49.150.25,5552,2.49.148.0/22,,,2025-03-02
 njrat,105.100.228.127,2,105.100.0.0/14,myhaani.ddns.net,ddns.net,2025-03-02
 lokibot,104.21.64.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-02
 lokibot,45.252.248.29,80,45.252.248.0/22,centrehotel.vn,centrehotel.vn,2025-03-02
-lokibot,104.21.32.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-02-27
 njrat,185.172.175.161,9999,185.172.175.0/24,3skr.uncofig.com,uncofig.com,2025-02-27
 redline,196.251.92.21,1912,196.251.92.0/22,,,2025-02-27
 njrat,147.185.221.26,30723,147.185.221.0/24,instruments-arrives.gl.at.ply.gg,ply.gg,2025-02-27
