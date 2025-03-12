@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.96.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-12
 njrat,147.185.221.24,4444,147.185.221.0/24,john-already.gl.at.ply.gg,ply.gg,2025-03-11
 njrat,3.124.67.191,15408,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-03-11
 njrat,3.67.15.169,15408,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-03-11
@@ -13,7 +14,6 @@ lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-10
 lokibot,104.21.80.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-10
 lokibot,104.21.16.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-10
 lokibot,104.21.32.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-10
-lokibot,104.21.96.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-10
 njrat,146.158.116.151,7655,146.158.116.0/24,,,2025-03-09
 njrat,3.64.4.198,15691,3.64.0.0/12,,,2025-03-09
 njrat,147.185.221.26,20092,147.185.221.0/24,percent-wing.gl.at.ply.gg,ply.gg,2025-03-09
