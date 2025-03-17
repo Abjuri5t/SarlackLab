@@ -1,11 +1,12 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-17
+njrat,46.153.249.193,443,46.152.0.0/15,,,2025-03-17
 njrat,147.185.221.26,55648,147.185.221.0/24,thursday-bytes.gl.at.ply.gg,ply.gg,2025-03-17
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-17
 njrat,147.185.221.26,56924,147.185.221.0/24,z-rpg.gl.at.ply.gg,ply.gg,2025-03-16
 njrat,147.185.221.26,48377,147.185.221.0/24,road-documented.gl.at.ply.gg,ply.gg,2025-03-16
 njrat,3.1.16.19,15725,3.0.0.0/15,0.tcp.ap.ngrok.io,ngrok.io,2025-03-16
 njrat,52.77.3.235,15725,52.76.0.0/14,0.tcp.ap.ngrok.io,ngrok.io,2025-03-16
-redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-15
 lokibot,104.21.80.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-14
 lokibot,104.21.48.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-14
 lokibot,172.245.123.11,80,172.245.122.0/23,,,2025-03-13
