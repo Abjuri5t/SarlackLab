@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.67.112.102,17337,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2025-03-17
+njrat,3.64.4.198,17337,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2025-03-17
 redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-17
 njrat,46.153.249.193,443,46.152.0.0/15,,,2025-03-17
 njrat,147.185.221.26,55648,147.185.221.0/24,thursday-bytes.gl.at.ply.gg,ply.gg,2025-03-17
