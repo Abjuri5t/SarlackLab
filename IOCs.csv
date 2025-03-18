@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-18
+njrat,46.197.220.52,3389,46.197.208.0/20,,,2025-03-18
 lokibot,104.21.32.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-18
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-18
 nanocore,18.198.77.177,15992,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-03-17
@@ -9,7 +11,6 @@ nanocore,3.127.253.86,15992,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-03-17
 nanocore,52.28.112.211,15992,52.24.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-03-17
 njrat,3.67.112.102,17337,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2025-03-17
 njrat,3.64.4.198,17337,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2025-03-17
-redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-17
 njrat,46.153.249.193,443,46.152.0.0/15,,,2025-03-17
 njrat,147.185.221.26,55648,147.185.221.0/24,thursday-bytes.gl.at.ply.gg,ply.gg,2025-03-17
 njrat,147.185.221.26,56924,147.185.221.0/24,z-rpg.gl.at.ply.gg,ply.gg,2025-03-16
