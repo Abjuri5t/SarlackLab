@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,104.21.112.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-19
 njrat,216.218.135.117,8501,216.218.128.0/18,filestlggtwerka.hopto.org,hopto.org,2025-03-18
 njrat,147.185.221.26,27706,147.185.221.0/24,com-additionally.gl.at.ply.gg,ply.gg,2025-03-18
 njrat,34.136.111.81,1122,34.136.0.0/14,ezzat.adultdns.net,adultdns.net,2025-03-18
@@ -31,7 +32,6 @@ njrat,3.124.67.191,15408,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-03-11
 njrat,3.67.15.169,15408,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-03-11
 njrat,3.126.224.214,15408,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-03-11
 nanocore,147.185.221.26,54483,147.185.221.0/24,record-synthesis.gl.at.ply.gg,ply.gg,2025-03-11
-lokibot,104.21.112.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-11
 redline,104.219.239.239,1912,104.219.232.0/21,,,2025-03-11
 nanocore,192.169.69.25,9301,192.169.68.0/22,niiarmah.duckdns.org,duckdns.org,2025-03-11
 lokibot,104.21.64.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-11
