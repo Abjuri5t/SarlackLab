@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.157.68.73,12629,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-03-24
+njrat,18.156.13.209,12629,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-03-24
+njrat,18.192.93.86,12629,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-03-24
 njrat,147.185.221.26,20092,147.185.221.0/24,percent-wing.gl.at.ply.gg,ply.gg,2025-03-23
 njrat,147.185.221.27,7723,147.185.221.0/24,such-captain.gl.at.ply.gg,ply.gg,2025-03-23
 njrat,147.185.221.27,5407,147.185.221.0/24,size-ingredients.gl.at.ply.gg,ply.gg,2025-03-23
