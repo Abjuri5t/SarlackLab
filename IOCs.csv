@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,185.153.198.36,1912,185.153.196.0/22,,,2025-03-24
+redline,195.211.191.155,1912,195.211.191.0/24,,,2025-03-24
+redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-24
 njrat,18.157.68.73,12629,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-03-24
 njrat,18.156.13.209,12629,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-03-24
 njrat,18.192.93.86,12629,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-03-24
@@ -16,7 +19,6 @@ njrat,46.197.220.52,1604,46.197.208.0/20,,,2025-03-22
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-22
 njrat,46.121.250.34,7777,46.120.0.0/15,gabh.gotdns.ch,gotdns.ch,2025-03-21
 njrat,147.185.221.27,7336,147.185.221.0/24,your-thumb.gl.at.ply.gg,ply.gg,2025-03-21
-redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-21
 njrat,147.185.221.27,6905,147.185.221.0/24,score-fears.gl.at.ply.gg,ply.gg,2025-03-21
 nanocore,196.251.90.23,43366,196.251.88.0/22,elroithegodofnsppd.ddnsfree.com,ddnsfree.com,2025-03-21
 njrat,3.126.37.18,18848,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-03-20
