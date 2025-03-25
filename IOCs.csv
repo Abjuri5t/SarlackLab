@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-25
 nanocore,169.150.202.83,5552,169.150.202.0/24,ksmj.ddns.net,ddns.net,2025-03-25
 redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-24
 njrat,147.185.221.16,60127,147.185.221.0/24,september-idol.gl.at.ply.gg,ply.gg,2025-03-24
@@ -20,7 +21,6 @@ njrat,147.185.221.27,6772,147.185.221.0/24,pdf-cape.gl.at.ply.gg,ply.gg,2025-03-
 njrat,147.185.221.27,10020,147.185.221.0/24,many-atlantic.gl.at.ply.gg,ply.gg,2025-03-22
 redline,135.125.21.41,1912,135.125.0.0/16,,,2025-03-22
 njrat,46.197.220.52,1604,46.197.208.0/20,,,2025-03-22
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-22
 njrat,46.121.250.34,7777,46.120.0.0/15,gabh.gotdns.ch,gotdns.ch,2025-03-21
 njrat,147.185.221.27,7336,147.185.221.0/24,your-thumb.gl.at.ply.gg,ply.gg,2025-03-21
 njrat,147.185.221.27,6905,147.185.221.0/24,score-fears.gl.at.ply.gg,ply.gg,2025-03-21
