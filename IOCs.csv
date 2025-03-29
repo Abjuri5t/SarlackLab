@@ -1,6 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.192.93.86,19281,18.192.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-03-29
+njrat,18.156.13.209,19281,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-03-29
+redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-29
 lokibot,104.21.48.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-29
-redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-28
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-27
 njrat,147.185.221.23,2918,147.185.221.0/24,can-features.gl.at.ply.gg,ply.gg,2025-03-27
 nanocore,193.233.202.90,54984,193.233.202.0/23,,,2025-03-26
