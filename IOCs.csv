@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-03-30
 njrat,18.157.68.73,17350,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-03-29
 njrat,3.127.138.57,17350,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-03-29
 njrat,18.156.13.209,17350,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-03-29
@@ -17,7 +18,6 @@ lokibot,104.21.48.1,80,104.21.0.0/17,touxzw.ir,touxzw.ir,2025-03-29
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-03-27
 njrat,147.185.221.23,2918,147.185.221.0/24,can-features.gl.at.ply.gg,ply.gg,2025-03-27
 nanocore,193.233.202.90,54984,193.233.202.0/23,,,2025-03-26
-lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-03-25
 lokibot,34.245.175.187,80,34.240.0.0/12,oct2.xyz,oct2.xyz,2025-03-25
 nanocore,169.150.202.83,5552,169.150.202.0/24,ksmj.ddns.net,ddns.net,2025-03-25
 njrat,147.185.221.16,60127,147.185.221.0/24,september-idol.gl.at.ply.gg,ply.gg,2025-03-24
