@@ -1,10 +1,10 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,204.10.161.147,7082,204.10.160.0/22,,,2025-04-01
 njrat,3.135.250.11,11421,3.128.0.0/11,0.tcp.ngrok.io,ngrok.io,2025-03-31
 njrat,3.146.103.81,11421,3.128.0.0/11,0.tcp.ngrok.io,ngrok.io,2025-03-31
 njrat,18.190.63.84,11421,18.176.0.0/12,0.tcp.ngrok.io,ngrok.io,2025-03-31
 njrat,3.137.60.53,11421,3.128.0.0/11,0.tcp.ngrok.io,ngrok.io,2025-03-31
 njrat,3.12.245.36,11421,3.8.0.0/13,0.tcp.ngrok.io,ngrok.io,2025-03-31
-redline,204.10.161.147,7082,204.10.160.0/22,,,2025-03-30
 njrat,3.124.67.191,10780,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-03-30
 njrat,3.67.15.169,10780,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-03-30
 njrat,3.126.224.214,10780,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-03-30
