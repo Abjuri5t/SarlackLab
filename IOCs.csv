@@ -1,5 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,204.10.161.147,7082,204.10.160.0/22,,,2025-04-08
+njrat,3.127.253.86,12981,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-04-08
+njrat,35.158.159.254,12981,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2025-04-08
+njrat,52.28.112.211,12981,52.24.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-04-08
 redline,196.251.92.11,1912,196.251.92.0/22,,,2025-04-08
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-04-08
 nanocore,45.141.233.145,1664,45.141.233.0/24,,,2025-04-07
