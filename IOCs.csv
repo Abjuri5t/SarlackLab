@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-04-10
 njrat,192.169.69.26,6666,192.169.68.0/22,hackerguru.duckdns.org,duckdns.org,2025-04-09
 njrat,81.109.5.62,8848,81.96.0.0/12,,,2025-04-09
 njrat,193.161.193.99,61193,193.161.193.0/24,ezlols-61193.portmap.host,portmap.host,2025-04-08
@@ -7,7 +8,6 @@ redline,204.10.161.147,7082,204.10.160.0/22,,,2025-04-08
 njrat,3.127.253.86,12981,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-04-08
 njrat,35.158.159.254,12981,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2025-04-08
 njrat,52.28.112.211,12981,52.24.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-04-08
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-04-08
 nanocore,45.141.233.145,1664,45.141.233.0/24,,,2025-04-07
 nanocore,45.141.233.145,1664,45.141.233.0/24,foryoumedical.ddns.net,ddns.net,2025-04-07
 njrat,147.185.221.23,31296,147.185.221.0/24,lesbian-stereo.gl.at.ply.gg,ply.gg,2025-04-06
