@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,18.157.68.73,16744,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-04-16
+njrat,35.158.159.254,14219,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2025-04-16
+njrat,18.198.77.177,14219,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-04-16
 njrat,81.109.5.62,8848,81.96.0.0/12,,,2025-04-15
 darkcomet,88.240.210.241,1604,88.240.192.0/19,jvjv2044duck33.duckdns.org,duckdns.org,2025-04-15
 njrat,18.197.239.109,11862,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2025-04-14
