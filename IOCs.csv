@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,172.245.244.78,4184,172.245.244.0/22,,,2025-04-17
 njrat,18.157.68.73,16744,18.156.0.0/14,2.tcp.eu.ngrok.io,ngrok.io,2025-04-16
 njrat,35.158.159.254,14219,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2025-04-16
 njrat,18.198.77.177,14219,18.192.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-04-16
