@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,193.161.193.99,25009,193.161.193.0/24,rayishim-25009.portmap.io,portmap.io,2025-04-22
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-04-22
 lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-04-21
 njrat,45.83.207.17,6522,45.83.207.0/24,,,2025-04-21
 nanocore,193.161.193.99,23612,193.161.193.0/24,kitikixoroshie-23612.portmap.io,portmap.io,2025-04-21
@@ -24,7 +26,6 @@ njrat,147.185.221.27,33117,147.185.221.0/24,teaching-integrate.gl.at.ply.gg,ply.
 njrat,179.223.145.184,1177,179.223.128.0/17,arquivehacks.ddns.net,ddns.net,2025-04-13
 darkcomet,147.185.221.27,33346,147.185.221.0/24,sound-educated.gl.at.ply.gg,ply.gg,2025-04-13
 redline,204.10.161.147,7082,204.10.160.0/22,,,2025-04-12
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-04-12
 njrat,147.185.221.27,30866,147.185.221.0/24,overall-whom.gl.at.ply.gg,ply.gg,2025-04-12
 njrat,147.185.221.27,19766,147.185.221.0/24,get-met.gl.at.ply.gg,ply.gg,2025-04-10
 njrat,147.185.221.19,6863,147.185.221.0/24,pack-amber.gl.at.ply.gg,ply.gg,2025-04-10
