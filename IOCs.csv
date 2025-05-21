@@ -1,8 +1,17 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,62.60.226.191,1912,62.60.226.0/24,,,2025-05-21
+njrat,213.209.150.210,7773,213.209.150.0/24,,,2025-05-21
+njrat,147.185.221.28,29832,147.185.221.0/24,iraq-domains.gl.at.ply.gg,ply.gg,2025-05-21
+njrat,192.169.69.26,1000,192.169.68.0/22,donzola.duckdns.org,duckdns.org,2025-05-21
+njrat,196.119.86.83,10000,196.116.0.0/14,doddyfire.linkpc.net,linkpc.net,2025-05-21
+njrat,39.46.104.231,6903,39.46.0.0/15,hsolic.duckdns.org,duckdns.org,2025-05-21
+nanocore,196.251.88.166,43366,196.251.88.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-05-21
+nanocore,192.169.69.26,43366,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-05-21
+nanocore,196.251.86.25,1647,196.251.84.0/22,,,2025-05-21
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-05-21
 njrat,94.26.90.81,6666,94.26.90.0/24,,,2025-04-26
 nanocore,192.169.69.26,56345,192.169.68.0/22,tunhost.duckdns.org,duckdns.org,2025-04-26
 njrat,147.185.221.27,31185,147.185.221.0/24,team-evaluating.gl.at.ply.gg,ply.gg,2025-04-26
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-04-25
 nanocore,88.118.154.192,3333,88.118.144.0/20,microsoftftp.serveftp.com,serveftp.com,2025-04-24
 njrat,193.161.193.99,56152,193.161.193.0/24,hiesa-56152.portmap.host,portmap.host,2025-04-23
 njrat,147.185.221.27,52684,147.185.221.0/24,recommended-collins.gl.at.ply.gg,ply.gg,2025-04-23
@@ -154,7 +163,6 @@ njrat,147.185.221.24,16528,147.185.221.0/24,24.ip.gl.ply.gg,ply.gg,2025-03-08
 njrat,147.185.221.26,34375,147.185.221.0/24,pacific-sponsored.gl.at.ply.gg,ply.gg,2025-03-06
 nanocore,192.169.69.26,56345,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-03-06
 nanocore,196.251.90.58,43366,196.251.88.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-03-06
-nanocore,192.169.69.26,43366,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-03-06
 njrat,104.210.41.108,1177,104.208.0.0/13,test.accendent.shop,accendent.shop,2025-03-06
 lokibot,34.227.7.138,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-03-06
 nanocore,192.169.69.26,8092,192.169.68.0/22,backu4734.duckdns.org,duckdns.org,2025-03-06
