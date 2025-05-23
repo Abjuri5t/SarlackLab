@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.74.27.83,12230,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-05-23
+njrat,3.78.28.71,12230,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-05-23
 redline,62.60.226.191,1912,62.60.226.0/24,,,2025-05-23
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-05-23
 njrat,147.185.221.28,43316,147.185.221.0/24,smith-kw.gl.at.ply.gg,ply.gg,2025-05-22
