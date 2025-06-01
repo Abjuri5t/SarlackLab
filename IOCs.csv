@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,2.4.130.229,5552,2.4.0.0/14,,,2025-05-31
 redline,193.233.237.109,1912,193.233.237.0/24,,,2025-05-31
 njrat,85.203.4.56,4444,85.203.4.0/24,,,2025-05-31
 njrat,147.185.221.22,43124,147.185.221.0/24,copy-love.gl.at.ply.gg,ply.gg,2025-05-31
@@ -13,7 +14,6 @@ njrat,103.253.73.180,9080,103.253.72.0/22,,,2025-05-29
 njrat,13.38.45.224,1337,13.36.0.0/14,,,2025-05-29
 lokibot,199.59.243.228,80,199.59.243.0/24,hydeoutent.com,hydeoutent.com,2025-05-29
 njrat,2.4.130.229,5552,2.4.0.0/14,infra.hitius.bar,hitius.bar,2025-05-29
-njrat,2.4.130.229,5552,2.4.0.0/14,,,2025-05-29
 nanocore,192.169.69.25,3940,192.169.68.0/22,danishcent.duckdns.org,duckdns.org,2025-05-29
 njrat,103.245.167.88,2439,103.245.167.0/24,,,2025-05-28
 njrat,147.185.221.24,40108,147.185.221.0/24,risk-extraordinary.gl.at.ply.gg,ply.gg,2025-05-28
