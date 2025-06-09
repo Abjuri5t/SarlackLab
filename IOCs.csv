@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-09
 redline,62.60.226.166,1912,62.60.226.0/24,,,2025-06-08
 njrat,147.185.221.29,14000,147.185.221.0/24,29.ip.gl.ply.gg,ply.gg,2025-06-08
 njrat,3.78.28.71,12607,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-06-08
@@ -9,7 +10,6 @@ nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,20
 nanocore,151.227.44.57,2096,151.224.0.0/13,miraculousubiquity.ddns.net,ddns.net,2025-06-08
 nanocore,151.227.44.57,2096,151.224.0.0/13,ext.vavestudios.com,vavestudios.com,2025-06-08
 lokibot,103.6.198.192,80,103.6.198.0/24,greenlite.com.sg,com.sg,2025-06-08
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-08
 lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2025-06-08
 lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-06-08
 lokibot,196.251.115.29,80,196.251.112.0/22,royalsailtravel.ru,royalsailtravel.ru,2025-06-08
