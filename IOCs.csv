@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,147.185.221.28,58623,147.185.221.0/24,yes-dominican.gl.at.ply.gg,ply.gg,2025-06-09
+njrat,192.169.69.26,28387,192.169.68.0/22,mxmeite.duckdns.org,duckdns.org,2025-06-09
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-09
 redline,62.60.226.166,1912,62.60.226.0/24,,,2025-06-08
 njrat,147.185.221.29,14000,147.185.221.0/24,29.ip.gl.ply.gg,ply.gg,2025-06-08
@@ -38,7 +40,6 @@ njrat,147.185.221.28,60000,147.185.221.0/24,north-dad.gl.at.ply.gg,ply.gg,2025-0
 lokibot,131.153.147.98,80,131.153.144.0/22,topfixsolutions.com,topfixsolutions.com,2025-06-02
 redline,193.233.237.109,1912,193.233.237.0/24,,,2025-06-02
 njrat,147.185.221.29,1854,147.185.221.0/24,29.ip.gl.ply.gg,ply.gg,2025-06-02
-njrat,147.185.221.28,58623,147.185.221.0/24,yes-dominican.gl.at.ply.gg,ply.gg,2025-06-01
 njrat,147.185.221.29,1692,147.185.221.0/24,method-analog.gl.at.ply.gg,ply.gg,2025-06-01
 njrat,147.185.221.29,2061,147.185.221.0/24,hope-logo.gl.at.ply.gg,ply.gg,2025-06-01
 njrat,2.4.130.229,5552,2.4.0.0/14,,,2025-05-31
