@@ -1,4 +1,18 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,62.60.226.166,1912,62.60.226.0/24,,,2025-06-08
+njrat,147.185.221.29,14000,147.185.221.0/24,29.ip.gl.ply.gg,ply.gg,2025-06-08
+njrat,3.78.28.71,12607,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-06-08
+njrat,18.153.198.123,12607,18.152.0.0/15,0.tcp.eu.ngrok.io,ngrok.io,2025-06-08
+njrat,77.91.66.24,7777,77.91.66.0/24,,,2025-06-08
+njrat,209.25.140.16,5588,209.25.140.0/22,photographers-ecological.with.playit.plus,playit.plus,2025-06-08
+nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-06-08
+nanocore,151.227.44.57,2096,151.224.0.0/13,miraculousubiquity.ddns.net,ddns.net,2025-06-08
+nanocore,151.227.44.57,2096,151.224.0.0/13,ext.vavestudios.com,vavestudios.com,2025-06-08
+lokibot,103.6.198.192,80,103.6.198.0/24,greenlite.com.sg,com.sg,2025-06-08
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-08
+lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2025-06-08
+lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-06-08
+lokibot,196.251.115.29,80,196.251.112.0/22,royalsailtravel.ru,royalsailtravel.ru,2025-06-08
 njrat,85.203.4.56,3434,85.203.4.0/24,,,2025-06-05
 njrat,191.101.131.227,1177,191.101.131.0/24,,,2025-06-04
 lokibot,64.190.63.222,80,64.190.62.0/23,blowingminds.nut.cc,nut.cc,2025-06-04
@@ -21,11 +35,9 @@ nanocore,196.251.88.166,43366,196.251.88.0/22,elroithegodofnsppd.duckdns.org,duc
 nanocore,192.169.69.26,43366,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-06-04
 njrat,204.95.99.109,5552,204.95.96.0/20,samirleash.no-ip.org,no-ip.org,2025-06-03
 njrat,147.185.221.28,60000,147.185.221.0/24,north-dad.gl.at.ply.gg,ply.gg,2025-06-03
-nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-06-02
 lokibot,131.153.147.98,80,131.153.144.0/22,topfixsolutions.com,topfixsolutions.com,2025-06-02
 redline,193.233.237.109,1912,193.233.237.0/24,,,2025-06-02
 njrat,147.185.221.29,1854,147.185.221.0/24,29.ip.gl.ply.gg,ply.gg,2025-06-02
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-02
 njrat,147.185.221.28,58623,147.185.221.0/24,yes-dominican.gl.at.ply.gg,ply.gg,2025-06-01
 njrat,147.185.221.29,1692,147.185.221.0/24,method-analog.gl.at.ply.gg,ply.gg,2025-06-01
 njrat,147.185.221.29,2061,147.185.221.0/24,hope-logo.gl.at.ply.gg,ply.gg,2025-06-01
@@ -68,7 +80,6 @@ njrat,66.113.31.17,7547,66.113.24.0/21,,,2025-05-22
 njrat,3.8.141.103,1177,3.8.0.0/13,ronymahmoud.casacam.net,casacam.net,2025-05-22
 njrat,213.209.150.210,7773,213.209.150.0/24,,,2025-05-22
 njrat,23.160.168.166,6522,23.160.168.0/24,,,2025-05-22
-lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-05-22
 njrat,147.185.221.28,49405,147.185.221.0/24,,,2025-05-22
 lokibot,139.59.232.165,80,139.59.0.0/16,www.sandivartgallery.com,sandivartgallery.com,2025-05-21
 njrat,3.8.141.103,5050,3.8.0.0/13,ronymahmoud.casacam.net,casacam.net,2025-05-21
@@ -808,7 +819,6 @@ nanocore,192.169.69.25,47581,192.169.68.0/22,etoiilefiiilante.duckdns.org,duckdn
 nanocore,216.218.135.118,1512,216.218.128.0/18,goddywin.freedynamicdns.net,freedynamicdns.net,2024-09-16
 nanocore,147.185.221.22,44089,147.185.221.0/24,casino-cst.gl.at.ply.gg,ply.gg,2024-09-16
 nanocore,192.169.69.25,76,192.169.68.0/22,deburg.duckdns.org,duckdns.org,2024-09-16
-lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2024-09-16
 nanocore,198.23.197.108,7077,198.23.196.0/22,builderlloulirabaonline23rd.mywire.org,mywire.org,2024-09-12
 redline,185.203.241.68,40901,185.203.241.0/24,,,2024-09-12
 njrat,3.67.62.142,14885,3.64.0.0/12,5.tcp.eu.ngrok.io,ngrok.io,2024-09-12
