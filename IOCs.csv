@@ -1,8 +1,8 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-09
+redline,62.60.226.166,1912,62.60.226.0/24,,,2025-06-09
 njrat,147.185.221.28,58623,147.185.221.0/24,yes-dominican.gl.at.ply.gg,ply.gg,2025-06-09
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-09
 njrat,192.169.69.26,28387,192.169.68.0/22,mxmeite.duckdns.org,duckdns.org,2025-06-09
-redline,62.60.226.166,1912,62.60.226.0/24,,,2025-06-08
 njrat,147.185.221.29,14000,147.185.221.0/24,29.ip.gl.ply.gg,ply.gg,2025-06-08
 njrat,3.78.28.71,12607,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-06-08
 njrat,18.153.198.123,12607,18.152.0.0/15,0.tcp.eu.ngrok.io,ngrok.io,2025-06-08
