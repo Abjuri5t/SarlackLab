@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.25,3940,192.169.68.0/22,danishcent.duckdns.org,duckdns.org,2025-06-15
 redline,192.169.7.120,1912,192.169.6.0/23,,,2025-06-15
 njrat,159.223.193.191,1177,159.223.192.0/19,ronymahmoud.casacam.net,casacam.net,2025-06-14
 njrat,147.185.221.29,19592,147.185.221.0/24,meet-influenced.gl.at.ply.gg,ply.gg,2025-06-14
@@ -71,7 +72,6 @@ njrat,103.253.73.180,9080,103.253.72.0/22,,,2025-05-29
 njrat,13.38.45.224,1337,13.36.0.0/14,,,2025-05-29
 lokibot,199.59.243.228,80,199.59.243.0/24,hydeoutent.com,hydeoutent.com,2025-05-29
 njrat,2.4.130.229,5552,2.4.0.0/14,infra.hitius.bar,hitius.bar,2025-05-29
-nanocore,192.169.69.25,3940,192.169.68.0/22,danishcent.duckdns.org,duckdns.org,2025-05-29
 njrat,103.245.167.88,2439,103.245.167.0/24,,,2025-05-28
 njrat,147.185.221.24,40108,147.185.221.0/24,risk-extraordinary.gl.at.ply.gg,ply.gg,2025-05-28
 njrat,209.209.42.202,5552,209.209.42.0/24,,,2025-05-28
