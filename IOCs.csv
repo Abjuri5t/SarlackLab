@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,107.174.121.240,80,107.174.120.0/21,papanwa.com,papanwa.com,2025-06-26
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2025-06-26
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-06-26
 redline,185.156.72.89,1912,185.156.72.0/24,,,2025-06-25
@@ -459,7 +460,6 @@ njrat,3.126.224.214,19931,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-01-11
 njrat,35.157.111.131,19931,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2025-01-11
 njrat,45.141.12.199,1111,45.141.12.0/24,leechon.hackcrack.io,hackcrack.io,2025-01-11
 njrat,49.228.131.165,2425,49.228.128.0/18,,,2025-01-11
-lokibot,107.174.121.240,80,107.174.120.0/21,papanwa.com,papanwa.com,2025-01-11
 njrat,5.75.234.8,8370,5.75.128.0/17,zksrdmff9.localto.net,localto.net,2025-01-10
 redline,195.177.92.19,1912,195.177.92.0/24,,,2025-01-10
 njrat,3.121.113.182,1337,3.120.0.0/13,,,2025-01-10
