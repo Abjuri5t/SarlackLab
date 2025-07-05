@@ -1,8 +1,11 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.68.56.232,11722,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
+njrat,35.157.111.131,11722,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
+njrat,3.124.67.191,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
+njrat,3.125.188.168,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
+njrat,3.67.15.169,11722,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
+njrat,3.126.224.214,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-07-05
-njrat,3.126.224.214,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-04
-njrat,3.68.56.232,11722,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-07-04
-njrat,35.157.111.131,11722,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2025-07-04
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-04
 njrat,104.207.138.98,1177,104.207.128.0/19,ronymahmoud.casacam.net,casacam.net,2025-07-04
 nanocore,196.251.83.44,50050,196.251.83.0/24,,,2025-07-04
