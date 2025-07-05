@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-07-05
 njrat,3.126.224.214,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-04
 njrat,3.68.56.232,11722,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-07-04
 njrat,35.157.111.131,11722,35.156.0.0/14,7.tcp.eu.ngrok.io,ngrok.io,2025-07-04
@@ -25,7 +26,6 @@ njrat,147.185.221.29,47806,147.185.221.0/24,both-burlington.gl.at.ply.gg,ply.gg,
 njrat,103.245.167.123,25565,103.245.167.0/24,,,2025-06-27
 nanocore,147.185.221.29,17430,147.185.221.0/24,contact-japan.gl.at.ply.gg,ply.gg,2025-06-27
 lokibot,107.174.121.240,80,107.174.120.0/21,papanwa.com,papanwa.com,2025-06-27
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-06-27
 darkcomet,34.229.166.50,80,34.224.0.0/12,,,2025-06-27
 njrat,204.95.99.109,5552,204.95.96.0/20,hackerbahaa.myftp.biz,myftp.biz,2025-06-26
 lokibot,31.220.40.22,80,31.220.40.0/23,,,2025-06-26
