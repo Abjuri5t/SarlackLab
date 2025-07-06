@@ -1,5 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-06
+lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-07-06
 redline,107.172.232.92,1912,107.172.192.0/18,,,2025-07-05
 nanocore,147.185.221.29,60684,147.185.221.0/24,mailing-iv.gl.at.ply.gg,ply.gg,2025-07-05
 njrat,3.68.56.232,11722,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
@@ -55,7 +56,6 @@ nanocore,104.21.96.1,80,104.21.0.0/17,computernewb.com,computernewb.com,2025-06-
 nanocore,104.21.112.1,80,104.21.0.0/17,computernewb.com,computernewb.com,2025-06-22
 nanocore,104.21.80.1,80,104.21.0.0/17,computernewb.com,computernewb.com,2025-06-22
 lokibot,103.102.234.15,80,103.102.234.0/24,impulsetechnosoft.com,impulsetechnosoft.com,2025-06-22
-lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-06-21
 nanocore,172.67.141.148,80,172.67.0.0/16,computernewb.com,computernewb.com,2025-06-21
 nanocore,85.117.242.6,1985,85.117.242.0/24,workeazyment1.duckdns.org,duckdns.org,2025-06-21
 lokibot,196.251.89.33,80,196.251.88.0/22,dddotx.shop,dddotx.shop,2025-06-20
