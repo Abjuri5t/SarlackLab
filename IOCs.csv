@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-07-10
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-10
 lokibot,103.48.119.160,80,103.48.119.0/24,fashionstune.com,fashionstune.com,2025-07-10
 redline,176.46.157.64,1912,176.46.157.0/24,,,2025-07-10
@@ -22,7 +23,6 @@ njrat,3.124.67.191,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
 njrat,3.125.188.168,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
 njrat,3.67.15.169,11722,3.64.0.0/12,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
 njrat,3.126.224.214,11722,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-05
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-07-05
 njrat,104.207.138.98,1177,104.207.128.0/19,ronymahmoud.casacam.net,casacam.net,2025-07-04
 nanocore,196.251.83.44,50050,196.251.83.0/24,,,2025-07-04
 njrat,77.105.161.10,7000,77.105.161.0/24,,,2025-07-04
