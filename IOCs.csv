@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-11
 njrat,193.161.193.99,37068,193.161.193.0/24,mrtamdas-37068.portmap.io,portmap.io,2025-07-11
 redline,178.250.188.181,4226,178.250.188.0/24,,,2025-07-11
 redline,107.172.232.92,1912,107.172.192.0/18,,,2025-07-11
@@ -6,7 +7,6 @@ njrat,51.89.166.173,6522,51.89.0.0/16,,,2025-07-11
 njrat,147.185.221.28,54493,147.185.221.0/24,about-source.gl.at.ply.gg,ply.gg,2025-07-10
 nanocore,192.169.69.26,49905,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-07-10
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-07-10
-njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-10
 lokibot,103.48.119.160,80,103.48.119.0/24,fashionstune.com,fashionstune.com,2025-07-10
 redline,176.46.157.64,1912,176.46.157.0/24,,,2025-07-10
 nanocore,198.23.200.93,8634,198.23.200.0/21,ducktipo.duckdns.org,duckdns.org,2025-07-09
