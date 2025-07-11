@@ -1,5 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
-redline,107.172.232.92,1912,107.172.192.0/18,,,2025-07-10
+redline,178.250.188.181,4226,178.250.188.0/24,,,2025-07-11
+redline,107.172.232.92,1912,107.172.192.0/18,,,2025-07-11
+njrat,51.89.166.173,6522,51.89.0.0/16,,,2025-07-11
 njrat,147.185.221.28,54493,147.185.221.0/24,about-source.gl.at.ply.gg,ply.gg,2025-07-10
 nanocore,192.169.69.26,49905,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-07-10
 lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-07-10
@@ -11,7 +13,6 @@ nanocore,192.169.69.26,3395,192.169.68.0/22,2023endofyear.duckdns.org,duckdns.or
 nanocore,196.251.117.171,15230,196.251.116.0/23,nybenspyhost.duckdns.org,duckdns.org,2025-07-09
 njrat,192.169.69.26,5000,192.169.68.0/22,brolyx92.duckdns.org,duckdns.org,2025-07-09
 njrat,147.185.221.30,4322,147.185.221.0/24,natural-hide.gl.at.ply.gg,ply.gg,2025-07-09
-njrat,51.89.166.173,6522,51.89.0.0/16,,,2025-07-08
 nanocore,1.1.1.1,53,1.1.1.0/24,,,2025-07-08
 nanocore,27.147.169.101,9999,27.147.128.0/18,,,2025-07-07
 njrat,3.127.138.57,15761,3.120.0.0/13,2.tcp.eu.ngrok.io,ngrok.io,2025-07-07
