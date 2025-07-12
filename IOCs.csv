@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,204.95.99.26,5552,204.95.96.0/20,mbc2.no-ip.biz,no-ip.biz,2025-07-12
+nanocore,184.105.237.195,10010,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2025-07-12
 nanocore,192.169.69.26,3395,192.169.68.0/22,2023endofyear.duckdns.org,duckdns.org,2025-07-12
 njrat,196.251.71.173,7788,196.251.70.0/23,,,2025-07-11
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-11
@@ -1571,7 +1573,6 @@ lokibot,51.68.167.104,80,51.68.0.0/16,,,2024-05-30
 lokibot,216.137.178.203,80,216.137.176.0/20,www.matantalbenna.com,matantalbenna.com,2024-05-30
 lokibot,34.246.200.160,80,34.240.0.0/12,abscete.info,abscete.info,2024-05-30
 lokibot,54.80.154.23,80,54.80.0.0/13,blesblochem.com,blesblochem.com,2024-05-30
-nanocore,184.105.237.195,10010,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2024-05-28
 njrat,45.76.129.156,5050,45.76.0.0/15,seznam.zapto.org,zapto.org,2024-05-28
 lokibot,64.190.63.222,80,64.190.62.0/23,ciston.nut.cc,nut.cc,2024-05-28
 lokibot,192.169.69.25,80,192.169.68.0/22,jumbie.duckdns.org,duckdns.org,2024-05-28
