@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,198.23.200.93,8634,198.23.200.0/21,ducktipo.duckdns.org,duckdns.org,2025-07-14
 njrat,134.255.234.40,4782,134.255.234.0/24,,,2025-07-14
 redline,198.55.98.186,1912,198.55.98.0/24,,,2025-07-14
 njrat,81.109.131.3,928,81.96.0.0/12,,,2025-07-13
@@ -12,7 +13,6 @@ njrat,204.95.99.26,5552,204.95.96.0/20,mbc2.no-ip.biz,no-ip.biz,2025-07-12
 nanocore,184.105.237.195,10010,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2025-07-12
 nanocore,192.169.69.26,3395,192.169.68.0/22,2023endofyear.duckdns.org,duckdns.org,2025-07-12
 njrat,196.251.71.173,7788,196.251.70.0/23,,,2025-07-11
-nanocore,198.23.200.93,8634,198.23.200.0/21,ducktipo.duckdns.org,duckdns.org,2025-07-11
 njrat,41.142.139.73,19811,41.142.128.0/18,bokkuvirde.ddns.net,ddns.net,2025-07-11
 njrat,193.161.193.99,37068,193.161.193.0/24,mrtamdas-37068.portmap.io,portmap.io,2025-07-11
 redline,178.250.188.181,4226,178.250.188.0/24,,,2025-07-11
