@@ -1,5 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-26
+njrat,87.242.106.13,44333,87.242.104.0/21,tcp.cloudpub.ru,cloudpub.ru,2025-07-26
+darkcomet,66.63.187.164,8595,66.63.187.0/24,,,2025-07-26
 redline,176.46.152.46,1912,176.46.152.0/24,,,2025-07-25
 njrat,147.185.221.30,26212,147.185.221.0/24,art-infinite.gl.at.ply.gg,ply.gg,2025-07-25
 nanocore,147.185.221.21,32644,147.185.221.0/24,survey-push.gl.at.ply.gg,ply.gg,2025-07-25
