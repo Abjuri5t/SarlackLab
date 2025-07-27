@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.126.224.214,18065,3.120.0.0/13,7.tcp.eu.ngrok.io,ngrok.io,2025-07-27
+njrat,35.156.141.157,1337,35.156.0.0/14,,,2025-07-27
 redline,176.46.152.46,1912,176.46.152.0/24,,,2025-07-27
 redline,196.251.83.29,1912,196.251.83.0/24,,,2025-07-26
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-26
