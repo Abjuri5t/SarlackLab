@@ -1,5 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,176.46.152.46,1911,176.46.152.0/24,,,2025-07-31
+nanocore,192.169.69.26,43367,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-07-31
+nanocore,192.169.69.26,49905,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-07-31
 njrat,87.242.106.13,52703,87.242.104.0/21,tpc.cloudpub.ru,cloudpub.ru,2025-07-30
 njrat,66.63.187.164,8595,66.63.187.0/24,,,2025-07-30
 lokibot,34.41.139.193,80,34.40.0.0/13,reudic.ga,reudic.ga,2025-07-30
@@ -47,7 +49,6 @@ njrat,41.142.139.73,19811,41.142.128.0/18,bokkuvirde.ddns.net,ddns.net,2025-07-1
 redline,178.250.188.181,4226,178.250.188.0/24,,,2025-07-11
 njrat,51.89.166.173,6522,51.89.0.0/16,,,2025-07-11
 njrat,147.185.221.28,54493,147.185.221.0/24,about-source.gl.at.ply.gg,ply.gg,2025-07-10
-nanocore,192.169.69.26,49905,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-07-10
 lokibot,103.48.119.160,80,103.48.119.0/24,fashionstune.com,fashionstune.com,2025-07-10
 nanocore,196.251.117.171,15230,196.251.116.0/23,nybenspyhost.duckdns.org,duckdns.org,2025-07-09
 njrat,192.169.69.26,5000,192.169.68.0/22,brolyx92.duckdns.org,duckdns.org,2025-07-09
@@ -81,7 +82,6 @@ njrat,178.156.131.128,6368,178.156.128.0/17,b0dnyoxrn.localto.net,localto.net,20
 nanocore,147.185.221.29,53670,147.185.221.0/24,important-ala.gl.at.ply.gg,ply.gg,2025-06-29
 lokibot,64.190.63.222,80,64.190.62.0/23,tbmr.nut.cc,nut.cc,2025-06-27
 njrat,147.185.221.29,50095,147.185.221.0/24,,,2025-06-27
-nanocore,192.169.69.26,43367,192.169.68.0/22,elroithegodofnsppd.duckdns.org,duckdns.org,2025-06-27
 njrat,147.185.221.29,44673,147.185.221.0/24,results-sand.gl.at.ply.gg,ply.gg,2025-06-27
 njrat,147.185.221.29,47806,147.185.221.0/24,both-burlington.gl.at.ply.gg,ply.gg,2025-06-27
 njrat,103.245.167.123,25565,103.245.167.0/24,,,2025-06-27
