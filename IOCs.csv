@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-08-01
 redline,198.55.98.186,1912,198.55.98.0/24,,,2025-08-01
 nanocore,184.105.237.195,10010,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2025-08-01
 redline,176.46.152.46,1911,176.46.152.0/24,,,2025-08-01
@@ -41,7 +42,6 @@ njrat,193.161.193.99,37068,193.161.193.0/24,mrtamdas-37068.portmap.io,portmap.io
 nanocore,198.23.200.93,8634,198.23.200.0/21,ducktipo.duckdns.org,duckdns.org,2025-07-14
 njrat,134.255.234.40,4782,134.255.234.0/24,,,2025-07-14
 njrat,81.109.131.3,928,81.96.0.0/12,,,2025-07-13
-lokibot,94.156.177.41,80,94.156.177.0/24,,,2025-07-13
 njrat,193.161.193.99,29575,193.161.193.0/24,12r123df-29575.portmap.host,portmap.host,2025-07-12
 njrat,49.228.131.157,6760,49.228.128.0/18,xntryz.thddns.net,thddns.net,2025-07-12
 lokibot,34.229.166.50,80,34.224.0.0/12,flokii.us,flokii.us,2025-07-12
