@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.142.129.56,10984,3.128.0.0/11,8.tcp.ngrok.io,ngrok.io,2025-08-09
+njrat,3.142.81.166,10984,3.128.0.0/11,8.tcp.ngrok.io,ngrok.io,2025-08-09
 njrat,193.161.193.99,41820,193.161.193.0/24,nexhall1221-41820.portmap.host,portmap.host,2025-08-09
 njrat,167.160.161.247,8595,167.160.161.0/24,,,2025-08-08
 redline,198.55.98.194,1912,198.55.98.0/24,,,2025-08-08
