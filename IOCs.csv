@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,198.55.98.186,1912,198.55.98.0/24,,,2025-08-12
 njrat,196.251.73.249,6522,196.251.72.0/23,,,2025-08-12
 njrat,147.185.221.30,60000,147.185.221.0/24,,,2025-08-12
 njrat,196.119.69.99,10000,196.116.0.0/14,doddyfire.linkpc.net,linkpc.net,2025-08-11
@@ -23,7 +24,6 @@ njrat,147.185.221.30,45022,147.185.221.0/24,technology-rome.gl.at.ply.gg,ply.gg,
 njrat,3.127.253.86,16995,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-08-02
 njrat,3.121.139.82,16995,3.120.0.0/13,4.tcp.eu.ngrok.io,ngrok.io,2025-08-02
 njrat,35.158.159.254,16995,35.156.0.0/14,4.tcp.eu.ngrok.io,ngrok.io,2025-08-02
-redline,198.55.98.186,1912,198.55.98.0/24,,,2025-08-01
 nanocore,184.105.237.195,10010,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2025-08-01
 njrat,41.103.158.248,999,41.103.128.0/18,volkatv500.sytes.net,sytes.net,2025-08-01
 njrat,192.169.69.25,52132,192.169.68.0/22,vemvemserver.duckdns.org,duckdns.org,2025-07-31
