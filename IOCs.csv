@@ -1,6 +1,16 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,196.251.116.228,1912,196.251.116.0/23,,,2025-08-25
+redline,176.46.152.46,1911,176.46.152.0/24,,,2025-08-25
+njrat,154.194.35.243,3359,154.194.35.0/24,jkhz10cp2.localto.net,localto.net,2025-08-25
+njrat,192.121.16.196,443,192.121.16.0/23,,,2025-08-25
+njrat,52.28.247.255,15537,52.24.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2025-08-25
+njrat,3.69.157.220,15537,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-08-25
+njrat,147.185.221.30,32744,147.185.221.0/24,al-touring.gl.at.ply.gg,ply.gg,2025-08-25
+nanocore,147.185.221.30,33263,147.185.221.0/24,shall-downloaded.gl.at.ply.gg,ply.gg,2025-08-25
+lokibot,34.229.166.50,80,34.224.0.0/12,infouploads.com,infouploads.com,2025-08-25
+lokibot,18.206.193.214,80,18.204.0.0/14,oct1.xyz,oct1.xyz,2025-08-25
+darkcomet,176.46.152.46,1911,176.46.152.0/24,,,2025-08-25
 njrat,162.243.204.23,1177,162.243.192.0/18,ronymahmoud.casacam.net,casacam.net,2025-08-22
-redline,176.46.152.46,1911,176.46.152.0/24,,,2025-08-21
 lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-08-21
 njrat,147.185.221.30,42419,147.185.221.0/24,center-kate.gl.at.ply.gg,ply.gg,2025-08-20
 njrat,18.159.129.36,1338,18.156.0.0/14,,,2025-08-20
