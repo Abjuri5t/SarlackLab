@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,192.169.69.25,3940,192.169.68.0/22,danishcent.duckdns.org,duckdns.org,2025-08-27
 lokibot,136.243.87.214,80,136.243.0.0/17,ab-services.ma,ab-services.ma,2025-08-27
 nanocore,184.105.237.195,10010,184.105.236.0/23,franex.gotdns.ch,gotdns.ch,2025-08-27
 njrat,172.111.244.137,4030,172.111.244.0/23,suchwoni13.duckdns.org,duckdns.org,2025-08-27
@@ -199,7 +200,6 @@ njrat,188.212.158.75,5556,188.212.158.0/23,,,2025-06-16
 njrat,51.89.166.173,12321,51.89.0.0/16,,,2025-06-16
 nanocore,147.185.221.28,63197,147.185.221.0/24,students-motherboard.gl.at.ply.gg,ply.gg,2025-06-16
 njrat,159.223.193.191,1177,159.223.192.0/19,ronymahmoud.casacam.net,casacam.net,2025-06-15
-nanocore,192.169.69.25,3940,192.169.68.0/22,danishcent.duckdns.org,duckdns.org,2025-06-15
 redline,192.169.7.120,1912,192.169.6.0/23,,,2025-06-15
 njrat,147.185.221.29,19592,147.185.221.0/24,meet-influenced.gl.at.ply.gg,ply.gg,2025-06-14
 darkcomet,138.68.79.95,5019,138.68.64.0/18,serveo.net,serveo.net,2025-06-13
