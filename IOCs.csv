@@ -1,5 +1,11 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
 redline,176.46.152.46,1911,176.46.152.0/24,,,2025-08-30
+njrat,18.153.198.123,18890,18.152.0.0/15,0.tcp.eu.ngrok.io,ngrok.io,2025-08-30
+njrat,52.57.120.10,18890,52.56.0.0/14,0.tcp.eu.ngrok.io,ngrok.io,2025-08-30
+njrat,3.74.27.83,18890,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-08-30
+njrat,3.78.28.71,18890,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-08-30
+njrat,3.71.225.231,18890,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-08-30
+njrat,18.192.31.30,18890,18.192.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2025-08-30
 nanocore,192.169.69.26,8932,192.169.68.0/22,ansrt.duckdns.org,duckdns.org,2025-08-29
 lokibot,192.0.78.25,80,192.0.72.0/21,alongsidecoach.com,alongsidecoach.com,2025-08-29
 njrat,76.72.162.60,1177,76.72.160.0/21,meliodas777.zapto.org,zapto.org,2025-08-29
