@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,103.253.73.180,9080,103.253.72.0/22,,,2025-08-30
 njrat,34.229.166.50,80,34.224.0.0/12,,,2025-08-30
 redline,206.189.175.82,1912,206.189.0.0/16,,,2025-08-30
 nanocore,23.160.168.174,54984,23.160.168.0/24,,,2025-08-30
@@ -275,7 +276,6 @@ njrat,2.4.130.229,5553,2.4.0.0/14,infra.hitius.bar,hitius.bar,2025-05-31
 njrat,181.131.217.135,7010,181.128.0.0/12,microsoftdell1.duckdns.org,duckdns.org,2025-05-31
 nanocore,43.226.229.132,20251,43.226.229.0/24,suchwoni13.duckdns.org,duckdns.org,2025-05-30
 redline,62.60.226.191,1912,62.60.226.0/24,,,2025-05-30
-njrat,103.253.73.180,9080,103.253.72.0/22,,,2025-05-29
 njrat,13.38.45.224,1337,13.36.0.0/14,,,2025-05-29
 lokibot,199.59.243.228,80,199.59.243.0/24,hydeoutent.com,hydeoutent.com,2025-05-29
 njrat,2.4.130.229,5552,2.4.0.0/14,infra.hitius.bar,hitius.bar,2025-05-29
