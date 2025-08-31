@@ -1,4 +1,7 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,3.66.38.117,14147,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-08-31
+njrat,3.68.171.119,14147,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-08-31
+njrat,18.197.239.109,14147,18.192.0.0/13,6.tcp.eu.ngrok.io,ngrok.io,2025-08-31
 redline,51.142.8.214,1912,51.140.0.0/14,,,2025-08-31
 lokibot,34.209.195.255,80,34.208.0.0/12,gamestoredownload.download,gamestoredownload.download,2025-08-30
 njrat,103.253.73.180,9080,103.253.72.0/22,,,2025-08-30
