@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,68.178.145.225,80,68.178.144.0/20,earthtekniks.com,earthtekniks.com,2025-09-01
+lokibot,35.240.133.88,80,35.240.0.0/15,jar-group.com,jar-group.com,2025-09-01
 njrat,193.161.193.99,43006,193.161.193.0/24,mhzlhhhh378-43006.portmap.host,portmap.host,2025-09-01
 njrat,3.69.115.178,14147,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-09-01
 njrat,3.69.157.220,14147,3.64.0.0/12,6.tcp.eu.ngrok.io,ngrok.io,2025-09-01
