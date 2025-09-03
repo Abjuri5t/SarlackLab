@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-09-03
 njrat,178.16.55.70,5552,178.16.52.0/22,,,2025-09-03
 lokibot,3.222.192.211,80,3.220.0.0/14,newhousepanel.info,newhousepanel.info,2025-09-02
 njrat,104.21.54.114,443,104.21.0.0/17,8scom.link,8scom.link,2025-09-01
@@ -44,7 +45,6 @@ lokibot,34.229.166.50,80,34.224.0.0/12,infouploads.com,infouploads.com,2025-08-2
 lokibot,18.206.193.214,80,18.204.0.0/14,oct1.xyz,oct1.xyz,2025-08-25
 darkcomet,176.46.152.46,1911,176.46.152.0/24,,,2025-08-25
 njrat,162.243.204.23,1177,162.243.192.0/18,ronymahmoud.casacam.net,casacam.net,2025-08-22
-lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-08-21
 njrat,147.185.221.30,42419,147.185.221.0/24,center-kate.gl.at.ply.gg,ply.gg,2025-08-20
 njrat,18.159.129.36,1338,18.156.0.0/14,,,2025-08-20
 nanocore,213.209.150.84,1664,213.209.150.0/24,,,2025-08-19
