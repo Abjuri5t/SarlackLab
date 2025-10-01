@@ -1,7 +1,15 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+redline,193.26.115.160,1912,193.26.115.0/24,,,2025-10-01
+njrat,193.161.193.99,30380,193.161.193.0/24,adssdasdaasd875654-30380.portmap.host,portmap.host,2025-10-01
+njrat,185.94.29.239,5645,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
+njrat,178.16.55.70,5552,178.16.52.0/22,,,2025-10-01
+njrat,185.94.29.239,3555,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
+nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-10-01
+lokibot,216.55.179.28,80,216.55.176.0/21,mnbvcxz.biz,mnbvcxz.biz,2025-10-01
+lokibot,52.43.119.120,80,52.40.0.0/14,securebrainwork.site,securebrainwork.site,2025-10-01
+lokibot,94.154.35.238,80,94.154.35.0/24,,,2025-10-01
 nanocore,2.56.246.175,9845,2.56.246.0/24,,,2025-09-16
 redline,41.109.20.78,9000,41.108.0.0/15,stealer.ddns.net,ddns.net,2025-09-15
-njrat,178.16.55.70,5552,178.16.52.0/22,,,2025-09-15
 lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-09-14
 njrat,193.161.193.99,43006,193.161.193.0/24,mhzlhhhh378-43006.portmap.host,portmap.host,2025-09-13
 lokibot,54.146.6.253,80,54.146.0.0/16,pakarabi.net,pakarabi.net,2025-09-13
@@ -274,7 +282,6 @@ njrat,3.78.28.71,12607,3.64.0.0/12,0.tcp.eu.ngrok.io,ngrok.io,2025-06-08
 njrat,18.153.198.123,12607,18.152.0.0/15,0.tcp.eu.ngrok.io,ngrok.io,2025-06-08
 njrat,77.91.66.24,7777,77.91.66.0/24,,,2025-06-08
 njrat,209.25.140.16,5588,209.25.140.0/22,photographers-ecological.with.playit.plus,playit.plus,2025-06-08
-nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-06-08
 nanocore,151.227.44.57,2096,151.224.0.0/13,miraculousubiquity.ddns.net,ddns.net,2025-06-08
 lokibot,103.6.198.192,80,103.6.198.0/24,greenlite.com.sg,com.sg,2025-06-08
 lokibot,54.39.105.175,80,54.36.0.0/14,automatia.in,automatia.in,2025-06-08
@@ -1611,7 +1618,6 @@ redline,185.91.127.219,33455,185.91.127.0/24,,,2024-06-14
 njrat,147.185.221.20,23193,147.185.221.0/24,america-dividend.gl.at.ply.gg,ply.gg,2024-06-14
 redline,52.242.20.137,1912,52.240.0.0/12,,,2024-06-13
 njrat,41.249.41.241,10000,41.249.0.0/17,doddyfire.linkpc.net,linkpc.net,2024-06-13
-lokibot,216.55.179.28,80,216.55.176.0/21,mnbvcxz.biz,mnbvcxz.biz,2024-06-13
 njrat,147.185.221.20,21936,147.185.221.0/24,license-reception.gl.at.ply.gg,ply.gg,2024-06-13
 njrat,3.125.102.39,10942,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-13
 njrat,3.125.223.134,10942,3.120.0.0/13,0.tcp.eu.ngrok.io,ngrok.io,2024-06-13
