@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-10-02
+lokibot,104.21.63.165,80,104.21.0.0/17,montblancgroup.cfd,montblancgroup.cfd,2025-10-02
 lokibot,94.154.35.238,80,94.154.35.0/24,,,2025-10-01
 njrat,147.185.221.211,23974,147.185.221.0/24,conference-plate.gl.at.ply.gg,ply.gg,2025-10-01
 njrat,178.162.203.226,1124,178.162.192.0/18,4Mekey.myftp.biz,myftp.biz,2025-10-01
@@ -13,7 +15,6 @@ lokibot,216.55.179.28,80,216.55.176.0/21,mnbvcxz.biz,mnbvcxz.biz,2025-10-01
 lokibot,52.43.119.120,80,52.40.0.0/14,securebrainwork.site,securebrainwork.site,2025-10-01
 nanocore,2.56.246.175,9845,2.56.246.0/24,,,2025-09-16
 redline,41.109.20.78,9000,41.108.0.0/15,stealer.ddns.net,ddns.net,2025-09-15
-lokibot,34.229.166.50,80,34.224.0.0/12,blesblochem.com,blesblochem.com,2025-09-14
 njrat,193.161.193.99,43006,193.161.193.0/24,mhzlhhhh378-43006.portmap.host,portmap.host,2025-09-13
 lokibot,54.146.6.253,80,54.146.0.0/16,pakarabi.net,pakarabi.net,2025-09-13
 nanocore,82.21.159.41,7777,82.21.158.0/23,,,2025-09-12
