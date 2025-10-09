@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,178.16.55.70,5552,178.16.52.0/22,,,2025-10-08
 lokibot,94.154.35.238,80,94.154.35.0/24,,,2025-10-07
 njrat,41.141.16.187,85,41.141.0.0/17,osnetwork.duckdns.org,duckdns.org,2025-10-07
 nanocore,45.131.65.126,6688,45.131.65.0/24,,,2025-10-06
@@ -14,7 +15,6 @@ njrat,196.251.117.251,50084,196.251.116.0/23,,,2025-10-01
 redline,193.26.115.160,1912,193.26.115.0/24,,,2025-10-01
 njrat,193.161.193.99,30380,193.161.193.0/24,adssdasdaasd875654-30380.portmap.host,portmap.host,2025-10-01
 njrat,185.94.29.239,5645,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
-njrat,178.16.55.70,5552,178.16.52.0/22,,,2025-10-01
 njrat,185.94.29.239,3555,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
 nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-10-01
 lokibot,216.55.179.28,80,216.55.176.0/21,mnbvcxz.biz,mnbvcxz.biz,2025-10-01
