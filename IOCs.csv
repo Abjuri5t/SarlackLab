@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,176.32.230.3,80,176.32.224.0/21,electrico.co.zw,co.zw,2025-10-15
 nanocore,91.92.242.3,7800,91.92.240.0/22,,,2025-10-15
 nanocore,193.161.193.99,24794,193.161.193.0/24,akea-24794.portmap.host,portmap.host,2025-10-15
 nanocore,70.106.203.136,4782,70.106.192.0/18,,,2025-10-14
@@ -57,7 +58,6 @@ lokibot,34.41.139.193,80,34.40.0.0/13,iswellwithme.com,iswellwithme.com,2025-09-
 nanocore,51.68.244.175,1605,51.68.0.0/16,,,2025-09-05
 redline,198.55.98.194,1912,198.55.98.0/24,,,2025-09-05
 nanocore,107.189.21.235,7709,107.189.16.0/21,,,2025-09-05
-lokibot,176.32.230.3,80,176.32.224.0/21,electrico.co.zw,co.zw,2025-09-04
 njrat,196.251.83.209,5085,196.251.83.0/24,,,2025-09-04
 redline,167.94.81.68,1912,167.94.81.0/24,,,2025-09-03
 lokibot,3.222.192.211,80,3.220.0.0/14,newhousepanel.info,newhousepanel.info,2025-09-02
