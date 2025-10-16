@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,206.123.150.79,4785,206.123.150.0/24,wargvan.duckdns.org,duckdns.org,2025-10-16
+lokibot,216.55.179.28,80,216.55.176.0/21,mnbvcxz.biz,mnbvcxz.biz,2025-10-16
 nanocore,206.123.150.39,4785,206.123.150.0/24,wargvan.duckdns.org,duckdns.org,2025-10-16
 lokibot,176.32.230.3,80,176.32.224.0/21,electrico.co.zw,co.zw,2025-10-15
 nanocore,91.92.242.3,7800,91.92.240.0/22,,,2025-10-15
@@ -34,7 +36,6 @@ njrat,193.161.193.99,30380,193.161.193.0/24,adssdasdaasd875654-30380.portmap.hos
 njrat,185.94.29.239,5645,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
 njrat,185.94.29.239,3555,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
 nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-10-01
-lokibot,216.55.179.28,80,216.55.176.0/21,mnbvcxz.biz,mnbvcxz.biz,2025-10-01
 lokibot,52.43.119.120,80,52.40.0.0/14,securebrainwork.site,securebrainwork.site,2025-10-01
 nanocore,2.56.246.175,9845,2.56.246.0/24,,,2025-09-16
 redline,41.109.20.78,9000,41.108.0.0/15,stealer.ddns.net,ddns.net,2025-09-15
