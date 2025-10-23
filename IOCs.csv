@@ -1,4 +1,6 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,172.67.146.22,8080,172.67.128.0/17,wss.fr1day.icu,fr1day.icu,2025-10-23
+nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-10-23
 lokibot,104.21.39.18,80,104.21.0.0/17,sellea-ims.cfd,sellea-ims.cfd,2025-10-23
 nanocore,178.16.55.254,2079,178.16.52.0/22,,,2025-10-23
 njrat,196.119.146.16,10000,196.116.0.0/14,doddyfire.linkpc.net,linkpc.net,2025-10-20
@@ -40,7 +42,6 @@ redline,193.26.115.160,1912,193.26.115.0/24,,,2025-10-01
 njrat,193.161.193.99,30380,193.161.193.0/24,adssdasdaasd875654-30380.portmap.host,portmap.host,2025-10-01
 njrat,185.94.29.239,5645,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
 njrat,185.94.29.239,3555,185.94.29.0/24,ventasvictorinos.duckdns.org,duckdns.org,2025-10-01
-nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-10-01
 lokibot,52.43.119.120,80,52.40.0.0/14,securebrainwork.site,securebrainwork.site,2025-10-01
 nanocore,2.56.246.175,9845,2.56.246.0/24,,,2025-09-16
 redline,41.109.20.78,9000,41.108.0.0/15,stealer.ddns.net,ddns.net,2025-09-15
