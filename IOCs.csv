@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+njrat,193.161.193.99,30205,193.161.193.0/24,dot9-30205.portmap.host,portmap.host,2025-10-30
 nanocore,196.251.85.150,7777,196.251.84.0/22,,,2025-10-30
 njrat,172.111.244.134,4030,172.111.244.0/23,suchwoni13.duckdns.org,duckdns.org,2025-10-30
 darkcomet,158.178.196.68,6227,158.178.192.0/19,z9kahfjxc.localto.net,localto.net,2025-10-29
