@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+nanocore,178.16.55.254,2079,178.16.52.0/22,,,2025-11-04
 nanocore,172.86.91.125,7709,172.86.88.0/22,,,2025-11-03
 njrat,147.185.221.212,8534,147.185.221.0/24,academic-suits.gl.at.ply.gg,ply.gg,2025-11-03
 njrat,147.185.221.212,1416,147.185.221.0/24,ideas-anniversary.gl.at.ply.gg,ply.gg,2025-11-03
@@ -23,7 +24,6 @@ lokibot,104.21.39.18,80,104.21.0.0/17,sellea-ims.cfd,sellea-ims.cfd,2025-10-23
 lokibot,172.67.142.33,80,172.67.128.0/17,sellea-ims.cfd,sellea-ims.cfd,2025-10-23
 nanocore,172.67.146.22,8080,172.67.128.0/17,wss.fr1day.icu,fr1day.icu,2025-10-23
 nanocore,216.218.135.118,7771,216.218.128.0/18,graceland777.ddns.net,ddns.net,2025-10-23
-nanocore,178.16.55.254,2079,178.16.52.0/22,,,2025-10-23
 njrat,196.119.146.16,10000,196.116.0.0/14,doddyfire.linkpc.net,linkpc.net,2025-10-20
 njrat,104.236.12.182,1177,104.236.0.0/16,ronymahmoud.casacam.net,casacam.net,2025-10-20
 lokibot,176.32.230.3,80,176.32.224.0/21,electrico.co.zw,co.zw,2025-10-20
