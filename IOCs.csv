@@ -1,4 +1,5 @@
 Family,IP Address,Port Number,Hosting Range,Domain Name,Second Level,Last Seen
+lokibot,94.154.35.238,80,94.154.35.0/24,,,2025-11-05
 nanocore,192.169.69.26,50551,192.169.68.0/22,slucasanderson.duckdns.org,duckdns.org,2025-11-05
 nanocore,192.169.69.25,1943,192.169.68.0/22,cjay55.duckdns.org,duckdns.org,2025-11-04
 nanocore,178.16.55.254,2079,178.16.52.0/22,,,2025-11-04
@@ -48,7 +49,6 @@ njrat,147.185.221.229,42061,147.185.221.0/24,nice-chairman.gl.at.ply.gg,ply.gg,2
 redline,103.237.86.27,1912,103.237.86.0/23,,,2025-10-09
 redline,213.209.157.131,1912,213.209.157.0/24,,,2025-10-09
 njrat,178.16.55.70,5552,178.16.52.0/22,,,2025-10-08
-lokibot,94.154.35.238,80,94.154.35.0/24,,,2025-10-07
 njrat,41.141.16.187,85,41.141.0.0/17,osnetwork.duckdns.org,duckdns.org,2025-10-07
 nanocore,45.131.65.126,6688,45.131.65.0/24,,,2025-10-06
 njrat,193.161.193.99,51746,193.161.193.0/24,lsoj0-51746.portmap.host,portmap.host,2025-10-06
